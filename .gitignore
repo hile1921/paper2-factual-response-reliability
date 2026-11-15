@@ -1,0 +1,21 @@
+# Local credentials and machine configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# Generated output
+matlab/output/
+*.asv
+# Full archives, model weights and training corpora remain outside this repository
+*.zip
+*.tar
+*.tar.gz
+*.safetensors
+*.ckpt
+*.pt
+*.pth

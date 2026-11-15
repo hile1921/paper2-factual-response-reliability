@@ -1,0 +1,10 @@
+source_csv_data_row,model,prop,B_early,B_late,diff,ci_lo,ci_hi,n_subjects,excludes_zero
+1,OLMo-1B,capital,0.2917,0.0291,0.2625,0.177,0.3508,90,True
+2,OLMo-1B,country,0.0,0.0,0.0,0.0,0.0,183,False
+3,OLMo-1B,all,0.2902,0.0288,0.2613,0.1773,0.3532,272,True
+4,Pythia-1B,capital,0.2191,0.0614,0.1577,0.1081,0.2179,90,True
+5,Pythia-1B,country,0.0,0.0,0.0,0.0,0.0,183,False
+6,Pythia-1B,all,0.2181,0.0614,0.1568,0.1067,0.2148,272,True
+7,Pythia-410M,capital,0.3745,0.145,0.2295,0.1379,0.3305,90,True
+8,Pythia-410M,country,0.0,0.0,0.0,0.0,0.0,183,False
+9,Pythia-410M,all,0.3701,0.1447,0.2254,0.137,0.3243,272,True

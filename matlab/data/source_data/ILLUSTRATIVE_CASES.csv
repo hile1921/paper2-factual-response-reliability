@@ -1,0 +1,20 @@
+panel,source_row,model,step,subject,prompt,condition,output_full,output_display,label,selection
+C1,172065,Pythia-410M,1000,Belarus,The capital of Belarus is,," the largest city in the world.
+
+The city is",the largest city in the world.,nonanswer,"Belarus: alphabetically first capital subject with recorded early nonanswer, middle confirmed error and late verified target span; illustrative only"
+C1,251235,Pythia-410M,30000,Belarus,The capital of Belarus is,," the city of Krasnoyarsk.
+
+",the city of Krasnoyarsk.,wrong_confirmed,"Belarus: alphabetically first capital subject with recorded early nonanswer, middle confirmed error and late verified target span; illustrative only"
+C1,215745,Pythia-410M,143000,Belarus,The capital of Belarus is,," Minsk.
+
+References
+
+Category:Populated",Minsk.,correct_verified,"Belarus: alphabetically first capital subject with recorded early nonanswer, middle confirmed error and late verified target span; illustrative only"
+C2,90,LMEnt-1B-6E,10000,Belarus,The capital of Belarus is,sample s0," located in the capital of the country.
+
+The 2008",located in the capital of the country.,Non-responsive,"Same Belarus fact to explain the matched readouts; fixed sample s0, not chosen for favourable output"
+C2,700,LMEnt-1B-6E,340000,Belarus,The capital of Belarus is,sample s0," Minsk. Minsk is the capital of Belarus, but",Minsk.,initial_claim_verified,"Same Belarus fact to explain the matched readouts; fixed sample s0, not chosen for favourable output"
+C2,1310,LMEnt-1B-6E,658032,Belarus,The capital of Belarus is,sample s0, Minsk. It has the status of a national city and,Minsk.,initial_claim_verified,"Same Belarus fact to explain the matched readouts; fixed sample s0, not chosen for favourable output"
+C3,44211,olmo-1b_step369000-tokens1547B,369000,Tuvalu,The capital of Tuvalu is,C_true," Funafuti.
+The capital of Vanuatu is",Funafuti.,reference_name_detected,"Fixed Tuvalu-Noumea probe and OLMo 1547B setting; first qualifying output per arm; illustrative samples, not paired-seed effect estimates"
+C3,44401,olmo-1b_step369000-tokens1547B,369000,Tuvalu,The capital of Tuvalu is,G_bare, Noumea. Noumea is the largest,Noumea.,designated_name_detected,"Fixed Tuvalu-Noumea probe and OLMo 1547B setting; first qualifying output per arm; illustrative samples, not paired-seed effect estimates"

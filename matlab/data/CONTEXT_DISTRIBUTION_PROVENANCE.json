@@ -1,0 +1,12 @@
+{
+  "source": "project_archive/next_stage\\c2_c3_phaseI_final_closure_20261113\\Paper2_PhaseI_Repro\\inputs\\raw_v9.csv",
+  "sha256": "3bd3a1456a8071fe84a9907eee120a56eaedeb0242d0777d9b975ebdc85216e5",
+  "outputs": 184000,
+  "pairs": 46,
+  "countries": 29,
+  "settings": 4,
+  "pair_condition_cells": 920,
+  "country_condition_cells": 580,
+  "exact_match_to_frozen_condition_counts": true,
+  "new_inferential_tests": false
+}

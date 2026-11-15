@@ -1,0 +1,8 @@
+arm,id,experiment,context,context_words,city_final,target_country,gold,wrong_answer,wrong_of,false_country,template,prompt,source_uid,source_fact_id
+A_none,v9|Tuvalu|Noumea|t0|A_none,arms,,0,False,Tuvalu,Funafuti,Noumea,New Caledonia,County Durham,0,The capital of Tuvalu is,2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target
+B_filler,v9|Tuvalu|Noumea|t0|B_filler,arms,"The weather in the region changes with the season.
+Trade routes in the area developed over many centuries.
+Local languages vary between neighbouring districts.",24,False,Tuvalu,Funafuti,Noumea,New Caledonia,County Durham,0,The capital of Tuvalu is,2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target
+C_true,v9|Tuvalu|Noumea|t0|C_true,arms,The capital city of New Caledonia is Noumea.,8,True,Tuvalu,Funafuti,Noumea,New Caledonia,County Durham,0,The capital of Tuvalu is,2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target
+F_false,v9|Tuvalu|Noumea|t0|F_false,arms,The capital city of County Durham is Noumea.,8,True,Tuvalu,Funafuti,Noumea,New Caledonia,County Durham,0,The capital of Tuvalu is,2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target
+G_bare,v9|Tuvalu|Noumea|t0|G_bare,arms,Another city in the wider region is Noumea.,8,True,Tuvalu,Funafuti,Noumea,New Caledonia,County Durham,0,The capital of Tuvalu is,2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target

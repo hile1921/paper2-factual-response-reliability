@@ -1,0 +1,259 @@
+﻿iso,city,city_code,location,capital_type,wup_row
+AF,Kābul (Kabul),4703,Afghanistan,National capital,2
+AL,Tiranë (Tirana),695,Albania,National capital,3
+DZ,El Djazaïr (Algiers),3444,Algeria,National capital,4
+AS,Fagatogo (Pago Pago),2,American Samoa,Territorial capital/Seat of government,5
+AD,Andorra la Vella,63,Andorra,National capital,6
+AO,Luanda,939,Angola,National capital,7
+AI,The Valley,977,Anguilla,Territorial capital,8
+AG,Saint John's,32,Antigua and Barbuda,National capital,9
+AR,Buenos Aires,4459,Argentina,National capital,10
+AM,Yerevan,451,Armenia,National capital,11
+AW,Oranjestad,25,Aruba,Territorial capital,12
+AU,Canberra,11107,Australia,National capital,13
+AT,Wien (Vienna),1054,Austria,National capital,14
+AZ,Bakı (Baku),2348,Azerbaijan,National capital,15
+BS,Nassau,17,Bahamas,National capital,16
+BH,Al-Manāmah (Manama),140,Bahrain,National capital,17
+BD,Dhaka,6249,Bangladesh,National capital,18
+BB,Bridgetown,27,Barbados,National capital,19
+BY,Minsk,704,Belarus,National capital,20
+BE,Bruxelles (Brussels),1157,Belgium,National capital,21
+BZ,Belmopan,558,Belize,National capital,22
+BJ,Cotonou,1752,Benin,Seat of Government/Economic/De facto Capital,23
+BJ,Porto-Novo,2241,Benin,National capital/Legislative Capital,24
+BM,Hamilton,910,Bermuda,Territorial capital,25
+BT,Thimphu,157,Bhutan,National capital,26
+BO,La Paz,197,Bolivia (Plurinational State of),Seat of Government/Administrative Capital,27
+BO,Sucre,1021,Bolivia (Plurinational State of),National capital/Constitutional/Judicial Capital,28
+BQ,Kralendijk (Bonaire),741,"Bonaire, Sint Eustatius and Saba",Admin centers for each island,29
+BQ,Oranjestad (Sint Eustatius),1159,"Bonaire, Sint Eustatius and Saba",Admin centers for each island,30
+BQ,The Bottom (Saba),604,"Bonaire, Sint Eustatius and Saba",Admin centers for each island,31
+BA,Sarajevo,409,Bosnia and Herzegovina,National capital,32
+BW,Gaborone,428,Botswana,National capital,33
+BR,Brasília,5833,Brazil,National capital,34
+VG,Road Town,400,British Virgin Islands,Territorial capital,35
+BN,Bandar Seri Begawan,169,Brunei Darussalam,National capital,36
+BG,Sofia,100,Bulgaria,National capital,37
+BF,Ouagadougou,1748,Burkina Faso,National capital,38
+BI,Bujumbura,279,Burundi,Economic Capital/Former Capital,39
+BI,Gitega,1186,Burundi,National capital/Political Capital,40
+CV,Praia,553,Cabo Verde,National capital,41
+KH,Phnum Pénh (Phnom Penh),1225,Cambodia,National capital,42
+CM,Yaoundé,2324,Cameroon,National capital,43
+CA,Ottawa,3488,Canada,National capital,44
+KY,George Town,18,Cayman Islands,Territorial capital,45
+CF,Bangui,564,Central African Republic,National capital,46
+TD,N'Djaména,407,Chad,National capital,47
+CL,Santiago,2380,Chile,National capital/Executive/Judicial Capital,48
+CL,Valparaíso,1020,Chile,Legislative Capital,49
+CN,Beijing,9020,China,National capital,50
+HK,Tamar (Hong Kong),11566,"China, Hong Kong SAR",Territorial capital,51
+MO,Macao (Macau–Zhuhai),11460,"China, Macao SAR",Territorial capital,52
+TW,Taipei,12128,"China, Taiwan Province of China",Territorial capital,53
+CO,Bogotá,3883,Colombia,National capital,54
+KM,Moroni,137,Comoros,National capital,55
+CG,Brazzaville,554,Congo,National capital,56
+CK,Avarua,951,Cook Islands,National capital,57
+CR,San José,346,Costa Rica,National capital,58
+HR,Zagreb,402,Croatia,National capital,59
+CU,La Habana (Havana),350,Cuba,National capital,60
+CW,Willemstad,571,Curaçao,Territorial capital,61
+CY,Lefkosia (Nicosia),434,Cyprus,National capital,62
+CZ,Praha (Prague),542,Czechia,National capital,63
+CI,Abidjan,3439,Côte d'Ivoire,Seat of Government/Economic Capital/De facto capital,64
+CI,Yamoussoukro,2740,Côte d'Ivoire,National capital,65
+KP,P'yŏngyang (Pyongyang),3737,Dem. People's Republic of Korea,National capital,66
+CD,Kinshasa,1854,Democratic Republic of the Congo,National capital,67
+DK,København (Copenhagen),680,Denmark,National capital,68
+DJ,Djibouti,601,Djibouti,National capital,69
+DM,Roseau,33,Dominica,National capital,70
+DO,Santo Domingo,1455,Dominican Republic,National capital,71
+EC,Quito,2524,Ecuador,National capital,72
+EG,Al-Qahirah (Cairo),4435,Egypt,National capital,73
+SV,San Salvador,893,El Salvador,National capital,74
+GQ,Malabo,67,Equatorial Guinea,National capital,75
+ER,Asmara,730,Eritrea,National capital,76
+EE,Tallinn,91,Estonia,National capital,77
+SZ,Lobamba,296,Eswatini,Legislative/Royal Capital,78
+SZ,Mbabane,487,Eswatini,National capital/Administrative Capital,79
+ET,Ādīs Ᾱbeba (Addis Ababa),6353,Ethiopia,National capital,80
+FK,Stanley,1524,Falkland Islands (Malvinas),Territorial capital,81
+FO,Tórshavn,247,Faroe Islands,Territorial capital,82
+FJ,Suva,338,Fiji,National capital,83
+FI,Helsinki (Helsingfors),555,Finland,National capital,84
+FR,Paris,2994,France,National capital,85
+GF,Cayenne,362,French Guiana,Territorial capital,86
+PF,Papeete,2,French Polynesia,Territorial capital,87
+GA,Libreville,396,Gabon,National capital,88
+GM,Banjul,754,Gambia,National capital,89
+GE,Tbilisi,450,Georgia,National capital,90
+DE,Berlin,5576,Germany,National capital,91
+GH,Accra,3336,Ghana,National capital,92
+GI,Gibraltar,2607,Gibraltar,Territorial capital,93
+GR,Athína (Athens),833,Greece,National capital,94
+GL,Nuuk,40,Greenland,Territorial capital,95
+GD,Saint George's,221,Grenada,National capital,96
+GP,Basse-Terre,403,Guadeloupe,Territorial capital,97
+GU,Hagåtña,52649,Guam,Territorial capital,98
+GT,Ciudad de Guatemala (Guatemala City),2063,Guatemala,National capital,99
+GG,Saint Peter Port,22585,Guernsey,Territorial capital,100
+GN,Conakry,1395,Guinea,National capital,101
+GW,Bissau,37,Guinea-Bissau,National capital,102
+GY,Georgetown,28,Guyana,National capital,103
+HT,Port-au-Prince,1351,Haiti,National capital,104
+VA,Vatican City,4156,Holy See,National capital,105
+HN,Tegucigalpa,1343,Honduras,National capital,106
+HU,Budapest,942,Hungary,National capital,107
+IS,Reykjavík,42,Iceland,National capital,108
+IN,New Delhi,8364,India,National capital,109
+ID,Jakarta,5590,Indonesia,National capital,110
+IR,Tehrān (Tehran),5264,Iran (Islamic Republic of),National capital,111
+IQ,Baghdād (Baghdad),3303,Iraq,National capital,112
+IE,Dublin,377,Ireland,National capital,113
+IM,Douglas,8746,Isle of Man,Territorial capital,114
+IL,Jerusalem,2488,Israel,National capital,115
+IT,Roma (Rome),4156,Italy,National capital,116
+JM,Kingston,776,Jamaica,National capital,117
+JP,Tōkyō (Tokyo),6030,Japan,National capital,118
+JE,Saint Helier,3935,Jersey,Territorial capital,119
+JO,Ammān (Amman),850,Jordan,National capital,120
+KZ,Astana,1705,Kazakhstan,National capital,121
+KE,Nairobi,2033,Kenya,National capital,122
+KI,South Tarawa,550,Kiribati,National capital/Administrative capital,123
+XK,Prishtina (Pristina),698,Kosovo (under UNSC res. 1244),Territorial capital,124
+KW,Al Kuwayt (Kuwait City),305,Kuwait,National capital,125
+KG,Bishkek,987,Kyrgyzstan,National capital,126
+LA,Viangchan (Vientiane),326,Lao People's Democratic Republic,National capital,127
+LV,Riga,260,Latvia,National capital,128
+LB,Bayrūt (Beirut),441,Lebanon,National capital,129
+LS,Maseru,107,Lesotho,National capital,130
+LR,Monrovia,44,Liberia,National capital,131
+LY,Ţarābulus (Tripoli),400,Libya,National capital,132
+LI,Vaduz,72,Liechtenstein,National capital,133
+LT,Vilnius,699,Lithuania,National capital,134
+LU,Luxembourg-Ville,59,Luxembourg,National capital,135
+MG,Antananarivo,1961,Madagascar,National capital,136
+MW,Lilongwe,444,Malawi,National capital,137
+MY,Kuala Lumpur,1629,Malaysia,National capital/Royal/Legislative Capital,138
+MY,Putrajaya,1893,Malaysia,National capital/Administrative/Judicial Capital,139
+MV,Malé,152,Maldives,National capital,140
+ML,Bamako,374,Mali,National capital,141
+MT,Valletta,78,Malta,National capital,142
+MH,Mājro (Majuro),189,Marshall Islands,National capital,143
+MQ,Fort-de-France,200,Martinique,Territorial capital,144
+MR,Nouakchott,207,Mauritania,National capital,145
+MU,Port Louis,146,Mauritius,National capital,146
+YT,Mamoudzou,4950,Mayotte,Territorial capital,147
+MX,Ciudad de México (Mexico City),5439,Mexico,National capital,148
+FM,Palikir,386,Micronesia (Fed. States of),National capital,149
+MC,Monaco,4867,Monaco,National capital,150
+MN,Ulaanbaatar,320,Mongolia,National capital,151
+ME,Cetinje,806,Montenegro,Seat of the President,152
+ME,Podgorica,256,Montenegro,National capital,153
+MS,Brades Estate,1339,Montserrat,De facto capital,154
+MS,Plymouth,,Montserrat,Territorial capital/De jure capital (evacuated due to volcano),155
+MA,Rabat,2739,Morocco,National capital,156
+MZ,Maputo,116,Mozambique,National capital,157
+MM,Nay Pyi Taw,4412,Myanmar,National capital,158
+NA,Windhoek,411,Namibia,National capital,159
+NR,Yaren,184,Nauru,National capital/De facto capital,160
+NP,Kathmandu,1712,Nepal,National capital,161
+NL,Amsterdam,1754,Netherlands,National capital/Constitutional Capital,162
+NL,The Hague,228,Netherlands,Seat of Government/Administrative/Judicial Capital,163
+NC,Nouméa,5126,New Caledonia,Territorial capital,164
+NZ,Wellington,486,New Zealand,National capital,165
+NI,Managua,345,Nicaragua,National capital,166
+NE,Niamey,530,Niger,National capital,167
+NG,Abuja,7704,Nigeria,National capital,168
+NU,Alofi,,Niue,National capital,169
+MK,Skopje,266,North Macedonia,National capital,170
+MP,Saipan,42114,Northern Mariana Islands,Territorial capital,171
+NO,Oslo,931,Norway,National capital,172
+OM,Masqąt (Muscat),1421,Oman,National capital,173
+PK,Islāmābād,7017,Pakistan,National capital,174
+PW,Koror,179,Palau,Economic Capital/Former Capital,175
+PW,Ngerulmud,,Palau,National capital/Administrative capital,176
+PA,Ciudad de Panamá (Panama City),640,Panama,National capital,177
+PG,Port Moresby,1337,Papua New Guinea,National capital,178
+PY,Asunción,202,Paraguay,National capital,179
+PE,Lima,1987,Peru,National capital,180
+PH,Manila,2369,Philippines,National capital,181
+PL,Warszawa (Warsaw),3660,Poland,National capital,182
+PT,Lisboa (Lisbon),217,Portugal,National capital,183
+PR,San Juan,8242,Puerto Rico,Territorial capital,184
+QA,Ad-Dawhah (Doha),141,Qatar,National capital,185
+KR,Sejong,10339,Republic of Korea,De facto administrative capital,186
+KR,Seoul,332,Republic of Korea,National capital,187
+MD,Chișinău,426,Republic of Moldova,National capital,188
+RO,București (Bucharest),2329,Romania,National capital,189
+RU,Moskva (Moscow),2485,Russian Federation,National capital,190
+RW,Kigali,580,Rwanda,National capital,191
+RE,Saint-Denis,5051,Réunion,Territorial capital,192
+BL,Gustavia,1027,Saint Barthélemy,Territorial capital,193
+SH,Jamestown (Saint Helena),1897,Saint Helena,Territorial capital,194
+KN,Basseterre,28,Saint Kitts and Nevis,National capital,195
+LC,Castries,223,Saint Lucia,National capital,196
+MF,Marigot,219,Saint Martin (French part),Territorial capital,197
+PM,Saint-Pierre,13960,Saint Pierre and Miquelon,Territorial capital,198
+VC,Kingstown,222,Saint Vincent and the Grenadines,National capital,199
+WS,Apia,377,Samoa,National capital,200
+SM,San Marino,80,San Marino,National capital,201
+ST,São Tomé,62,Sao Tome and Principe,National capital,202
+SA,Ar-Riyāḑ (Riyadh),2961,Saudi Arabia,National capital,203
+SN,Dakar,33,Senegal,National capital,204
+RS,Beograd (Belgrade),556,Serbia,National capital,205
+SC,Victoria,158,Seychelles,National capital,206
+SL,Freetown,41,Sierra Leone,National capital,207
+SG,Singapore,165,Singapore,National capital,208
+SX,Philipsburg,907,Sint Maarten (Dutch part),Territorial capital,209
+SK,Bratislava,80,Slovakia,National capital,210
+SI,Ljubljana,73,Slovenia,National capital,211
+SB,Honiara,175,Solomon Islands,National capital,212
+SO,Muqdisho (Mogadishu),3197,Somalia,National capital,213
+ZA,Bloemfontein,2556,South Africa,Judicial Capital,214
+ZA,Cape Town,413,South Africa,Legislative Capital,215
+ZA,Pretoria,4244,South Africa,National capital/Administrative/Executive Capital,216
+SS,Juba,1076,South Sudan,National capital,217
+ES,Madrid,3440,Spain,National capital,218
+LK,Sri Jayawardenepura Kotte - Colombo,615,Sri Lanka,"National capital/Legislative Capital, Executive/Judicial/Commercial Capital",219
+LK,Sri Jayawardenepura Kotte - Colombo,615,Sri Lanka,"National capital/Legislative Capital, Executive/Judicial/Commercial Capital",220
+PS,Al-Quds (East Jerusalem),1402,State of Palestine,National capital,221
+SD,Al-Kharṭūm (Khartoum),4325,Sudan,National capital,222
+SR,Paramaribo,29,Suriname,National capital,223
+SE,Stockholm,1672,Sweden,National capital,224
+CH,Berne (Bern),930,Switzerland,National capital/De facto capital/Federal administrative city,225
+SY,Dimashq (Damascus),1404,Syrian Arab Republic,National capital,226
+TJ,Dushanbe,1212,Tajikistan,National capital,227
+TH,Krung Thep Maha Nakhon (Bangkok),2286,Thailand,National capital,228
+TL,Dili,172,Timor-Leste,National capital,229
+TG,Lomé,801,Togo,National capital,230
+TK,Atafu,2,Tokelau,No official capital (administrative center rotates annually between the three atolls),231
+TK,Fakaofo,386,Tokelau,No official capital (administrative center rotates annually between the three atolls),232
+TK,Nukunonu,197,Tokelau,No official capital (administrative center rotates annually between the three atolls),233
+TO,Nukuʻalofa,2,Tonga,National capital,234
+TT,Port of Spain,26,Trinidad and Tobago,National capital,235
+TN,Tunis,1378,Tunisia,National capital,236
+TM,Aşgabat (Ashgabat),1095,Turkmenistan,National capital,237
+TC,Cockburn Town,542,Turks and Caicos Islands,Territorial capital,238
+TV,Funafuti,192,Tuvalu,National capital,239
+TR,Ankara,4941,Türkiye,National capital,240
+UG,Kampala,1866,Uganda,National capital,241
+UA,Kyiv (Kiev),2178,Ukraine,National capital,242
+AE,Abū Ẓabī (Abu Dhabi),309,United Arab Emirates,National capital,243
+GB,London,5938,United Kingdom,National capital,244
+TZ,Dar es Salaam,3566,United Republic of Tanzania,Former Capital/Administrative/Judicial/Economic Center,245
+TZ,Dodoma,2954,United Republic of Tanzania,National capital/Legislative Capital,246
+VI,Charlotte Amalie,51394,United States Virgin Islands,Territorial capital,247
+US,"Washington, D.C.",8123,United States of America,National capital,248
+UY,Montevideo,652,Uruguay,National capital,249
+UZ,Toshkent (Tashkent),3082,Uzbekistan,National capital,250
+VU,Port Vila,176,Vanuatu,National capital,251
+VE,Caracas,3791,Venezuela (Bolivarian Republic of),National capital,252
+VN,Hà Nội (Hanoi),1975,Viet Nam,National capital,253
+WF,Meta-Utu (Mata-Utu),196,Wallis and Futuna Islands,Territorial capital,254
+EH,Laayoune (El-Aaiun),371,Western Sahara,Territorial capital,255
+YE,Aden ('Adan),5508,Yemen,Temporary Seat of Government,256
+YE,Şan'ā' (Sana'a),4328,Yemen,National capital/Constitutional Capital,257
+ZM,Lusaka,1498,Zambia,National capital,258
+ZW,Harare,1398,Zimbabwe,National capital,259

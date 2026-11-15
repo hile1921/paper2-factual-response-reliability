@@ -1,0 +1,581 @@
+task,target_country,arm,n,correct_k,wrong_k,correct_pct,wrong_pct
+olmo-1b_step369000-tokens1547B,Argentina,A_none,200,148,0,74.0,0.0
+olmo-1b_step369000-tokens1547B,Argentina,B_filler,200,155,0,77.5,0.0
+olmo-1b_step369000-tokens1547B,Argentina,C_true,200,198,0,99.0,0.0
+olmo-1b_step369000-tokens1547B,Argentina,F_false,200,197,0,98.5,0.0
+olmo-1b_step369000-tokens1547B,Argentina,G_bare,200,107,2,53.5,1.0
+olmo-1b_step369000-tokens1547B,Azerbaijan,A_none,200,158,0,79.0,0.0
+olmo-1b_step369000-tokens1547B,Azerbaijan,B_filler,200,195,0,97.5,0.0
+olmo-1b_step369000-tokens1547B,Azerbaijan,C_true,200,199,0,99.5,0.0
+olmo-1b_step369000-tokens1547B,Azerbaijan,F_false,200,199,0,99.5,0.0
+olmo-1b_step369000-tokens1547B,Azerbaijan,G_bare,200,184,0,92.0,0.0
+olmo-1b_step369000-tokens1547B,Belarus,A_none,400,300,0,75.0,0.0
+olmo-1b_step369000-tokens1547B,Belarus,B_filler,400,385,0,96.25,0.0
+olmo-1b_step369000-tokens1547B,Belarus,C_true,400,400,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Belarus,F_false,400,395,1,98.75,0.25
+olmo-1b_step369000-tokens1547B,Belarus,G_bare,400,359,3,89.75,0.75
+olmo-1b_step369000-tokens1547B,Canada,A_none,400,201,0,50.25,0.0
+olmo-1b_step369000-tokens1547B,Canada,B_filler,400,235,0,58.75,0.0
+olmo-1b_step369000-tokens1547B,Canada,C_true,400,349,0,87.25,0.0
+olmo-1b_step369000-tokens1547B,Canada,F_false,400,338,0,84.5,0.0
+olmo-1b_step369000-tokens1547B,Canada,G_bare,400,217,2,54.25,0.5
+olmo-1b_step369000-tokens1547B,Croatia,A_none,200,156,0,78.0,0.0
+olmo-1b_step369000-tokens1547B,Croatia,B_filler,200,158,0,79.0,0.0
+olmo-1b_step369000-tokens1547B,Croatia,C_true,200,191,0,95.5,0.0
+olmo-1b_step369000-tokens1547B,Croatia,F_false,200,186,0,93.0,0.0
+olmo-1b_step369000-tokens1547B,Croatia,G_bare,200,187,0,93.5,0.0
+olmo-1b_step369000-tokens1547B,Czech Republic,A_none,200,194,0,97.0,0.0
+olmo-1b_step369000-tokens1547B,Czech Republic,B_filler,200,189,0,94.5,0.0
+olmo-1b_step369000-tokens1547B,Czech Republic,C_true,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Czech Republic,F_false,200,182,14,91.0,7.0
+olmo-1b_step369000-tokens1547B,Czech Republic,G_bare,200,144,17,72.0,8.5
+olmo-1b_step369000-tokens1547B,Democratic Republic of the Congo,A_none,400,313,1,78.25,0.25
+olmo-1b_step369000-tokens1547B,Democratic Republic of the Congo,B_filler,400,359,0,89.75,0.0
+olmo-1b_step369000-tokens1547B,Democratic Republic of the Congo,C_true,400,318,0,79.5,0.0
+olmo-1b_step369000-tokens1547B,Democratic Republic of the Congo,F_false,400,282,4,70.5,1.0
+olmo-1b_step369000-tokens1547B,Democratic Republic of the Congo,G_bare,400,293,3,73.25,0.75
+olmo-1b_step369000-tokens1547B,East Timor,A_none,200,74,0,37.0,0.0
+olmo-1b_step369000-tokens1547B,East Timor,B_filler,200,183,0,91.5,0.0
+olmo-1b_step369000-tokens1547B,East Timor,C_true,200,178,0,89.0,0.0
+olmo-1b_step369000-tokens1547B,East Timor,F_false,200,169,3,84.5,1.5
+olmo-1b_step369000-tokens1547B,East Timor,G_bare,200,179,0,89.5,0.0
+olmo-1b_step369000-tokens1547B,French Guiana,A_none,400,92,0,23.0,0.0
+olmo-1b_step369000-tokens1547B,French Guiana,B_filler,400,303,0,75.75,0.0
+olmo-1b_step369000-tokens1547B,French Guiana,C_true,400,305,0,76.25,0.0
+olmo-1b_step369000-tokens1547B,French Guiana,F_false,400,210,7,52.5,1.75
+olmo-1b_step369000-tokens1547B,French Guiana,G_bare,400,224,0,56.0,0.0
+olmo-1b_step369000-tokens1547B,Greenland,A_none,200,93,0,46.5,0.0
+olmo-1b_step369000-tokens1547B,Greenland,B_filler,200,170,0,85.0,0.0
+olmo-1b_step369000-tokens1547B,Greenland,C_true,200,143,0,71.5,0.0
+olmo-1b_step369000-tokens1547B,Greenland,F_false,200,120,0,60.0,0.0
+olmo-1b_step369000-tokens1547B,Greenland,G_bare,200,154,0,77.0,0.0
+olmo-1b_step369000-tokens1547B,Guinea,A_none,400,311,4,77.75,1.0
+olmo-1b_step369000-tokens1547B,Guinea,B_filler,400,392,2,98.0,0.5
+olmo-1b_step369000-tokens1547B,Guinea,C_true,400,384,9,96.0,2.25
+olmo-1b_step369000-tokens1547B,Guinea,F_false,400,277,108,69.25,27.0
+olmo-1b_step369000-tokens1547B,Guinea,G_bare,400,216,73,54.0,18.25
+olmo-1b_step369000-tokens1547B,India,A_none,200,59,0,29.5,0.0
+olmo-1b_step369000-tokens1547B,India,B_filler,200,103,0,51.5,0.0
+olmo-1b_step369000-tokens1547B,India,C_true,200,163,0,81.5,0.0
+olmo-1b_step369000-tokens1547B,India,F_false,200,146,0,73.0,0.0
+olmo-1b_step369000-tokens1547B,India,G_bare,200,80,0,40.0,0.0
+olmo-1b_step369000-tokens1547B,Iraq,A_none,200,150,0,75.0,0.0
+olmo-1b_step369000-tokens1547B,Iraq,B_filler,200,181,0,90.5,0.0
+olmo-1b_step369000-tokens1547B,Iraq,C_true,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Iraq,F_false,200,197,0,98.5,0.0
+olmo-1b_step369000-tokens1547B,Iraq,G_bare,200,140,0,70.0,0.0
+olmo-1b_step369000-tokens1547B,Jordan,A_none,800,206,0,25.75,0.0
+olmo-1b_step369000-tokens1547B,Jordan,B_filler,800,769,0,96.125,0.0
+olmo-1b_step369000-tokens1547B,Jordan,C_true,800,793,0,99.125,0.0
+olmo-1b_step369000-tokens1547B,Jordan,F_false,800,796,0,99.5,0.0
+olmo-1b_step369000-tokens1547B,Jordan,G_bare,800,650,0,81.25,0.0
+olmo-1b_step369000-tokens1547B,Morocco,A_none,400,176,0,44.0,0.0
+olmo-1b_step369000-tokens1547B,Morocco,B_filler,400,225,0,56.25,0.0
+olmo-1b_step369000-tokens1547B,Morocco,C_true,400,313,0,78.25,0.0
+olmo-1b_step369000-tokens1547B,Morocco,F_false,400,282,0,70.5,0.0
+olmo-1b_step369000-tokens1547B,Morocco,G_bare,400,197,0,49.25,0.0
+olmo-1b_step369000-tokens1547B,New Caledonia,A_none,200,36,0,18.0,0.0
+olmo-1b_step369000-tokens1547B,New Caledonia,B_filler,200,154,0,77.0,0.0
+olmo-1b_step369000-tokens1547B,New Caledonia,C_true,200,164,0,82.0,0.0
+olmo-1b_step369000-tokens1547B,New Caledonia,F_false,200,129,0,64.5,0.0
+olmo-1b_step369000-tokens1547B,New Caledonia,G_bare,200,124,1,62.0,0.5
+olmo-1b_step369000-tokens1547B,Nicaragua,A_none,200,148,0,74.0,0.0
+olmo-1b_step369000-tokens1547B,Nicaragua,B_filler,200,177,0,88.5,0.0
+olmo-1b_step369000-tokens1547B,Nicaragua,C_true,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Nicaragua,F_false,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Nicaragua,G_bare,200,152,0,76.0,0.0
+olmo-1b_step369000-tokens1547B,Norway,A_none,200,153,0,76.5,0.0
+olmo-1b_step369000-tokens1547B,Norway,B_filler,200,160,0,80.0,0.0
+olmo-1b_step369000-tokens1547B,Norway,C_true,200,199,0,99.5,0.0
+olmo-1b_step369000-tokens1547B,Norway,F_false,200,197,0,98.5,0.0
+olmo-1b_step369000-tokens1547B,Norway,G_bare,200,172,0,86.0,0.0
+olmo-1b_step369000-tokens1547B,People's Republic of China,A_none,200,158,0,79.0,0.0
+olmo-1b_step369000-tokens1547B,People's Republic of China,B_filler,200,159,0,79.5,0.0
+olmo-1b_step369000-tokens1547B,People's Republic of China,C_true,200,196,4,98.0,2.0
+olmo-1b_step369000-tokens1547B,People's Republic of China,F_false,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,People's Republic of China,G_bare,200,117,39,58.5,19.5
+olmo-1b_step369000-tokens1547B,Russia,A_none,600,455,0,75.83333333333333,0.0
+olmo-1b_step369000-tokens1547B,Russia,B_filler,600,501,0,83.5,0.0
+olmo-1b_step369000-tokens1547B,Russia,C_true,600,590,0,98.33333333333333,0.0
+olmo-1b_step369000-tokens1547B,Russia,F_false,600,561,0,93.5,0.0
+olmo-1b_step369000-tokens1547B,Russia,G_bare,600,499,0,83.16666666666667,0.0
+olmo-1b_step369000-tokens1547B,Sierra Leone,A_none,200,155,0,77.5,0.0
+olmo-1b_step369000-tokens1547B,Sierra Leone,B_filler,200,183,0,91.5,0.0
+olmo-1b_step369000-tokens1547B,Sierra Leone,C_true,200,195,0,97.5,0.0
+olmo-1b_step369000-tokens1547B,Sierra Leone,F_false,200,170,9,85.0,4.5
+olmo-1b_step369000-tokens1547B,Sierra Leone,G_bare,200,130,9,65.0,4.5
+olmo-1b_step369000-tokens1547B,Slovakia,A_none,400,334,0,83.5,0.0
+olmo-1b_step369000-tokens1547B,Slovakia,B_filler,400,334,0,83.5,0.0
+olmo-1b_step369000-tokens1547B,Slovakia,C_true,400,325,37,81.25,9.25
+olmo-1b_step369000-tokens1547B,Slovakia,F_false,400,338,20,84.5,5.0
+olmo-1b_step369000-tokens1547B,Slovakia,G_bare,400,212,77,53.0,19.25
+olmo-1b_step369000-tokens1547B,Slovenia,A_none,400,298,0,74.5,0.0
+olmo-1b_step369000-tokens1547B,Slovenia,B_filler,400,349,0,87.25,0.0
+olmo-1b_step369000-tokens1547B,Slovenia,C_true,400,378,2,94.5,0.5
+olmo-1b_step369000-tokens1547B,Slovenia,F_false,400,342,12,85.5,3.0
+olmo-1b_step369000-tokens1547B,Slovenia,G_bare,400,247,5,61.75,1.25
+olmo-1b_step369000-tokens1547B,South Sudan,A_none,200,133,0,66.5,0.0
+olmo-1b_step369000-tokens1547B,South Sudan,B_filler,200,176,0,88.0,0.0
+olmo-1b_step369000-tokens1547B,South Sudan,C_true,200,174,0,87.0,0.0
+olmo-1b_step369000-tokens1547B,South Sudan,F_false,200,169,0,84.5,0.0
+olmo-1b_step369000-tokens1547B,South Sudan,G_bare,200,137,1,68.5,0.5
+olmo-1b_step369000-tokens1547B,Suriname,A_none,600,434,2,72.33333333333333,0.3333333333333333
+olmo-1b_step369000-tokens1547B,Suriname,B_filler,600,564,0,94.0,0.0
+olmo-1b_step369000-tokens1547B,Suriname,C_true,600,533,12,88.83333333333333,2.0
+olmo-1b_step369000-tokens1547B,Suriname,F_false,600,469,52,78.16666666666667,8.666666666666666
+olmo-1b_step369000-tokens1547B,Suriname,G_bare,600,499,2,83.16666666666667,0.3333333333333333
+olmo-1b_step369000-tokens1547B,Trinidad and Tobago,A_none,400,254,0,63.5,0.0
+olmo-1b_step369000-tokens1547B,Trinidad and Tobago,B_filler,400,314,0,78.5,0.0
+olmo-1b_step369000-tokens1547B,Trinidad and Tobago,C_true,400,309,0,77.25,0.0
+olmo-1b_step369000-tokens1547B,Trinidad and Tobago,F_false,400,312,0,78.0,0.0
+olmo-1b_step369000-tokens1547B,Trinidad and Tobago,G_bare,400,236,0,59.0,0.0
+olmo-1b_step369000-tokens1547B,Tunisia,A_none,400,133,0,33.25,0.0
+olmo-1b_step369000-tokens1547B,Tunisia,B_filler,400,285,0,71.25,0.0
+olmo-1b_step369000-tokens1547B,Tunisia,C_true,400,357,0,89.25,0.0
+olmo-1b_step369000-tokens1547B,Tunisia,F_false,400,308,0,77.0,0.0
+olmo-1b_step369000-tokens1547B,Tunisia,G_bare,400,256,0,64.0,0.0
+olmo-1b_step369000-tokens1547B,Tuvalu,A_none,200,13,0,6.5,0.0
+olmo-1b_step369000-tokens1547B,Tuvalu,B_filler,200,51,0,25.5,0.0
+olmo-1b_step369000-tokens1547B,Tuvalu,C_true,200,30,10,15.0,5.0
+olmo-1b_step369000-tokens1547B,Tuvalu,F_false,200,14,64,7.0,32.0
+olmo-1b_step369000-tokens1547B,Tuvalu,G_bare,200,11,84,5.5,42.0
+olmo-1b_step369000-tokens1547B,Uganda,A_none,200,172,0,86.0,0.0
+olmo-1b_step369000-tokens1547B,Uganda,B_filler,200,195,0,97.5,0.0
+olmo-1b_step369000-tokens1547B,Uganda,C_true,200,200,0,100.0,0.0
+olmo-1b_step369000-tokens1547B,Uganda,F_false,200,193,0,96.5,0.0
+olmo-1b_step369000-tokens1547B,Uganda,G_bare,200,184,0,92.0,0.0
+olmo-1b_step738020-tokens3094B,Argentina,A_none,200,141,0,70.5,0.0
+olmo-1b_step738020-tokens3094B,Argentina,B_filler,200,166,0,83.0,0.0
+olmo-1b_step738020-tokens3094B,Argentina,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Argentina,F_false,200,192,5,96.0,2.5
+olmo-1b_step738020-tokens3094B,Argentina,G_bare,200,100,2,50.0,1.0
+olmo-1b_step738020-tokens3094B,Azerbaijan,A_none,200,174,0,87.0,0.0
+olmo-1b_step738020-tokens3094B,Azerbaijan,B_filler,200,195,0,97.5,0.0
+olmo-1b_step738020-tokens3094B,Azerbaijan,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Azerbaijan,F_false,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Azerbaijan,G_bare,200,185,0,92.5,0.0
+olmo-1b_step738020-tokens3094B,Belarus,A_none,400,279,0,69.75,0.0
+olmo-1b_step738020-tokens3094B,Belarus,B_filler,400,393,0,98.25,0.0
+olmo-1b_step738020-tokens3094B,Belarus,C_true,400,400,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Belarus,F_false,400,394,4,98.5,1.0
+olmo-1b_step738020-tokens3094B,Belarus,G_bare,400,356,1,89.0,0.25
+olmo-1b_step738020-tokens3094B,Canada,A_none,400,181,0,45.25,0.0
+olmo-1b_step738020-tokens3094B,Canada,B_filler,400,230,0,57.5,0.0
+olmo-1b_step738020-tokens3094B,Canada,C_true,400,380,0,95.0,0.0
+olmo-1b_step738020-tokens3094B,Canada,F_false,400,360,0,90.0,0.0
+olmo-1b_step738020-tokens3094B,Canada,G_bare,400,253,0,63.25,0.0
+olmo-1b_step738020-tokens3094B,Croatia,A_none,200,135,0,67.5,0.0
+olmo-1b_step738020-tokens3094B,Croatia,B_filler,200,137,0,68.5,0.0
+olmo-1b_step738020-tokens3094B,Croatia,C_true,200,190,0,95.0,0.0
+olmo-1b_step738020-tokens3094B,Croatia,F_false,200,179,0,89.5,0.0
+olmo-1b_step738020-tokens3094B,Croatia,G_bare,200,179,0,89.5,0.0
+olmo-1b_step738020-tokens3094B,Czech Republic,A_none,200,159,0,79.5,0.0
+olmo-1b_step738020-tokens3094B,Czech Republic,B_filler,200,174,0,87.0,0.0
+olmo-1b_step738020-tokens3094B,Czech Republic,C_true,200,193,0,96.5,0.0
+olmo-1b_step738020-tokens3094B,Czech Republic,F_false,200,159,9,79.5,4.5
+olmo-1b_step738020-tokens3094B,Czech Republic,G_bare,200,126,8,63.0,4.0
+olmo-1b_step738020-tokens3094B,Democratic Republic of the Congo,A_none,400,327,0,81.75,0.0
+olmo-1b_step738020-tokens3094B,Democratic Republic of the Congo,B_filler,400,313,0,78.25,0.0
+olmo-1b_step738020-tokens3094B,Democratic Republic of the Congo,C_true,400,366,0,91.5,0.0
+olmo-1b_step738020-tokens3094B,Democratic Republic of the Congo,F_false,400,336,13,84.0,3.25
+olmo-1b_step738020-tokens3094B,Democratic Republic of the Congo,G_bare,400,291,11,72.75,2.75
+olmo-1b_step738020-tokens3094B,East Timor,A_none,200,154,0,77.0,0.0
+olmo-1b_step738020-tokens3094B,East Timor,B_filler,200,175,0,87.5,0.0
+olmo-1b_step738020-tokens3094B,East Timor,C_true,200,178,0,89.0,0.0
+olmo-1b_step738020-tokens3094B,East Timor,F_false,200,154,5,77.0,2.5
+olmo-1b_step738020-tokens3094B,East Timor,G_bare,200,147,0,73.5,0.0
+olmo-1b_step738020-tokens3094B,French Guiana,A_none,400,243,0,60.75,0.0
+olmo-1b_step738020-tokens3094B,French Guiana,B_filler,400,383,0,95.75,0.0
+olmo-1b_step738020-tokens3094B,French Guiana,C_true,400,392,0,98.0,0.0
+olmo-1b_step738020-tokens3094B,French Guiana,F_false,400,350,0,87.5,0.0
+olmo-1b_step738020-tokens3094B,French Guiana,G_bare,400,333,0,83.25,0.0
+olmo-1b_step738020-tokens3094B,Greenland,A_none,200,118,0,59.0,0.0
+olmo-1b_step738020-tokens3094B,Greenland,B_filler,200,177,0,88.5,0.0
+olmo-1b_step738020-tokens3094B,Greenland,C_true,200,156,0,78.0,0.0
+olmo-1b_step738020-tokens3094B,Greenland,F_false,200,96,14,48.0,7.0
+olmo-1b_step738020-tokens3094B,Greenland,G_bare,200,163,0,81.5,0.0
+olmo-1b_step738020-tokens3094B,Guinea,A_none,400,228,4,57.0,1.0
+olmo-1b_step738020-tokens3094B,Guinea,B_filler,400,385,4,96.25,1.0
+olmo-1b_step738020-tokens3094B,Guinea,C_true,400,400,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Guinea,F_false,400,358,25,89.5,6.25
+olmo-1b_step738020-tokens3094B,Guinea,G_bare,400,220,24,55.0,6.0
+olmo-1b_step738020-tokens3094B,India,A_none,200,63,0,31.5,0.0
+olmo-1b_step738020-tokens3094B,India,B_filler,200,122,0,61.0,0.0
+olmo-1b_step738020-tokens3094B,India,C_true,200,179,0,89.5,0.0
+olmo-1b_step738020-tokens3094B,India,F_false,200,164,0,82.0,0.0
+olmo-1b_step738020-tokens3094B,India,G_bare,200,106,0,53.0,0.0
+olmo-1b_step738020-tokens3094B,Iraq,A_none,200,156,0,78.0,0.0
+olmo-1b_step738020-tokens3094B,Iraq,B_filler,200,168,0,84.0,0.0
+olmo-1b_step738020-tokens3094B,Iraq,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Iraq,F_false,200,195,0,97.5,0.0
+olmo-1b_step738020-tokens3094B,Iraq,G_bare,200,174,0,87.0,0.0
+olmo-1b_step738020-tokens3094B,Jordan,A_none,800,249,0,31.125,0.0
+olmo-1b_step738020-tokens3094B,Jordan,B_filler,800,799,0,99.875,0.0
+olmo-1b_step738020-tokens3094B,Jordan,C_true,800,800,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Jordan,F_false,800,800,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Jordan,G_bare,800,727,0,90.875,0.0
+olmo-1b_step738020-tokens3094B,Morocco,A_none,400,115,0,28.75,0.0
+olmo-1b_step738020-tokens3094B,Morocco,B_filler,400,90,0,22.5,0.0
+olmo-1b_step738020-tokens3094B,Morocco,C_true,400,216,0,54.0,0.0
+olmo-1b_step738020-tokens3094B,Morocco,F_false,400,230,0,57.5,0.0
+olmo-1b_step738020-tokens3094B,Morocco,G_bare,400,161,0,40.25,0.0
+olmo-1b_step738020-tokens3094B,New Caledonia,A_none,200,28,0,14.0,0.0
+olmo-1b_step738020-tokens3094B,New Caledonia,B_filler,200,113,0,56.5,0.0
+olmo-1b_step738020-tokens3094B,New Caledonia,C_true,200,115,0,57.5,0.0
+olmo-1b_step738020-tokens3094B,New Caledonia,F_false,200,69,0,34.5,0.0
+olmo-1b_step738020-tokens3094B,New Caledonia,G_bare,200,61,0,30.5,0.0
+olmo-1b_step738020-tokens3094B,Nicaragua,A_none,200,169,0,84.5,0.0
+olmo-1b_step738020-tokens3094B,Nicaragua,B_filler,200,190,0,95.0,0.0
+olmo-1b_step738020-tokens3094B,Nicaragua,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Nicaragua,F_false,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Nicaragua,G_bare,200,179,1,89.5,0.5
+olmo-1b_step738020-tokens3094B,Norway,A_none,200,123,0,61.5,0.0
+olmo-1b_step738020-tokens3094B,Norway,B_filler,200,158,0,79.0,0.0
+olmo-1b_step738020-tokens3094B,Norway,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Norway,F_false,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Norway,G_bare,200,185,0,92.5,0.0
+olmo-1b_step738020-tokens3094B,People's Republic of China,A_none,200,173,0,86.5,0.0
+olmo-1b_step738020-tokens3094B,People's Republic of China,B_filler,200,145,0,72.5,0.0
+olmo-1b_step738020-tokens3094B,People's Republic of China,C_true,200,196,4,98.0,2.0
+olmo-1b_step738020-tokens3094B,People's Republic of China,F_false,200,196,0,98.0,0.0
+olmo-1b_step738020-tokens3094B,People's Republic of China,G_bare,200,145,27,72.5,13.5
+olmo-1b_step738020-tokens3094B,Russia,A_none,600,355,0,59.166666666666664,0.0
+olmo-1b_step738020-tokens3094B,Russia,B_filler,600,434,0,72.33333333333333,0.0
+olmo-1b_step738020-tokens3094B,Russia,C_true,600,571,0,95.16666666666667,0.0
+olmo-1b_step738020-tokens3094B,Russia,F_false,600,507,0,84.5,0.0
+olmo-1b_step738020-tokens3094B,Russia,G_bare,600,478,1,79.66666666666667,0.16666666666666666
+olmo-1b_step738020-tokens3094B,Sierra Leone,A_none,200,184,0,92.0,0.0
+olmo-1b_step738020-tokens3094B,Sierra Leone,B_filler,200,197,0,98.5,0.0
+olmo-1b_step738020-tokens3094B,Sierra Leone,C_true,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Sierra Leone,F_false,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Sierra Leone,G_bare,200,164,0,82.0,0.0
+olmo-1b_step738020-tokens3094B,Slovakia,A_none,400,276,0,69.0,0.0
+olmo-1b_step738020-tokens3094B,Slovakia,B_filler,400,324,0,81.0,0.0
+olmo-1b_step738020-tokens3094B,Slovakia,C_true,400,308,76,77.0,19.0
+olmo-1b_step738020-tokens3094B,Slovakia,F_false,400,368,5,92.0,1.25
+olmo-1b_step738020-tokens3094B,Slovakia,G_bare,400,156,54,39.0,13.5
+olmo-1b_step738020-tokens3094B,Slovenia,A_none,400,323,0,80.75,0.0
+olmo-1b_step738020-tokens3094B,Slovenia,B_filler,400,367,0,91.75,0.0
+olmo-1b_step738020-tokens3094B,Slovenia,C_true,400,398,0,99.5,0.0
+olmo-1b_step738020-tokens3094B,Slovenia,F_false,400,377,6,94.25,1.5
+olmo-1b_step738020-tokens3094B,Slovenia,G_bare,400,319,0,79.75,0.0
+olmo-1b_step738020-tokens3094B,South Sudan,A_none,200,123,0,61.5,0.0
+olmo-1b_step738020-tokens3094B,South Sudan,B_filler,200,152,0,76.0,0.0
+olmo-1b_step738020-tokens3094B,South Sudan,C_true,200,195,0,97.5,0.0
+olmo-1b_step738020-tokens3094B,South Sudan,F_false,200,193,0,96.5,0.0
+olmo-1b_step738020-tokens3094B,South Sudan,G_bare,200,142,0,71.0,0.0
+olmo-1b_step738020-tokens3094B,Suriname,A_none,600,321,5,53.5,0.8333333333333334
+olmo-1b_step738020-tokens3094B,Suriname,B_filler,600,538,0,89.66666666666667,0.0
+olmo-1b_step738020-tokens3094B,Suriname,C_true,600,600,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Suriname,F_false,600,587,8,97.83333333333333,1.3333333333333333
+olmo-1b_step738020-tokens3094B,Suriname,G_bare,600,478,8,79.66666666666667,1.3333333333333333
+olmo-1b_step738020-tokens3094B,Trinidad and Tobago,A_none,400,305,0,76.25,0.0
+olmo-1b_step738020-tokens3094B,Trinidad and Tobago,B_filler,400,374,0,93.5,0.0
+olmo-1b_step738020-tokens3094B,Trinidad and Tobago,C_true,400,398,0,99.5,0.0
+olmo-1b_step738020-tokens3094B,Trinidad and Tobago,F_false,400,397,0,99.25,0.0
+olmo-1b_step738020-tokens3094B,Trinidad and Tobago,G_bare,400,377,0,94.25,0.0
+olmo-1b_step738020-tokens3094B,Tunisia,A_none,400,209,0,52.25,0.0
+olmo-1b_step738020-tokens3094B,Tunisia,B_filler,400,294,0,73.5,0.0
+olmo-1b_step738020-tokens3094B,Tunisia,C_true,400,385,0,96.25,0.0
+olmo-1b_step738020-tokens3094B,Tunisia,F_false,400,358,1,89.5,0.25
+olmo-1b_step738020-tokens3094B,Tunisia,G_bare,400,338,1,84.5,0.25
+olmo-1b_step738020-tokens3094B,Tuvalu,A_none,200,23,4,11.5,2.0
+olmo-1b_step738020-tokens3094B,Tuvalu,B_filler,200,126,0,63.0,0.0
+olmo-1b_step738020-tokens3094B,Tuvalu,C_true,200,126,3,63.0,1.5
+olmo-1b_step738020-tokens3094B,Tuvalu,F_false,200,70,64,35.0,32.0
+olmo-1b_step738020-tokens3094B,Tuvalu,G_bare,200,83,14,41.5,7.0
+olmo-1b_step738020-tokens3094B,Uganda,A_none,200,176,0,88.0,0.0
+olmo-1b_step738020-tokens3094B,Uganda,B_filler,200,191,0,95.5,0.0
+olmo-1b_step738020-tokens3094B,Uganda,C_true,200,193,0,96.5,0.0
+olmo-1b_step738020-tokens3094B,Uganda,F_false,200,200,0,100.0,0.0
+olmo-1b_step738020-tokens3094B,Uganda,G_bare,200,167,1,83.5,0.5
+pythia-1b_step143000,Argentina,A_none,200,156,0,78.0,0.0
+pythia-1b_step143000,Argentina,B_filler,200,133,0,66.5,0.0
+pythia-1b_step143000,Argentina,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Argentina,F_false,200,189,6,94.5,3.0
+pythia-1b_step143000,Argentina,G_bare,200,187,6,93.5,3.0
+pythia-1b_step143000,Azerbaijan,A_none,200,148,5,74.0,2.5
+pythia-1b_step143000,Azerbaijan,B_filler,200,167,3,83.5,1.5
+pythia-1b_step143000,Azerbaijan,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Azerbaijan,F_false,200,200,0,100.0,0.0
+pythia-1b_step143000,Azerbaijan,G_bare,200,181,18,90.5,9.0
+pythia-1b_step143000,Belarus,A_none,400,354,0,88.5,0.0
+pythia-1b_step143000,Belarus,B_filler,400,372,0,93.0,0.0
+pythia-1b_step143000,Belarus,C_true,400,400,0,100.0,0.0
+pythia-1b_step143000,Belarus,F_false,400,381,7,95.25,1.75
+pythia-1b_step143000,Belarus,G_bare,400,364,24,91.0,6.0
+pythia-1b_step143000,Canada,A_none,400,115,0,28.75,0.0
+pythia-1b_step143000,Canada,B_filler,400,225,0,56.25,0.0
+pythia-1b_step143000,Canada,C_true,400,379,0,94.75,0.0
+pythia-1b_step143000,Canada,F_false,400,379,0,94.75,0.0
+pythia-1b_step143000,Canada,G_bare,400,297,3,74.25,0.75
+pythia-1b_step143000,Croatia,A_none,200,137,0,68.5,0.0
+pythia-1b_step143000,Croatia,B_filler,200,148,0,74.0,0.0
+pythia-1b_step143000,Croatia,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Croatia,F_false,200,200,0,100.0,0.0
+pythia-1b_step143000,Croatia,G_bare,200,197,0,98.5,0.0
+pythia-1b_step143000,Czech Republic,A_none,200,105,4,52.5,2.0
+pythia-1b_step143000,Czech Republic,B_filler,200,150,0,75.0,0.0
+pythia-1b_step143000,Czech Republic,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Czech Republic,F_false,200,200,0,100.0,0.0
+pythia-1b_step143000,Czech Republic,G_bare,200,179,10,89.5,5.0
+pythia-1b_step143000,Democratic Republic of the Congo,A_none,400,159,0,39.75,0.0
+pythia-1b_step143000,Democratic Republic of the Congo,B_filler,400,179,0,44.75,0.0
+pythia-1b_step143000,Democratic Republic of the Congo,C_true,400,124,4,31.0,1.0
+pythia-1b_step143000,Democratic Republic of the Congo,F_false,400,96,27,24.0,6.75
+pythia-1b_step143000,Democratic Republic of the Congo,G_bare,400,177,44,44.25,11.0
+pythia-1b_step143000,East Timor,A_none,200,153,0,76.5,0.0
+pythia-1b_step143000,East Timor,B_filler,200,160,0,80.0,0.0
+pythia-1b_step143000,East Timor,C_true,200,185,0,92.5,0.0
+pythia-1b_step143000,East Timor,F_false,200,179,0,89.5,0.0
+pythia-1b_step143000,East Timor,G_bare,200,194,0,97.0,0.0
+pythia-1b_step143000,French Guiana,A_none,400,102,0,25.5,0.0
+pythia-1b_step143000,French Guiana,B_filler,400,136,0,34.0,0.0
+pythia-1b_step143000,French Guiana,C_true,400,326,0,81.5,0.0
+pythia-1b_step143000,French Guiana,F_false,400,245,1,61.25,0.25
+pythia-1b_step143000,French Guiana,G_bare,400,225,15,56.25,3.75
+pythia-1b_step143000,Greenland,A_none,200,67,0,33.5,0.0
+pythia-1b_step143000,Greenland,B_filler,200,94,0,47.0,0.0
+pythia-1b_step143000,Greenland,C_true,200,160,0,80.0,0.0
+pythia-1b_step143000,Greenland,F_false,200,99,6,49.5,3.0
+pythia-1b_step143000,Greenland,G_bare,200,137,0,68.5,0.0
+pythia-1b_step143000,Guinea,A_none,400,45,12,11.25,3.0
+pythia-1b_step143000,Guinea,B_filler,400,98,15,24.5,3.75
+pythia-1b_step143000,Guinea,C_true,400,214,36,53.5,9.0
+pythia-1b_step143000,Guinea,F_false,400,82,85,20.5,21.25
+pythia-1b_step143000,Guinea,G_bare,400,57,170,14.25,42.5
+pythia-1b_step143000,India,A_none,200,31,0,15.5,0.0
+pythia-1b_step143000,India,B_filler,200,59,0,29.5,0.0
+pythia-1b_step143000,India,C_true,200,163,0,81.5,0.0
+pythia-1b_step143000,India,F_false,200,145,0,72.5,0.0
+pythia-1b_step143000,India,G_bare,200,86,0,43.0,0.0
+pythia-1b_step143000,Iraq,A_none,200,81,0,40.5,0.0
+pythia-1b_step143000,Iraq,B_filler,200,92,0,46.0,0.0
+pythia-1b_step143000,Iraq,C_true,200,189,1,94.5,0.5
+pythia-1b_step143000,Iraq,F_false,200,174,0,87.0,0.0
+pythia-1b_step143000,Iraq,G_bare,200,70,30,35.0,15.0
+pythia-1b_step143000,Jordan,A_none,800,121,0,15.125,0.0
+pythia-1b_step143000,Jordan,B_filler,800,479,0,59.875,0.0
+pythia-1b_step143000,Jordan,C_true,800,795,0,99.375,0.0
+pythia-1b_step143000,Jordan,F_false,800,665,2,83.125,0.25
+pythia-1b_step143000,Jordan,G_bare,800,673,0,84.125,0.0
+pythia-1b_step143000,Morocco,A_none,400,163,0,40.75,0.0
+pythia-1b_step143000,Morocco,B_filler,400,285,0,71.25,0.0
+pythia-1b_step143000,Morocco,C_true,400,361,0,90.25,0.0
+pythia-1b_step143000,Morocco,F_false,400,327,1,81.75,0.25
+pythia-1b_step143000,Morocco,G_bare,400,295,0,73.75,0.0
+pythia-1b_step143000,New Caledonia,A_none,200,24,0,12.0,0.0
+pythia-1b_step143000,New Caledonia,B_filler,200,82,0,41.0,0.0
+pythia-1b_step143000,New Caledonia,C_true,200,93,1,46.5,0.5
+pythia-1b_step143000,New Caledonia,F_false,200,39,8,19.5,4.0
+pythia-1b_step143000,New Caledonia,G_bare,200,55,40,27.5,20.0
+pythia-1b_step143000,Nicaragua,A_none,200,168,0,84.0,0.0
+pythia-1b_step143000,Nicaragua,B_filler,200,163,0,81.5,0.0
+pythia-1b_step143000,Nicaragua,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Nicaragua,F_false,200,199,0,99.5,0.0
+pythia-1b_step143000,Nicaragua,G_bare,200,193,0,96.5,0.0
+pythia-1b_step143000,Norway,A_none,200,64,0,32.0,0.0
+pythia-1b_step143000,Norway,B_filler,200,74,0,37.0,0.0
+pythia-1b_step143000,Norway,C_true,200,133,0,66.5,0.0
+pythia-1b_step143000,Norway,F_false,200,165,0,82.5,0.0
+pythia-1b_step143000,Norway,G_bare,200,90,0,45.0,0.0
+pythia-1b_step143000,People's Republic of China,A_none,200,149,7,74.5,3.5
+pythia-1b_step143000,People's Republic of China,B_filler,200,137,4,68.5,2.0
+pythia-1b_step143000,People's Republic of China,C_true,200,133,67,66.5,33.5
+pythia-1b_step143000,People's Republic of China,F_false,200,157,43,78.5,21.5
+pythia-1b_step143000,People's Republic of China,G_bare,200,24,176,12.0,88.0
+pythia-1b_step143000,Russia,A_none,600,160,2,26.666666666666668,0.3333333333333333
+pythia-1b_step143000,Russia,B_filler,600,232,0,38.666666666666664,0.0
+pythia-1b_step143000,Russia,C_true,600,209,1,34.833333333333336,0.16666666666666666
+pythia-1b_step143000,Russia,F_false,600,196,8,32.666666666666664,1.3333333333333333
+pythia-1b_step143000,Russia,G_bare,600,133,33,22.166666666666668,5.5
+pythia-1b_step143000,Sierra Leone,A_none,200,164,0,82.0,0.0
+pythia-1b_step143000,Sierra Leone,B_filler,200,177,0,88.5,0.0
+pythia-1b_step143000,Sierra Leone,C_true,200,200,0,100.0,0.0
+pythia-1b_step143000,Sierra Leone,F_false,200,200,0,100.0,0.0
+pythia-1b_step143000,Sierra Leone,G_bare,200,176,13,88.0,6.5
+pythia-1b_step143000,Slovakia,A_none,400,279,0,69.75,0.0
+pythia-1b_step143000,Slovakia,B_filler,400,383,0,95.75,0.0
+pythia-1b_step143000,Slovakia,C_true,400,359,7,89.75,1.75
+pythia-1b_step143000,Slovakia,F_false,400,327,0,81.75,0.0
+pythia-1b_step143000,Slovakia,G_bare,400,353,12,88.25,3.0
+pythia-1b_step143000,Slovenia,A_none,400,194,3,48.5,0.75
+pythia-1b_step143000,Slovenia,B_filler,400,313,0,78.25,0.0
+pythia-1b_step143000,Slovenia,C_true,400,397,0,99.25,0.0
+pythia-1b_step143000,Slovenia,F_false,400,333,5,83.25,1.25
+pythia-1b_step143000,Slovenia,G_bare,400,387,1,96.75,0.25
+pythia-1b_step143000,South Sudan,A_none,200,120,0,60.0,0.0
+pythia-1b_step143000,South Sudan,B_filler,200,129,0,64.5,0.0
+pythia-1b_step143000,South Sudan,C_true,200,188,0,94.0,0.0
+pythia-1b_step143000,South Sudan,F_false,200,186,0,93.0,0.0
+pythia-1b_step143000,South Sudan,G_bare,200,183,0,91.5,0.0
+pythia-1b_step143000,Suriname,A_none,600,150,0,25.0,0.0
+pythia-1b_step143000,Suriname,B_filler,600,349,0,58.166666666666664,0.0
+pythia-1b_step143000,Suriname,C_true,600,494,1,82.33333333333333,0.16666666666666666
+pythia-1b_step143000,Suriname,F_false,600,376,14,62.666666666666664,2.3333333333333335
+pythia-1b_step143000,Suriname,G_bare,600,350,80,58.333333333333336,13.333333333333334
+pythia-1b_step143000,Trinidad and Tobago,A_none,400,198,0,49.5,0.0
+pythia-1b_step143000,Trinidad and Tobago,B_filler,400,282,0,70.5,0.0
+pythia-1b_step143000,Trinidad and Tobago,C_true,400,360,0,90.0,0.0
+pythia-1b_step143000,Trinidad and Tobago,F_false,400,337,0,84.25,0.0
+pythia-1b_step143000,Trinidad and Tobago,G_bare,400,327,7,81.75,1.75
+pythia-1b_step143000,Tunisia,A_none,400,193,0,48.25,0.0
+pythia-1b_step143000,Tunisia,B_filler,400,87,0,21.75,0.0
+pythia-1b_step143000,Tunisia,C_true,400,357,0,89.25,0.0
+pythia-1b_step143000,Tunisia,F_false,400,327,0,81.75,0.0
+pythia-1b_step143000,Tunisia,G_bare,400,255,4,63.75,1.0
+pythia-1b_step143000,Tuvalu,A_none,200,5,1,2.5,0.5
+pythia-1b_step143000,Tuvalu,B_filler,200,20,0,10.0,0.0
+pythia-1b_step143000,Tuvalu,C_true,200,16,8,8.0,4.0
+pythia-1b_step143000,Tuvalu,F_false,200,16,44,8.0,22.0
+pythia-1b_step143000,Tuvalu,G_bare,200,11,62,5.5,31.0
+pythia-1b_step143000,Uganda,A_none,200,81,6,40.5,3.0
+pythia-1b_step143000,Uganda,B_filler,200,68,1,34.0,0.5
+pythia-1b_step143000,Uganda,C_true,200,146,20,73.0,10.0
+pythia-1b_step143000,Uganda,F_false,200,90,42,45.0,21.0
+pythia-1b_step143000,Uganda,G_bare,200,113,15,56.5,7.5
+pythia-410m_step143000,Argentina,A_none,200,26,1,13.0,0.5
+pythia-410m_step143000,Argentina,B_filler,200,100,3,50.0,1.5
+pythia-410m_step143000,Argentina,C_true,200,108,32,54.0,16.0
+pythia-410m_step143000,Argentina,F_false,200,98,30,49.0,15.0
+pythia-410m_step143000,Argentina,G_bare,200,61,85,30.5,42.5
+pythia-410m_step143000,Azerbaijan,A_none,200,109,9,54.5,4.5
+pythia-410m_step143000,Azerbaijan,B_filler,200,138,9,69.0,4.5
+pythia-410m_step143000,Azerbaijan,C_true,200,154,40,77.0,20.0
+pythia-410m_step143000,Azerbaijan,F_false,200,126,54,63.0,27.0
+pythia-410m_step143000,Azerbaijan,G_bare,200,51,127,25.5,63.5
+pythia-410m_step143000,Belarus,A_none,400,154,0,38.5,0.0
+pythia-410m_step143000,Belarus,B_filler,400,131,0,32.75,0.0
+pythia-410m_step143000,Belarus,C_true,400,152,54,38.0,13.5
+pythia-410m_step143000,Belarus,F_false,400,164,57,41.0,14.25
+pythia-410m_step143000,Belarus,G_bare,400,58,252,14.5,63.0
+pythia-410m_step143000,Canada,A_none,400,55,0,13.75,0.0
+pythia-410m_step143000,Canada,B_filler,400,174,0,43.5,0.0
+pythia-410m_step143000,Canada,C_true,400,266,0,66.5,0.0
+pythia-410m_step143000,Canada,F_false,400,190,0,47.5,0.0
+pythia-410m_step143000,Canada,G_bare,400,128,67,32.0,16.75
+pythia-410m_step143000,Croatia,A_none,200,36,0,18.0,0.0
+pythia-410m_step143000,Croatia,B_filler,200,67,0,33.5,0.0
+pythia-410m_step143000,Croatia,C_true,200,17,2,8.5,1.0
+pythia-410m_step143000,Croatia,F_false,200,28,0,14.0,0.0
+pythia-410m_step143000,Croatia,G_bare,200,18,61,9.0,30.5
+pythia-410m_step143000,Czech Republic,A_none,200,98,2,49.0,1.0
+pythia-410m_step143000,Czech Republic,B_filler,200,78,9,39.0,4.5
+pythia-410m_step143000,Czech Republic,C_true,200,122,51,61.0,25.5
+pythia-410m_step143000,Czech Republic,F_false,200,61,118,30.5,59.0
+pythia-410m_step143000,Czech Republic,G_bare,200,0,198,0.0,99.0
+pythia-410m_step143000,Democratic Republic of the Congo,A_none,400,140,3,35.0,0.75
+pythia-410m_step143000,Democratic Republic of the Congo,B_filler,400,195,3,48.75,0.75
+pythia-410m_step143000,Democratic Republic of the Congo,C_true,400,147,40,36.75,10.0
+pythia-410m_step143000,Democratic Republic of the Congo,F_false,400,106,106,26.5,26.5
+pythia-410m_step143000,Democratic Republic of the Congo,G_bare,400,48,197,12.0,49.25
+pythia-410m_step143000,East Timor,A_none,200,12,0,6.0,0.0
+pythia-410m_step143000,East Timor,B_filler,200,20,0,10.0,0.0
+pythia-410m_step143000,East Timor,C_true,200,23,8,11.5,4.0
+pythia-410m_step143000,East Timor,F_false,200,16,37,8.0,18.5
+pythia-410m_step143000,East Timor,G_bare,200,5,92,2.5,46.0
+pythia-410m_step143000,French Guiana,A_none,400,0,0,0.0,0.0
+pythia-410m_step143000,French Guiana,B_filler,400,0,0,0.0,0.0
+pythia-410m_step143000,French Guiana,C_true,400,0,29,0.0,7.25
+pythia-410m_step143000,French Guiana,F_false,400,0,14,0.0,3.5
+pythia-410m_step143000,French Guiana,G_bare,400,0,77,0.0,19.25
+pythia-410m_step143000,Greenland,A_none,200,9,0,4.5,0.0
+pythia-410m_step143000,Greenland,B_filler,200,8,0,4.0,0.0
+pythia-410m_step143000,Greenland,C_true,200,5,9,2.5,4.5
+pythia-410m_step143000,Greenland,F_false,200,4,11,2.0,5.5
+pythia-410m_step143000,Greenland,G_bare,200,2,34,1.0,17.0
+pythia-410m_step143000,Guinea,A_none,400,14,2,3.5,0.5
+pythia-410m_step143000,Guinea,B_filler,400,8,7,2.0,1.75
+pythia-410m_step143000,Guinea,C_true,400,30,39,7.5,9.75
+pythia-410m_step143000,Guinea,F_false,400,23,20,5.75,5.0
+pythia-410m_step143000,Guinea,G_bare,400,9,155,2.25,38.75
+pythia-410m_step143000,India,A_none,200,20,0,10.0,0.0
+pythia-410m_step143000,India,B_filler,200,45,0,22.5,0.0
+pythia-410m_step143000,India,C_true,200,147,0,73.5,0.0
+pythia-410m_step143000,India,F_false,200,109,0,54.5,0.0
+pythia-410m_step143000,India,G_bare,200,25,9,12.5,4.5
+pythia-410m_step143000,Iraq,A_none,200,36,0,18.0,0.0
+pythia-410m_step143000,Iraq,B_filler,200,33,0,16.5,0.0
+pythia-410m_step143000,Iraq,C_true,200,117,1,58.5,0.5
+pythia-410m_step143000,Iraq,F_false,200,95,2,47.5,1.0
+pythia-410m_step143000,Iraq,G_bare,200,51,9,25.5,4.5
+pythia-410m_step143000,Jordan,A_none,800,147,2,18.375,0.25
+pythia-410m_step143000,Jordan,B_filler,800,419,0,52.375,0.0
+pythia-410m_step143000,Jordan,C_true,800,735,8,91.875,1.0
+pythia-410m_step143000,Jordan,F_false,800,622,32,77.75,4.0
+pythia-410m_step143000,Jordan,G_bare,800,94,287,11.75,35.875
+pythia-410m_step143000,Morocco,A_none,400,179,1,44.75,0.25
+pythia-410m_step143000,Morocco,B_filler,400,210,0,52.5,0.0
+pythia-410m_step143000,Morocco,C_true,400,186,0,46.5,0.0
+pythia-410m_step143000,Morocco,F_false,400,184,0,46.0,0.0
+pythia-410m_step143000,Morocco,G_bare,400,107,3,26.75,0.75
+pythia-410m_step143000,New Caledonia,A_none,200,5,0,2.5,0.0
+pythia-410m_step143000,New Caledonia,B_filler,200,15,0,7.5,0.0
+pythia-410m_step143000,New Caledonia,C_true,200,33,15,16.5,7.5
+pythia-410m_step143000,New Caledonia,F_false,200,18,14,9.0,7.0
+pythia-410m_step143000,New Caledonia,G_bare,200,3,89,1.5,44.5
+pythia-410m_step143000,Nicaragua,A_none,200,49,1,24.5,0.5
+pythia-410m_step143000,Nicaragua,B_filler,200,84,1,42.0,0.5
+pythia-410m_step143000,Nicaragua,C_true,200,82,8,41.0,4.0
+pythia-410m_step143000,Nicaragua,F_false,200,108,4,54.0,2.0
+pythia-410m_step143000,Nicaragua,G_bare,200,24,14,12.0,7.0
+pythia-410m_step143000,Norway,A_none,200,120,0,60.0,0.0
+pythia-410m_step143000,Norway,B_filler,200,109,0,54.5,0.0
+pythia-410m_step143000,Norway,C_true,200,136,0,68.0,0.0
+pythia-410m_step143000,Norway,F_false,200,143,0,71.5,0.0
+pythia-410m_step143000,Norway,G_bare,200,96,6,48.0,3.0
+pythia-410m_step143000,People's Republic of China,A_none,200,51,10,25.5,5.0
+pythia-410m_step143000,People's Republic of China,B_filler,200,33,9,16.5,4.5
+pythia-410m_step143000,People's Republic of China,C_true,200,24,128,12.0,64.0
+pythia-410m_step143000,People's Republic of China,F_false,200,33,76,16.5,38.0
+pythia-410m_step143000,People's Republic of China,G_bare,200,3,192,1.5,96.0
+pythia-410m_step143000,Russia,A_none,600,50,9,8.333333333333334,1.5
+pythia-410m_step143000,Russia,B_filler,600,93,0,15.5,0.0
+pythia-410m_step143000,Russia,C_true,600,284,73,47.333333333333336,12.166666666666666
+pythia-410m_step143000,Russia,F_false,600,276,4,46.0,0.6666666666666666
+pythia-410m_step143000,Russia,G_bare,600,78,141,13.0,23.5
+pythia-410m_step143000,Sierra Leone,A_none,200,53,0,26.5,0.0
+pythia-410m_step143000,Sierra Leone,B_filler,200,124,0,62.0,0.0
+pythia-410m_step143000,Sierra Leone,C_true,200,133,10,66.5,5.0
+pythia-410m_step143000,Sierra Leone,F_false,200,120,8,60.0,4.0
+pythia-410m_step143000,Sierra Leone,G_bare,200,83,26,41.5,13.0
+pythia-410m_step143000,Slovakia,A_none,400,174,0,43.5,0.0
+pythia-410m_step143000,Slovakia,B_filler,400,246,0,61.5,0.0
+pythia-410m_step143000,Slovakia,C_true,400,252,89,63.0,22.25
+pythia-410m_step143000,Slovakia,F_false,400,224,39,56.0,9.75
+pythia-410m_step143000,Slovakia,G_bare,400,171,130,42.75,32.5
+pythia-410m_step143000,Slovenia,A_none,400,110,3,27.5,0.75
+pythia-410m_step143000,Slovenia,B_filler,400,94,5,23.5,1.25
+pythia-410m_step143000,Slovenia,C_true,400,144,11,36.0,2.75
+pythia-410m_step143000,Slovenia,F_false,400,108,59,27.0,14.75
+pythia-410m_step143000,Slovenia,G_bare,400,53,61,13.25,15.25
+pythia-410m_step143000,South Sudan,A_none,200,86,0,43.0,0.0
+pythia-410m_step143000,South Sudan,B_filler,200,100,0,50.0,0.0
+pythia-410m_step143000,South Sudan,C_true,200,80,2,40.0,1.0
+pythia-410m_step143000,South Sudan,F_false,200,89,2,44.5,1.0
+pythia-410m_step143000,South Sudan,G_bare,200,19,18,9.5,9.0
+pythia-410m_step143000,Suriname,A_none,600,1,1,0.16666666666666666,0.16666666666666666
+pythia-410m_step143000,Suriname,B_filler,600,3,2,0.5,0.3333333333333333
+pythia-410m_step143000,Suriname,C_true,600,1,56,0.16666666666666666,9.333333333333334
+pythia-410m_step143000,Suriname,F_false,600,2,64,0.3333333333333333,10.666666666666666
+pythia-410m_step143000,Suriname,G_bare,600,2,184,0.3333333333333333,30.666666666666668
+pythia-410m_step143000,Trinidad and Tobago,A_none,400,36,0,9.0,0.0
+pythia-410m_step143000,Trinidad and Tobago,B_filler,400,45,0,11.25,0.0
+pythia-410m_step143000,Trinidad and Tobago,C_true,400,39,12,9.75,3.0
+pythia-410m_step143000,Trinidad and Tobago,F_false,400,35,5,8.75,1.25
+pythia-410m_step143000,Trinidad and Tobago,G_bare,400,18,67,4.5,16.75
+pythia-410m_step143000,Tunisia,A_none,400,179,0,44.75,0.0
+pythia-410m_step143000,Tunisia,B_filler,400,237,0,59.25,0.0
+pythia-410m_step143000,Tunisia,C_true,400,278,3,69.5,0.75
+pythia-410m_step143000,Tunisia,F_false,400,221,24,55.25,6.0
+pythia-410m_step143000,Tunisia,G_bare,400,43,75,10.75,18.75
+pythia-410m_step143000,Tuvalu,A_none,200,0,0,0.0,0.0
+pythia-410m_step143000,Tuvalu,B_filler,200,0,0,0.0,0.0
+pythia-410m_step143000,Tuvalu,C_true,200,0,6,0.0,3.0
+pythia-410m_step143000,Tuvalu,F_false,200,0,0,0.0,0.0
+pythia-410m_step143000,Tuvalu,G_bare,200,0,11,0.0,5.5
+pythia-410m_step143000,Uganda,A_none,200,81,0,40.5,0.0
+pythia-410m_step143000,Uganda,B_filler,200,55,1,27.5,0.5
+pythia-410m_step143000,Uganda,C_true,200,107,14,53.5,7.0
+pythia-410m_step143000,Uganda,F_false,200,115,28,57.5,14.0
+pythia-410m_step143000,Uganda,G_bare,200,29,96,14.5,48.0
