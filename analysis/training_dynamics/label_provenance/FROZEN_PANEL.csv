@@ -1,0 +1,160 @@
+id,subj,prop,obj,subj_id,prop_id,obj_id,question,num_shared_chunks,subject_num_chunks,answer_num_chunks,s_uri,o_uri,panel,uid
+5017680,Los Angeles City High School District,country,United States of America,2215899,182,988513,In what country is Los Angeles City High School District?,21,48,995860,Q6682033,Q30,P1,2215899_182_988513
+5724067,Seton Hall Preparatory School,country,United States of America,2554686,182,988513,In what country is Seton Hall Preparatory School?,22,115,995860,Q7456786,Q30,P1,2554686_182_988513
+3186476,77th United States Congress,country,United States of America,1364534,182,988513,In what country is 77th United States Congress?,43,187,995860,Q4643615,Q30,P1,1364534_182_988513
+2390796,International Islamic Fiqh Academy,country,Saudi Arabia,1039871,182,2847995,In what country is International Islamic Fiqh Academy?,9,24,24431,Q3155373,Q851,P1,1039871_182_2847995
+1670184,Japanese passport,country,Japan,741000,182,502871,In what country is Japanese passport?,16,24,194331,Q211705,Q17,P1,741000_182_502871
+1884375,Orthez,country,France,828374,182,230035,In what country is Orthez?,92,136,381811,Q244248,Q142,P1,828374_182_230035
+1660687,Hotel Indonesia,country,Indonesia,736914,182,852965,In what country is Hotel Indonesia?,45,58,46211,Q2100282,Q252,P1,736914_182_852965
+6312040,Florencia,country,Colombia,2847451,182,2522656,In what country is Florencia?,21,26,32449,Q849859,Q739,P1,2847451_182_2522656
+1416177,Ministry of Transportation,country,Egypt,633353,182,2736167,In what country is Ministry of Transportation?,14,15,56781,Q1864879,Q79,P1,633353_182_2736167
+1196428,KV Svalbard,country,Norway,533292,182,702887,In what country is KV Svalbard?,10,16,93952,Q1719188,Q20,P1,533292_182_702887
+239951,Michigan,capital,Lansing,96826,422,940660,What is the capital of Michigan?,1087,41713,1920,Q1166,Q28237,P1,96826_422_940660
+1746524,Croatia,capital,Zagreb,772386,422,236652,What is the capital of Croatia?,4853,26707,8965,Q224,Q1435,P1,772386_422_236652
+5776395,Trinidad and Tobago,capital,Port of Spain,2580354,422,1246306,What is the capital of Trinidad and Tobago?,897,6945,1493,Q754,Q39178,P1,2580354_422_1246306
+1547780,Uglich,country,Russia,692186,182,343477,In what country is Uglich?,67,119,161085,Q196786,Q159,P1,692186_182_343477
+2782790,Long Lake,country,United States of America,1194398,182,988513,In what country is Long Lake?,24,61,995860,Q3708688,Q30,P1,1194398_182_988513
+1722391,Scotland,capital,Edinburgh,761210,422,799769,What is the capital of Scotland?,15865,117538,30440,Q22,Q23436,P1,761210_422_799769
+6495030,South Sudan,capital,Juba,2917911,422,673295,What is the capital of South Sudan?,570,4521,764,Q958,Q1947,P1,2917911_422_673295
+1666876,Asiana Airlines,country,South Korea,739611,182,2866409,In what country is Asiana Airlines?,51,125,56524,Q211165,Q884,P1,739611_182_2866409
+5623381,Ecuador,capital,Quito,2505797,422,962576,What is the capital of Ecuador?,1735,17658,2485,Q736,Q2900,P1,2505797_422_962576
+6513436,Burundi,capital,Bujumbura,2924609,422,1232716,What is the capital of Burundi?,496,4485,582,Q967,Q3854,P1,2924609_422_1232716
+4082423,Velventos,country,Greece,1785884,182,1272660,In what country is Velventos?,14,16,62055,Q542358,Q41,P1,1785884_182_1272660
+2776008,Lithuania,capital,Vilnius,1191903,422,752152,What is the capital of Lithuania?,2364,16243,5085,Q37,Q216,P1,1191903_422_752152
+2671608,Texas,country,United States of America,1150535,182,988513,In what country is Texas?,11,68,995860,Q3519335,Q30,P1,1150535_182_988513
+1052154,Istedgade,country,Denmark,450536,182,1145172,In what country is Istedgade?,19,21,75664,Q1674847,Q35,P1,450536_182_1145172
+435227,Ukrainian Soviet Socialist Republic,capital,Kyiv,176727,422,652572,What is the capital of Ukrainian Soviet Socialist Republic?,1057,4172,14651,Q133356,Q1899,P1,176727_422_652572
+1509169,Manitoba,capital,Winnipeg,673667,422,745570,What is the capital of Manitoba?,5426,13370,10620,Q1948,Q2135,P1,673667_422_745570
+1760362,Manitoba Museum,country,Canada,778656,182,355510,In what country is Manitoba Museum?,24,44,254990,Q2264019,Q16,P1,778656_182_355510
+3786185,Cordova Bay Records,country,Canada,1648946,182,355510,In what country is Cordova Bay Records?,10,15,254990,Q5170044,Q16,P1,1648946_182_355510
+2259095,Canadian Dairy Commission,country,Canada,985534,182,355510,In what country is Canadian Dairy Commission?,17,21,254990,Q2986412,Q16,P1,985534_182_355510
+5015775,India,capital,New Delhi,2215085,422,2938512,What is the capital of India?,9067,248988,13134,Q668,Q987,P1,2215085_422_2938512
+3656466,Mullsjö Municipality,country,Sweden,1586853,182,1114197,In what country is Mullsjö Municipality?,10,10,121942,Q505076,Q34,P1,1586853_182_1114197
+4106590,Figgjo,country,Norway,1797956,182,702887,In what country is Figgjo?,13,17,93952,Q5447711,Q20,P1,1797956_182_702887
+3108719,Portugal,capital,Lisbon,1324781,422,1996678,What is the capital of Portugal?,8925,60948,14947,Q45,Q597,P1,1324781_422_1996678
+4988890,Lugano Airport,country,Switzerland,2201314,182,1242173,In what country is Lugano Airport?,19,22,110248,Q661389,Q39,P1,2201314_182_1242173
+5187649,Miranda,country,Australia,2295589,182,1270922,In what country is Miranda?,32,59,255682,Q6872779,Q408,P1,2295589_182_1270922
+2826348,National Asset Management Agency,country,Ireland,1213032,182,906806,In what country is National Asset Management Agency?,32,129,16910,Q3777684,Q27,P1,1213032_182_906806
+5342543,One Mile,country,Australia,2373572,182,1270922,In what country is One Mile?,13,16,255682,Q7092897,Q408,P1,2373572_182_1270922
+2164714,American Visionary Art Museum,country,United States of America,946387,182,988513,In what country is American Visionary Art Museum?,23,84,995860,Q2843060,Q30,P1,946387_182_988513
+1660531,England,capital,London,736842,422,2840765,What is the capital of England?,73367,319545,316351,Q21,Q84,P1,736842_422_2840765
+5184392,Minister for Health,country,Australia,2293720,182,1270922,In what country is Minister for Health?,82,130,255682,Q6865857,Q408,P1,2293720_182_1270922
+1366262,Khyber Pakhtunkhwa,capital,Peshawar,608820,422,67924,What is the capital of Khyber Pakhtunkhwa?,760,3815,3084,Q183314,Q1113311,P1,608820_422_67924
+2070124,Ireland,capital,Dublin,906806,422,561639,What is the capital of Ireland?,3628,16910,35237,Q27,Q1761,P1,906806_422_561639
+3146661,Marvejols,country,France,1342325,182,230035,In what country is Marvejols?,25,35,381811,Q457631,Q142,P1,1342325_182_230035
+546090,Pennsylvania,capital,Harrisburg,222703,422,855015,What is the capital of Pennsylvania?,1764,62952,3214,Q1400,Q25280,P1,222703_422_855015
+5346032,Kingdom of France,capital,Paris,2375340,422,2874868,What is the capital of Kingdom of France?,548,3162,157342,Q70972,Q90,P1,2375340_422_2874868
+1790487,Norfolk,capital,Norwich,791035,422,160750,What is the capital of Norfolk?,1906,10493,5725,Q23109,Q130191,P1,791035_422_160750
+302854,North Dakota,capital,Bismarck,122953,422,1193785,What is the capital of North Dakota?,440,8405,775,Q1207,Q37066,P1,122953_422_1193785
+2783251,Patterson,country,United States of America,1194626,182,988513,In what country is Patterson?,32,84,995860,Q3709168,Q30,P1,1194626_182_988513
+1863504,Ware,country,United States of America,819674,182,988513,In what country is Ware?,35,106,995860,Q2414325,Q30,P1,819674_182_988513
+212190,Curtin University,country,Australia,85745,182,1270922,In what country is Curtin University?,292,635,255682,Q1145497,Q408,P1,85745_182_1270922
+1153122,Joint European Torus,country,United Kingdom,509797,182,242916,In what country is Joint European Torus?,45,96,532383,Q1702534,Q145,P1,509797_182_242916
+165529,Colorado College,country,United States of America,66919,182,988513,In what country is Colorado College?,214,792,995860,Q1111261,Q30,P1,66919_182_988513
+1685298,Slovakia,capital,Bratislava,746755,422,573471,What is the capital of Slovakia?,2532,22154,4527,Q214,Q1780,P1,746755_422_573471
+1285460,Cave,country,Italy,572265,182,1218153,In what country is Cave?,9,9,255570,Q177726,Q38,P1,572265_182_1218153
+701352,New Mexico,capital,Santa Fe,296640,422,1232995,What is the capital of New Mexico?,2021,21777,3915,Q1522,Q38555,P1,296640_422_1232995
+279768,Canton of Geneva,capital,Geneva,113124,422,2376315,What is the capital of Canton of Geneva?,465,704,17121,Q11917,Q71,P1,113124_422_2376315
+6133150,Iraq,capital,Baghdad,2763787,422,307093,What is the capital of Iraq?,5886,36999,10697,Q796,Q1530,P1,2763787_422_307093
+6533919,Peel en Maas,country,Netherlands,2932151,182,1825504,In what country is Peel en Maas?,10,10,124221,Q9785,Q55,P1,2932151_182_1825504
+6556551,Uis,country,Namibia,2940860,182,14347,In what country is Uis?,16,17,9676,Q992802,Q1030,P1,2940860_182_14347
+6154838,Globe,country,United States of America,2774477,182,988513,In what country is Globe?,98,241,995860,Q79823,Q30,P1,2774477_182_988513
+4501838,Mo i Rana,country,Norway,1984048,182,702887,In what country is Mo i Rana?,158,191,93952,Q59169,Q20,P1,1984048_182_702887
+745100,Iowa,capital,Des Moines,316741,422,1254294,What is the capital of Iowa?,1909,21766,3853,Q1546,Q39709,P1,316741_422_1254294
+3368455,Amsterdam RAI Exhibition and Convention Centre,country,Netherlands,1448032,182,1825504,In what country is Amsterdam RAI Exhibition and Convention Centre?,40,55,124221,Q478616,Q55,P1,1448032_182_1825504
+6046300,Turners Falls,country,United States of America,2716641,182,988513,In what country is Turners Falls?,33,80,995860,Q7855984,Q30,P1,2716641_182_988513
+3319861,Anaran Rural District,country,Iran,1426349,182,2753763,In what country is Anaran Rural District?,10,12,88963,Q4751612,Q794,P1,1426349_182_2753763
+6409098,Parker,country,United States of America,2885628,182,988513,In what country is Parker?,25,72,995860,Q916314,Q30,P1,2885628_182_988513
+1689760,Carson River,country,United States of America,748374,182,988513,In what country is Carson River?,64,141,995860,Q2146846,Q30,P1,748374_182_988513
+1580995,São Pedro do Sul,country,Brazil,705836,182,319527,In what country is São Pedro do Sul?,13,19,93493,Q2007743,Q155,P1,705836_182_319527
+5421647,Venezuela,capital,Caracas,2410830,422,308418,What is the capital of Venezuela?,3834,26189,5234,Q717,Q1533,P1,2410830_422_308418
+2654404,Stanley,country,Canada,1143739,182,355510,In what country is Stanley?,10,12,254990,Q3496791,Q16,P1,1143739_182_355510
+1786832,Orange,country,United States of America,789645,182,988513,In what country is Orange?,9,20,995860,Q2305582,Q30,P1,789645_182_988513
+1207361,Alabama,capital,Montgomery,537637,422,974255,What is the capital of Alabama?,1746,25563,3220,Q173,Q29364,P1,537637_422_974255
+5547087,Suriname,capital,Paramaribo,2471806,422,988746,What is the capital of Suriname?,691,5112,871,Q730,Q3001,P1,2471806_422_988746
+636616,People's Republic of China,capital,Beijing,265491,422,2916491,What is the capital of People's Republic of China?,18888,199144,31884,Q148,Q956,P1,265491_422_2916491
+2510882,Commonwealth of England,capital,London,1085288,422,2840765,What is the capital of Commonwealth of England?,545,1678,316351,Q330362,Q84,P1,1085288_422_2840765
+1388910,Belarus,capital,Minsk,621629,422,782955,What is the capital of Belarus?,2642,15869,4865,Q184,Q2280,P1,621629_422_782955
+3775555,DIC Entertainment,country,United States of America,1643413,182,988513,In what country is DIC Entertainment?,233,613,995860,Q515708,Q30,P1,1643413_182_988513
+88774,Grosseto-Prugna,country,France,34416,182,230035,In what country is Grosseto-Prugna?,12,16,381811,Q1060249,Q142,P1,34416_182_230035
+6075395,United States District Court for the District of South Carolina,country,United States of America,2731726,182,988513,In what country is United States District Court for the District of South Carolina?,58,166,995860,Q7889791,Q30,P1,2731726_182_988513
+4012239,Logan,country,Australia,1753208,182,1270922,In what country is Logan?,19,35,255682,Q5355606,Q408,P1,1753208_182_1270922
+5263647,Nazarene Theological Seminary,country,United States of America,2334953,182,988513,In what country is Nazarene Theological Seminary?,14,56,995860,Q6983281,Q30,P1,2334953_182_988513
+6475333,Tunisia,capital,Tunis,2910890,422,1167128,What is the capital of Tunisia?,2124,14236,4429,Q948,Q3572,P1,2910890_422_1167128
+1887734,Washington,country,United States of America,829728,182,988513,In what country is Washington?,46,151,995860,Q2446223,Q30,P1,829728_182_988513
+20250,Malawi,capital,Lilongwe,8491,422,1236666,What is the capital of Malawi?,355,6362,420,Q1020,Q3876,P1,8491_422_1236666
+5251883,Nashotah House,country,United States of America,2328068,182,988513,In what country is Nashotah House?,30,158,995860,Q6966890,Q30,P1,2328068_182_988513
+224056,Pelabuhanratu,country,Indonesia,90651,182,852965,In what country is Pelabuhanratu?,16,26,46211,Q1154707,Q252,P1,90651_182_852965
+1788690,County Durham,capital,Durham,790378,422,579691,What is the capital of County Durham?,421,4663,2005,Q23082,Q179815,P1,790378_422_579691
+4544622,New School,country,United States of America,2003802,182,988513,In what country is New School?,559,1867,995860,Q599316,Q30,P1,2003802_182_988513
+557793,Indiana,capital,Indianapolis,227726,422,2112253,What is the capital of Indiana?,4820,29540,12067,Q1415,Q6346,P1,227726_422_2112253
+1311100,Wadeye,country,Australia,582963,182,1270922,In what country is Wadeye?,32,50,255682,Q18028,Q408,P1,582963_182_1270922
+286654,Kanmon Bridge,country,Japan,115850,182,502871,In what country is Kanmon Bridge?,12,12,194331,Q1196470,Q17,P1,115850_182_502871
+1147579,Bundesautobahn 100,country,Germany,506743,182,607728,In what country is Bundesautobahn 100?,14,45,300448,Q17014,Q183,P1,506743_182_607728
+4521313,Hyderabad House,country,India,1992558,182,2215085,In what country is Hyderabad House?,15,20,248988,Q5953898,Q668,P1,1992558_182_2215085
+2569888,New Caledonia,capital,Noumea,1108853,422,2928795,What is the capital of New Caledonia?,870,5423,1275,Q33788,Q9733,P1,1108853_422_2928795
+2986069,Argentina,capital,Buenos Aires,1278811,422,271978,What is the capital of Argentina?,13774,69819,20370,Q414,Q1486,P1,1278811_422_271978
+6604,Guinea,capital,Conakry,2727,422,1200955,What is the capital of Guinea?,561,5695,709,Q1006,Q3733,P1,2727_422_1200955
+15805,Libya,capital,Tripoli,6597,422,1168732,What is the capital of Libya?,1902,12781,3395,Q1016,Q3579,P1,6597_422_1168732
+279081,Canton of Bern,capital,Bern,112853,422,2339883,What is the capital of Canton of Bern?,799,2037,5365,Q11911,Q70,P1,112853_422_2339883
+5781520,Lutsk,country,Ukraine,2583129,182,741995,In what country is Lutsk?,323,609,66047,Q7550,Q212,P1,2583129_182_741995
+707439,Asalem Rural District,country,Iran,299818,182,2753763,In what country is Asalem Rural District?,15,22,88963,Q15238800,Q794,P1,299818_182_2753763
+2556639,Bank of Mozambique,country,Mozambique,1103876,182,13585,In what country is Bank of Mozambique?,13,14,10047,Q3363703,Q1029,P1,1103876_182_13585
+293318,Rhineland-Palatinate,capital,Mainz,118455,422,534177,What is the capital of Rhineland-Palatinate?,527,4504,4618,Q1200,Q1720,P1,118455_422_534177
+977282,history of Ghana,country,Ghana,417353,182,99203,In what country is history of Ghana?,54,66,20224,Q16249917,Q117,P1,417353_182_99203
+2955693,Bahia,capital,Salvador,1265777,422,1190624,What is the capital of Bahia?,965,3686,1971,Q40430,Q36947,P1,1265777_422_1190624
+4775565,Tire,country,Turkey,2099467,182,1297158,In what country is Tire?,12,28,71589,Q630533,Q43,P1,2099467_182_1297158
+832908,Canada,capital,Ottawa,355510,422,663336,What is the capital of Canada?,9645,254990,17349,Q16,Q1930,P1,355510_422_663336
+3709607,Chestnut Lodge,country,United States of America,1610868,182,988513,In what country is Chestnut Lodge?,10,34,995860,Q5093965,Q30,P1,1610868_182_988513
+2880301,Millennium Biltmore Hotel,country,United States of America,1233636,182,988513,In what country is Millennium Biltmore Hotel?,50,165,995860,Q3857987,Q30,P1,1233636_182_988513
+1993670,Northern Ireland,capital,Belfast,874948,422,39748,What is the capital of Northern Ireland?,5305,25356,13452,Q26,Q10686,P1,874948_422_39748
+5904820,Massachusetts,capital,Boston,2647127,422,1,What is the capital of Massachusetts?,16415,48749,64729,Q771,Q100,P1,2647127_422_1
+1701001,Australian Labor Party,country,Australia,752364,182,1270922,In what country is Australian Labor Party?,3417,8907,255682,Q216082,Q408,P1,752364_182_1270922
+6074424,United Baptist Church,country,United States of America,2731102,182,988513,In what country is United Baptist Church?,8,14,995860,Q7887509,Q30,P1,2731102_182_988513
+691526,Novgorod Republic,capital,Veliky Novgorod,292048,422,770885,What is the capital of Novgorod Republic?,405,691,1809,Q151536,Q2235,P1,292048_422_770885
+30821,Morocco,capital,Rabat,13026,422,1160571,What is the capital of Morocco?,1685,27995,2113,Q1028,Q3551,P1,13026_422_1160571
+307727,Montana,capital,Helena,124809,422,1236000,What is the capital of Montana?,603,14352,929,Q1212,Q38733,P1,124809_422_1236000
+1550705,The Players Championship,country,United States of America,693482,182,988513,In what country is The Players Championship?,130,375,995860,Q1971029,Q30,P1,693482_182_988513
+5816105,Indiana State Road 5,country,United States of America,2602734,182,988513,In what country is Indiana State Road 5?,10,29,995860,Q760133,Q30,P1,2602734_182_988513
+2821000,French Guiana,capital,Cayenne,1210854,422,1317422,What is the capital of French Guiana?,421,3752,721,Q3769,Q44401,P1,1210854_422_1317422
+258682,Himachal Pradesh,capital,Shimla,104141,422,2839416,What is the capital of Himachal Pradesh?,443,3124,1612,Q1177,Q83786,P1,104141_422_2839416
+6560203,Criuleni,country,Moldova,2942324,182,754626,In what country is Criuleni?,13,13,7648,Q997029,Q217,P1,2942324_182_754626
+2972379,Greece,capital,Athens,1272660,422,299930,What is the capital of Greece?,10634,62055,23267,Q41,Q1524,P1,1272660_422_299930
+756863,IDEA,country,Slovakia,321619,182,746755,In what country is IDEA?,11,30,22154,Q1552951,Q214,P1,321619_182_746755
+1515801,Nova Scotia,capital,Halifax,676632,422,747005,What is the capital of Nova Scotia?,3896,16022,7499,Q1952,Q2141,P1,676632_422_747005
+6411342,Stari Ras,country,Serbia,2886637,182,1263285,In what country is Stari Ras?,49,59,31258,Q917814,Q403,P1,2886637_182_1263285
+2742951,Mangalore University,country,India,1178628,182,2215085,In what country is Mangalore University?,48,85,248988,Q3630937,Q668,P1,1178628_182_2215085
+297952,Illinois,capital,Springfield,120446,422,948883,What is the capital of Illinois?,1147,51691,1990,Q1204,Q28515,P1,120446_422_948883
+3440130,Bank of Korea,country,South Korea,1483747,182,2866409,In what country is Bank of Korea?,54,89,56524,Q485531,Q884,P1,1483747_182_2866409
+5227687,European route E5,country,Spain,2315825,182,962574,In what country is European route E5?,14,35,158211,Q693493,Q29,P1,2315825_182_962574
+1573571,Norway,capital,Oslo,702887,422,1968117,What is the capital of Norway?,12205,93952,16748,Q20,Q585,P1,702887_422_1968117
+800535,Sinaloa Cartel,country,Mexico,341761,182,2919374,In what country is Sinaloa Cartel?,352,450,115625,Q1586503,Q96,P1,341761_182_2919374
+1887736,Norfolk,country,United States of America,829730,182,988513,In what country is Norfolk?,20,124,995860,Q2446234,Q30,P1,829730_182_988513
+5348468,Orefield,country,United States of America,2376657,182,988513,In what country is Orefield?,10,21,995860,Q7101003,Q30,P1,2376657_182_988513
+12488,La Junta,country,United States of America,5244,182,988513,In what country is La Junta?,56,166,995860,Q1012444,Q30,P1,5244_182_988513
+2374633,hundred,country,Denmark,1033298,182,1145172,In what country is hundred?,136,4064,75664,Q313354,Q35,P1,1033298_182_1145172
+1162532,Palmer,country,Australia,515039,182,1270922,In what country is Palmer?,47,57,255682,Q17053705,Q408,P1,515039_182_1270922
+1259497,Quebec,capital,Quebec City,561022,422,747990,What is the capital of Quebec?,3392,41411,5879,Q176,Q2145,P1,561022_422_747990
+5209348,"Moore Park, Toronto",country,Canada,2306421,182,355510,"In what country is Moore Park, Toronto?",19,24,254990,Q6908197,Q16,P1,2306421_182_355510
+914053,Great Britain,capital,London,388323,422,2840765,What is the capital of Great Britain?,755,4093,316351,Q161885,Q84,P1,388323_422_2840765
+1678688,Czech Republic,capital,Prague,744365,422,51360,What is the capital of Czech Republic?,5917,36698,20586,Q213,Q1085,P1,744365_422_51360
+1942379,Lake City,country,United States of America,853986,182,988513,In what country is Lake City?,12,30,995860,Q2523959,Q30,P1,853986_182_988513
+6485353,BBC,country,United Kingdom,2914372,182,242916,In what country is BBC?,26338,62887,532383,Q9531,Q145,P1,2914372_182_242916
+6338836,Thailand,capital,Bangkok,2858195,422,628348,What is the capital of Thailand?,7970,47489,12114,Q869,Q1861,P1,2858195_422_628348
+6463892,1976 Swedish general election,country,Sweden,2906660,182,1114197,In what country is 1976 Swedish general election?,40,51,121942,Q941995,Q34,P1,2906660_182_1114197
+3753833,Cleveland City Council,country,United States of America,1632052,182,988513,In what country is Cleveland City Council?,42,167,995860,Q5132092,Q30,P1,1632052_182_988513
+1895103,Pal,country,Andorra,832811,182,782954,In what country is Pal?,10,12,2650,Q24558,Q228,P1,832811_182_782954
+276747,Eastern United States,country,United States of America,111914,182,988513,In what country is Eastern United States?,1198,1941,995860,Q1189650,Q30,P1,111914_182_988513
+6282605,Bethel,country,United States of America,2835465,182,988513,In what country is Bethel?,33,103,995860,Q831256,Q30,P1,2835465_182_988513
+6333374,Taiwan,capital,Taipei,2856110,422,634222,What is the capital of Taiwan?,4596,38823,6591,Q865,Q1867,P1,2856110_422_634222
+6489318,River Cess County,country,Liberia,2915814,182,5899,In what country is River Cess County?,12,13,7767,Q955095,Q1014,P1,2915814_182_5899
+5616138,Rockcastle River,country,United States of America,2502579,182,988513,In what country is Rockcastle River?,12,26,995860,Q7354985,Q30,P1,2502579_182_988513
+4514247,BT Group,country,United Kingdom,1989206,182,242916,In what country is BT Group?,966,1744,532383,Q593786,Q145,P1,1989206_182_242916
+5782265,Wethersfield,country,United States of America,2583563,182,988513,In what country is Wethersfield?,90,333,995860,Q755202,Q30,P1,2583563_182_988513
+5079352,Reppisch,country,Switzerland,2245396,182,1242173,In what country is Reppisch?,11,13,110248,Q675935,Q39,P1,2245396_182_1242173
+1225029,United Kingdom of Great Britain and Ireland,capital,London,544935,422,2840765,What is the capital of United Kingdom of Great Britain and Ireland?,1096,5049,316351,Q174193,Q84,P1,544935_422_2840765
+3771579,Combat Methamphetamine Epidemic Act of 2005,country,United States of America,1641270,182,988513,In what country is Combat Methamphetamine Epidemic Act of 2005?,16,19,995860,Q5150654,Q30,P1,1641270_182_988513
+861082,Kentucky,capital,Frankfort,365708,422,951099,What is the capital of Kentucky?,667,28640,923,Q1603,Q28603,P1,365708_422_951099
+4572720,Paso Canoas,country,Costa Rica,2016832,182,2782677,In what country is Paso Canoas?,11,11,14629,Q6065795,Q800,P1,2016832_182_2782677
+56722,Sierra Leone,capital,Freetown,22615,422,1213549,What is the capital of Sierra Leone?,1594,8125,2137,Q1044,Q3780,P1,22615_422_1213549
+6547647,Traverse City,country,United States of America,2936867,182,988513,In what country is Traverse City?,196,676,995860,Q984544,Q30,P1,2936867_182_988513

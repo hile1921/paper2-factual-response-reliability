@@ -1,0 +1,274 @@
+cohort,uid,subj,prop,gold,s_uri,o_uri,fact_index
+confirmation,2215899_182_988513,Los Angeles City High School District,country,United States of America,Q6682033,Q30,0
+confirmation,2554686_182_988513,Seton Hall Preparatory School,country,United States of America,Q7456786,Q30,1
+confirmation,1364534_182_988513,77th United States Congress,country,United States of America,Q4643615,Q30,2
+confirmation,1039871_182_2847995,International Islamic Fiqh Academy,country,Saudi Arabia,Q3155373,Q851,3
+confirmation,741000_182_502871,Japanese passport,country,Japan,Q211705,Q17,4
+confirmation,828374_182_230035,Orthez,country,France,Q244248,Q142,5
+confirmation,736914_182_852965,Hotel Indonesia,country,Indonesia,Q2100282,Q252,6
+confirmation,2847451_182_2522656,Florencia,country,Colombia,Q849859,Q739,7
+confirmation,633353_182_2736167,Ministry of Transportation,country,Egypt,Q1864879,Q79,8
+confirmation,533292_182_702887,KV Svalbard,country,Norway,Q1719188,Q20,9
+confirmation,96826_422_940660,Michigan,capital,Lansing,Q1166,Q28237,10
+confirmation,772386_422_236652,Croatia,capital,Zagreb,Q224,Q1435,11
+confirmation,2580354_422_1246306,Trinidad and Tobago,capital,Port of Spain,Q754,Q39178,12
+confirmation,692186_182_343477,Uglich,country,Russia,Q196786,Q159,13
+confirmation,1194398_182_988513,Long Lake,country,United States of America,Q3708688,Q30,14
+confirmation,761210_422_799769,Scotland,capital,Edinburgh,Q22,Q23436,15
+confirmation,2917911_422_673295,South Sudan,capital,Juba,Q958,Q1947,16
+confirmation,739611_182_2866409,Asiana Airlines,country,South Korea,Q211165,Q884,17
+confirmation,2505797_422_962576,Ecuador,capital,Quito,Q736,Q2900,18
+confirmation,2924609_422_1232716,Burundi,capital,Bujumbura,Q967,Q3854,19
+confirmation,1785884_182_1272660,Velventos,country,Greece,Q542358,Q41,20
+confirmation,1191903_422_752152,Lithuania,capital,Vilnius,Q37,Q216,21
+confirmation,1150535_182_988513,Texas,country,United States of America,Q3519335,Q30,22
+confirmation,450536_182_1145172,Istedgade,country,Denmark,Q1674847,Q35,23
+confirmation,176727_422_652572,Ukrainian Soviet Socialist Republic,capital,Kyiv,Q133356,Q1899,24
+confirmation,673667_422_745570,Manitoba,capital,Winnipeg,Q1948,Q2135,25
+confirmation,778656_182_355510,Manitoba Museum,country,Canada,Q2264019,Q16,26
+confirmation,1648946_182_355510,Cordova Bay Records,country,Canada,Q5170044,Q16,27
+confirmation,985534_182_355510,Canadian Dairy Commission,country,Canada,Q2986412,Q16,28
+confirmation,2215085_422_2938512,India,capital,New Delhi,Q668,Q987,29
+confirmation,1586853_182_1114197,Mullsjö Municipality,country,Sweden,Q505076,Q34,30
+confirmation,1797956_182_702887,Figgjo,country,Norway,Q5447711,Q20,31
+confirmation,1324781_422_1996678,Portugal,capital,Lisbon,Q45,Q597,32
+confirmation,2201314_182_1242173,Lugano Airport,country,Switzerland,Q661389,Q39,33
+confirmation,2295589_182_1270922,Miranda,country,Australia,Q6872779,Q408,34
+confirmation,1213032_182_906806,National Asset Management Agency,country,Ireland,Q3777684,Q27,35
+confirmation,2373572_182_1270922,One Mile,country,Australia,Q7092897,Q408,36
+confirmation,946387_182_988513,American Visionary Art Museum,country,United States of America,Q2843060,Q30,37
+confirmation,736842_422_2840765,England,capital,London,Q21,Q84,38
+confirmation,2293720_182_1270922,Minister for Health,country,Australia,Q6865857,Q408,39
+confirmation,608820_422_67924,Khyber Pakhtunkhwa,capital,Peshawar,Q183314,Q1113311,40
+confirmation,906806_422_561639,Ireland,capital,Dublin,Q27,Q1761,41
+confirmation,1342325_182_230035,Marvejols,country,France,Q457631,Q142,42
+confirmation,222703_422_855015,Pennsylvania,capital,Harrisburg,Q1400,Q25280,43
+confirmation,2375340_422_2874868,Kingdom of France,capital,Paris,Q70972,Q90,44
+confirmation,791035_422_160750,Norfolk,capital,Norwich,Q23109,Q130191,45
+confirmation,122953_422_1193785,North Dakota,capital,Bismarck,Q1207,Q37066,46
+confirmation,1194626_182_988513,Patterson,country,United States of America,Q3709168,Q30,47
+confirmation,819674_182_988513,Ware,country,United States of America,Q2414325,Q30,48
+confirmation,85745_182_1270922,Curtin University,country,Australia,Q1145497,Q408,49
+confirmation,509797_182_242916,Joint European Torus,country,United Kingdom,Q1702534,Q145,50
+confirmation,66919_182_988513,Colorado College,country,United States of America,Q1111261,Q30,51
+confirmation,746755_422_573471,Slovakia,capital,Bratislava,Q214,Q1780,52
+confirmation,572265_182_1218153,Cave,country,Italy,Q177726,Q38,53
+confirmation,296640_422_1232995,New Mexico,capital,Santa Fe,Q1522,Q38555,54
+confirmation,113124_422_2376315,Canton of Geneva,capital,Geneva,Q11917,Q71,55
+confirmation,2763787_422_307093,Iraq,capital,Baghdad,Q796,Q1530,56
+confirmation,2932151_182_1825504,Peel en Maas,country,Netherlands,Q9785,Q55,57
+confirmation,2940860_182_14347,Uis,country,Namibia,Q992802,Q1030,58
+confirmation,2774477_182_988513,Globe,country,United States of America,Q79823,Q30,59
+confirmation,1984048_182_702887,Mo i Rana,country,Norway,Q59169,Q20,60
+confirmation,316741_422_1254294,Iowa,capital,Des Moines,Q1546,Q39709,61
+confirmation,1448032_182_1825504,Amsterdam RAI Exhibition and Convention Centre,country,Netherlands,Q478616,Q55,62
+confirmation,2716641_182_988513,Turners Falls,country,United States of America,Q7855984,Q30,63
+confirmation,1426349_182_2753763,Anaran Rural District,country,Iran,Q4751612,Q794,64
+confirmation,2885628_182_988513,Parker,country,United States of America,Q916314,Q30,65
+confirmation,748374_182_988513,Carson River,country,United States of America,Q2146846,Q30,66
+confirmation,705836_182_319527,São Pedro do Sul,country,Brazil,Q2007743,Q155,67
+confirmation,2410830_422_308418,Venezuela,capital,Caracas,Q717,Q1533,68
+confirmation,1143739_182_355510,Stanley,country,Canada,Q3496791,Q16,69
+confirmation,789645_182_988513,Orange,country,United States of America,Q2305582,Q30,70
+confirmation,537637_422_974255,Alabama,capital,Montgomery,Q173,Q29364,71
+confirmation,2471806_422_988746,Suriname,capital,Paramaribo,Q730,Q3001,72
+confirmation,265491_422_2916491,People's Republic of China,capital,Beijing,Q148,Q956,73
+confirmation,1085288_422_2840765,Commonwealth of England,capital,London,Q330362,Q84,74
+confirmation,621629_422_782955,Belarus,capital,Minsk,Q184,Q2280,75
+confirmation,1643413_182_988513,DIC Entertainment,country,United States of America,Q515708,Q30,76
+confirmation,34416_182_230035,Grosseto-Prugna,country,France,Q1060249,Q142,77
+confirmation,2731726_182_988513,United States District Court for the District of South Carolina,country,United States of America,Q7889791,Q30,78
+confirmation,1753208_182_1270922,Logan,country,Australia,Q5355606,Q408,79
+confirmation,2334953_182_988513,Nazarene Theological Seminary,country,United States of America,Q6983281,Q30,80
+confirmation,2910890_422_1167128,Tunisia,capital,Tunis,Q948,Q3572,81
+confirmation,829728_182_988513,Washington,country,United States of America,Q2446223,Q30,82
+confirmation,8491_422_1236666,Malawi,capital,Lilongwe,Q1020,Q3876,83
+confirmation,2328068_182_988513,Nashotah House,country,United States of America,Q6966890,Q30,84
+confirmation,90651_182_852965,Pelabuhanratu,country,Indonesia,Q1154707,Q252,85
+confirmation,790378_422_579691,County Durham,capital,Durham,Q23082,Q179815,86
+confirmation,2003802_182_988513,New School,country,United States of America,Q599316,Q30,87
+confirmation,227726_422_2112253,Indiana,capital,Indianapolis,Q1415,Q6346,88
+confirmation,582963_182_1270922,Wadeye,country,Australia,Q18028,Q408,89
+confirmation,115850_182_502871,Kanmon Bridge,country,Japan,Q1196470,Q17,90
+confirmation,506743_182_607728,Bundesautobahn 100,country,Germany,Q17014,Q183,91
+confirmation,1992558_182_2215085,Hyderabad House,country,India,Q5953898,Q668,92
+confirmation,1108853_422_2928795,New Caledonia,capital,Noumea,Q33788,Q9733,93
+confirmation,1278811_422_271978,Argentina,capital,Buenos Aires,Q414,Q1486,94
+confirmation,2727_422_1200955,Guinea,capital,Conakry,Q1006,Q3733,95
+confirmation,6597_422_1168732,Libya,capital,Tripoli,Q1016,Q3579,96
+confirmation,112853_422_2339883,Canton of Bern,capital,Bern,Q11911,Q70,97
+confirmation,2583129_182_741995,Lutsk,country,Ukraine,Q7550,Q212,98
+confirmation,299818_182_2753763,Asalem Rural District,country,Iran,Q15238800,Q794,99
+confirmation,1103876_182_13585,Bank of Mozambique,country,Mozambique,Q3363703,Q1029,100
+confirmation,118455_422_534177,Rhineland-Palatinate,capital,Mainz,Q1200,Q1720,101
+confirmation,417353_182_99203,history of Ghana,country,Ghana,Q16249917,Q117,102
+confirmation,1265777_422_1190624,Bahia,capital,Salvador,Q40430,Q36947,103
+confirmation,2099467_182_1297158,Tire,country,Turkey,Q630533,Q43,104
+confirmation,355510_422_663336,Canada,capital,Ottawa,Q16,Q1930,105
+confirmation,1610868_182_988513,Chestnut Lodge,country,United States of America,Q5093965,Q30,106
+confirmation,1233636_182_988513,Millennium Biltmore Hotel,country,United States of America,Q3857987,Q30,107
+confirmation,874948_422_39748,Northern Ireland,capital,Belfast,Q26,Q10686,108
+confirmation,2647127_422_1,Massachusetts,capital,Boston,Q771,Q100,109
+confirmation,752364_182_1270922,Australian Labor Party,country,Australia,Q216082,Q408,110
+confirmation,2731102_182_988513,United Baptist Church,country,United States of America,Q7887509,Q30,111
+confirmation,292048_422_770885,Novgorod Republic,capital,Veliky Novgorod,Q151536,Q2235,112
+confirmation,13026_422_1160571,Morocco,capital,Rabat,Q1028,Q3551,113
+confirmation,124809_422_1236000,Montana,capital,Helena,Q1212,Q38733,114
+confirmation,693482_182_988513,The Players Championship,country,United States of America,Q1971029,Q30,115
+confirmation,2602734_182_988513,Indiana State Road 5,country,United States of America,Q760133,Q30,116
+confirmation,1210854_422_1317422,French Guiana,capital,Cayenne,Q3769,Q44401,117
+confirmation,104141_422_2839416,Himachal Pradesh,capital,Shimla,Q1177,Q83786,118
+confirmation,2942324_182_754626,Criuleni,country,Moldova,Q997029,Q217,119
+confirmation,1272660_422_299930,Greece,capital,Athens,Q41,Q1524,120
+confirmation,321619_182_746755,IDEA,country,Slovakia,Q1552951,Q214,121
+confirmation,676632_422_747005,Nova Scotia,capital,Halifax,Q1952,Q2141,122
+confirmation,2886637_182_1263285,Stari Ras,country,Serbia,Q917814,Q403,123
+confirmation,1178628_182_2215085,Mangalore University,country,India,Q3630937,Q668,124
+confirmation,120446_422_948883,Illinois,capital,Springfield,Q1204,Q28515,125
+confirmation,1483747_182_2866409,Bank of Korea,country,South Korea,Q485531,Q884,126
+confirmation,2315825_182_962574,European route E5,country,Spain,Q693493,Q29,127
+confirmation,702887_422_1968117,Norway,capital,Oslo,Q20,Q585,128
+confirmation,341761_182_2919374,Sinaloa Cartel,country,Mexico,Q1586503,Q96,129
+confirmation,829730_182_988513,Norfolk,country,United States of America,Q2446234,Q30,130
+confirmation,2376657_182_988513,Orefield,country,United States of America,Q7101003,Q30,131
+confirmation,5244_182_988513,La Junta,country,United States of America,Q1012444,Q30,132
+confirmation,1033298_182_1145172,hundred,country,Denmark,Q313354,Q35,133
+confirmation,515039_182_1270922,Palmer,country,Australia,Q17053705,Q408,134
+confirmation,561022_422_747990,Quebec,capital,Quebec City,Q176,Q2145,135
+confirmation,2306421_182_355510,"Moore Park, Toronto",country,Canada,Q6908197,Q16,136
+confirmation,388323_422_2840765,Great Britain,capital,London,Q161885,Q84,137
+confirmation,744365_422_51360,Czech Republic,capital,Prague,Q213,Q1085,138
+confirmation,853986_182_988513,Lake City,country,United States of America,Q2523959,Q30,139
+confirmation,2914372_182_242916,BBC,country,United Kingdom,Q9531,Q145,140
+confirmation,2858195_422_628348,Thailand,capital,Bangkok,Q869,Q1861,141
+confirmation,2906660_182_1114197,1976 Swedish general election,country,Sweden,Q941995,Q34,142
+confirmation,1632052_182_988513,Cleveland City Council,country,United States of America,Q5132092,Q30,143
+confirmation,832811_182_782954,Pal,country,Andorra,Q24558,Q228,144
+confirmation,111914_182_988513,Eastern United States,country,United States of America,Q1189650,Q30,145
+confirmation,2835465_182_988513,Bethel,country,United States of America,Q831256,Q30,146
+confirmation,2856110_422_634222,Taiwan,capital,Taipei,Q865,Q1867,147
+confirmation,2915814_182_5899,River Cess County,country,Liberia,Q955095,Q1014,148
+confirmation,2502579_182_988513,Rockcastle River,country,United States of America,Q7354985,Q30,149
+confirmation,1989206_182_242916,BT Group,country,United Kingdom,Q593786,Q145,150
+confirmation,2583563_182_988513,Wethersfield,country,United States of America,Q755202,Q30,151
+confirmation,2245396_182_1242173,Reppisch,country,Switzerland,Q675935,Q39,152
+confirmation,544935_422_2840765,United Kingdom of Great Britain and Ireland,capital,London,Q174193,Q84,153
+confirmation,1641270_182_988513,Combat Methamphetamine Epidemic Act of 2005,country,United States of America,Q5150654,Q30,154
+confirmation,365708_422_951099,Kentucky,capital,Frankfort,Q1603,Q28603,155
+confirmation,2016832_182_2782677,Paso Canoas,country,Costa Rica,Q6065795,Q800,156
+confirmation,22615_422_1213549,Sierra Leone,capital,Freetown,Q1044,Q3780,157
+confirmation,2936867_182_988513,Traverse City,country,United States of America,Q984544,Q30,158
+original,769516_422_777526,Greenland,capital,Nuuk,Q223,Q226,159
+original,242916_422_2840765,United Kingdom,capital,London,Q145,Q84,160
+original,838648_182_17917,Uganda Communications Commission,country,Uganda,Q2473869,Q1036,161
+original,2827475_422_437403,Arizona,capital,Phoenix,Q816,Q16556,162
+original,323307_182_1263285,FEST,country,Serbia,Q1557895,Q403,163
+original,257418_182_988513,Haw River,country,United States of America,Q14707960,Q30,164
+original,749148_422_1308417,Slovenia,capital,Ljubljana,Q215,Q437,165
+original,1277986_422_2135299,Weimar Republic,capital,Berlin,Q41304,Q64,166
+original,2583369_182_988513,Severna Park,country,United States of America,Q755102,Q30,167
+original,695976_182_355510,Abenaki,country,Canada,Q197936,Q16,168
+original,2929247_422_1228630,Democratic Republic of the Congo,capital,Kinshasa,Q974,Q3838,169
+original,343477_422_2169018,Russia,capital,Moscow,Q159,Q649,170
+original,820885_182_988513,Troy,country,United States of America,Q2418254,Q30,171
+original,2152772_182_1270922,Belair National Park,country,Australia,Q643818,Q408,172
+original,698218_182_988513,Mechanicsburg,country,United States of America,Q1986032,Q30,173
+original,2908389_182_988513,USS Constitution,country,United States of America,Q944436,Q30,174
+original,2358831_182_355510,Nova Scotia Archives and Records Management,country,Canada,Q7064104,Q16,175
+original,2940248_182_988513,Oxford,country,United States of America,Q990940,Q30,176
+original,840400_182_988513,Maryland Route 214,country,United States of America,Q2480211,Q30,177
+original,2325270_182_1283964,Juliaca,country,Peru,Q696074,Q419,178
+original,2829570_182_502871,Ena,country,Japan,Q819653,Q17,179
+original,169970_182_14347,Eros Airport,country,Namibia,Q1321635,Q1030,180
+original,847062_422_40007,Wales,capital,Cardiff,Q25,Q10690,181
+original,1195715_182_2753763,Khafr County,country,Iran,Q371283,Q794,182
+original,83870_182_962574,Girona-Costa Brava Airport,country,Spain,Q1142410,Q29,183
+original,1129082_182_988513,Raymond,country,United States of America,Q3447575,Q30,184
+original,2306964_422_1183349,Papua New Guinea,capital,Port Moresby,Q691,Q36526,185
+original,2825351_422_1219073,Jordan,capital,Amman,Q810,Q3805,186
+original,433545_182_319527,1991 Copa do Brasil,country,Brazil,Q1648364,Q155,187
+original,312029_182_744365,Komerční banka,country,Czech Republic,Q1541079,Q213,188
+original,1112690_422_51360,Czechoslovakia,capital,Prague,Q33946,Q1085,189
+original,2852956_182_2830787,Middle East Airlines,country,Lebanon,Q859510,Q822,190
+original,2229286_422_1117033,Tuvalu,capital,Funafuti,Q672,Q34126,191
+original,1326499_182_2788922,One Nation,country,Israel,Q451237,Q801,192
+original,763428_422_1229034,North Macedonia,capital,Skopje,Q221,Q384,193
+original,586051_182_1241472,Satrapy of Armenia,country,Achaemenid Empire,Q18083901,Q389688,194
+original,30126_182_2894363,Central Philippine University,country,Philippines,Q1053944,Q928,195
+original,1286508_182_2866409,Iksan,country,South Korea,Q42137,Q884,196
+original,2800921_182_1270922,Woodford,country,Australia,Q8032636,Q408,197
+original,2205947_182_1270922,Forbes Shire,country,Australia,Q664896,Q408,198
+original,1713642_422_815434,European Economic Community,capital,Brussels Capital Region,Q52847,Q240,199
+original,1975683_182_1270922,Hobbledehoy Record Co.,country,Australia,Q5874846,Q408,200
+original,2605813_182_983896,El Salvador,country,Chile,Q760814,Q298,201
+original,2087188_182_2894363,Malay,country,Philippines,Q626905,Q928,202
+original,1871914_182_988513,Illinois State University,country,United States of America,Q558922,Q30,203
+original,2638676_182_988513,Hudson,country,United States of America,Q768903,Q30,204
+original,2939399_182_988513,Marathon,country,United States of America,Q988947,Q30,205
+original,2260149_182_355510,Masset Inlet,country,Canada,Q6784591,Q16,206
+original,708602_182_1021279,Park metro station,country,Belgium,Q2016757,Q31,207
+original,175823_182_343477,Volgodonsk,country,Russia,Q133175,Q159,208
+original,811017_182_2788922,Maki,country,Israel,Q2383903,Q801,209
+original,1447425_182_355510,Jam Filled Entertainment,country,Canada,Q4785019,Q16,210
+original,864527_182_2215085,Sircilla,country,India,Q2563435,Q668,211
+original,780040_422_2891922,Azerbaijan,capital,Baku,Q227,Q9248,212
+original,792180_422_2844630,Somerset,capital,Taunton,Q23157,Q845619,213
+original,299987_182_2753763,Eshkevar-e Sofla Rural District,country,Iran,Q15240503,Q794,214
+original,2734173_182_988513,University of Central Missouri,country,United States of America,Q7895252,Q30,215
+original,2941385_182_1263285,Majdanpek,country,Serbia,Q994331,Q403,216
+original,1168664_182_1114197,"Faculty of Engineering (LTH), Lund University",country,Sweden,Q3578307,Q34,217
+original,1450909_182_988513,Arizona Theatre Company,country,United States of America,Q4791451,Q30,218
+original,1639475_182_988513,College of the Atlantic,country,United States of America,Q5146880,Q30,219
+original,2597830_422_941030,New Hampshire,capital,Concord,Q759,Q28249,220
+original,1747571_182_852965,University of Indonesia,country,Indonesia,Q534515,Q252,221
+original,1286759_182_1270922,The Star,country,Australia,Q4216004,Q408,222
+original,787894_422_2941259,Georgia,capital,Tbilisi,Q230,Q994,223
+original,2437379_182_988513,Port of Beaumont,country,United States of America,Q7231085,Q30,224
+original,2863349_422_293688,United Arab Emirates,capital,Abu Dhabi,Q878,Q1519,225
+original,1934497_182_988513,Madison,country,United States of America,Q575397,Q30,226
+original,2204434_422_806310,New Zealand,capital,Wellington,Q664,Q23661,227
+original,578609_182_355510,Kuujjuarapik,country,Canada,Q1794745,Q16,228
+original,750808_182_988513,West Park,country,United States of America,Q2155989,Q30,229
+original,1154602_182_2215085,Mumbai Monorail,country,India,Q3530568,Q668,230
+original,320730_182_758991,Order of Saints Cyril and Methodius,country,Bulgaria,Q1551843,Q219,231
+original,2047018_182_502871,Japan–South Korea relations,country,Japan,Q6159249,Q17,232
+original,790597_422_581817,Lincolnshire,capital,Lincoln,Q23090,Q180057,233
+original,166858_182_988513,Laika,country,United States of America,Q1314323,Q30,234
+original,107326_182_2869258,Deh Rahwod District,country,Afghanistan,Q1183073,Q889,235
+original,795586_422_744818,Kent,capital,Maidstone,Q23298,Q213180,236
+original,2864945_422_627146,Vietnam,capital,Hanoi,Q881,Q1858,237
+original,835684_182_2920830,Cové,country,Benin,Q2464735,Q962,238
+original,883431_182_1263285,Rusyn,country,Serbia,Q26245,Q403,239
+original,2893593_182_772386,Lim,country,Croatia,Q926981,Q224,240
+original,1003907_182_1114748,Vaiea,country,Niue,Q3045571,Q34020,241
+original,1959412_182_319527,Leme,country,Brazil,Q582880,Q155,242
+original,139755_182_749148,Ig,country,Slovenia,Q1251740,Q215,243
+original,386268_182_230035,Anse,country,France,Q1617103,Q142,244
+original,1274156_182_355510,West Perth,country,Canada,Q4115403,Q16,245
+original,507006_182_265491,Central Cyberspace Affairs Commission,country,People's Republic of China,Q17014910,Q148,246
+original,12771_182_2736167,Tura,country,Egypt,Q1027627,Q79,247
+original,1620458_182_2825351,Abkhaz,country,Jordan,Q5111,Q810,248
+original,2900469_182_1297158,Erdemir,country,Turkey,Q934796,Q43,249
+original,2825766_422_1073673,Nicaragua,capital,Managua,Q811,Q3274,250
+original,2265125_182_502871,Chubu Centrair International Airport,country,Japan,Q679345,Q17,251
+original,1194959_182_988513,Murray,country,United States of America,Q3709879,Q30,252
+original,836168_182_763428,Macedonian Academy of Sciences and Arts,country,North Macedonia,Q2466285,Q221,253
+original,832930_182_988513,Chester,country,United States of America,Q2456185,Q30,254
+original,1685963_182_1218153,Monti della Tolfa,country,Italy,Q523409,Q38,255
+original,1269657_182_988513,U.S. Route 7,country,United States of America,Q406788,Q30,256
+original,338290_422_939074,Missouri,capital,Jefferson City,Q1581,Q28180,257
+original,798970_182_702887,Bouvet Island,country,Norway,Q23408,Q20,258
+original,719898_182_988513,Little River,country,United States of America,Q2050543,Q30,259
+original,1017207_182_988513,Chicago Fire FC,country,United States of America,Q308683,Q30,260
+original,2674916_182_988513,The Tech Interactive,country,United States of America,Q7768226,Q30,261
+original,2063973_182_988513,Appalachian State University,country,United States of America,Q620640,Q30,262
+original,1343681_422_2199881,European Union,capital,Strasbourg,Q458,Q6602,263
+original,628213_182_988513,Fox News,country,United States of America,Q186068,Q30,264
+original,708300_182_1272660,Pindus,country,Greece,Q201582,Q41,265
+original,134258_182_988513,US Open,country,United States of America,Q123577,Q30,266
+original,841552_182_2215085,Lucknow Division,country,India,Q2483390,Q668,267
+original,17917_422_1240896,Uganda,capital,Kampala,Q1036,Q3894,268
+original,767082_182_988513,Hawi,country,United States of America,Q2221102,Q30,269
+original,1930274_422_2897238,East Timor,capital,Dili,Q574,Q9310,270
+original,1186824_422_1036090,Victoria,capital,Melbourne,Q36687,Q3141,271
+original,1250770_182_2718418,Sabana de la Mar,country,Dominican Republic,Q3944208,Q786,272

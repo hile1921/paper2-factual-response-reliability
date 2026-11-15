@@ -1,0 +1,87 @@
+{
+  "phase": "forward_prediction",
+  "seconds": 30.21,
+  "comparisons": [
+    {
+      "table": "C2_ERROR_UPPER_SENSITIVITY.csv",
+      "pass": true,
+      "rows": 2
+    },
+    {
+      "table": "C2_FOLD_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 550
+    },
+    {
+      "table": "C2_FOLD_DIAGNOSTICS_PERSISTENCE.csv",
+      "pass": true,
+      "rows": 156
+    },
+    {
+      "table": "C2_FORWARD_COVERAGE.csv",
+      "pass": true,
+      "rows": 4
+    },
+    {
+      "table": "C2_FORWARD_TRANSITIONS_ALL.csv",
+      "pass": true,
+      "rows": 168
+    },
+    {
+      "table": "C2_FORWARD_TRANSITIONS_VALID.csv",
+      "pass": true,
+      "rows": 136
+    },
+    {
+      "table": "C2_LAMBDA_SENSITIVITY.csv",
+      "pass": true,
+      "rows": 6
+    },
+    {
+      "table": "C2_LEAVE_ONE_SUBJECT_OUT_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 42
+    },
+    {
+      "table": "C2_MODEL_COMPARISON_FORWARD.csv",
+      "pass": true,
+      "rows": 5
+    },
+    {
+      "table": "C2_MODEL_COMPARISON_PERSISTENCE.csv",
+      "pass": true,
+      "rows": 2
+    },
+    {
+      "table": "C2_OOF_PREDICTIONS_FORWARD.csv",
+      "pass": true,
+      "rows": 550
+    },
+    {
+      "table": "C2_OOF_PREDICTIONS_FORWARD_PERSISTENCE.csv",
+      "pass": true,
+      "rows": 156
+    },
+    {
+      "table": "C2_PAIRED_SUBJECT_BOOTSTRAP.csv",
+      "pass": true,
+      "rows": 17
+    },
+    {
+      "table": "C2_SIGNFLIP_TESTS.csv",
+      "pass": true,
+      "rows": 1
+    },
+    {
+      "table": "C2_STAGE_SPECIFIC_RESULTS.csv",
+      "pass": true,
+      "rows": 15
+    }
+  ],
+  "passed": true,
+  "scope": "Recompute saved analyses with the original rules; no GPU or network.",
+  "archived_tables_not_recomputed": [
+    "C2_PAIRED_SUBJECT_BOOTSTRAP_PERSISTENCE.csv",
+    "C2_STAGE_DELTAS.csv"
+  ]
+}

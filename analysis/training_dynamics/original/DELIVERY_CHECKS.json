@@ -1,0 +1,25 @@
+{
+  "passed": 18,
+  "checks": [
+    "All snapshot source hashes unchanged",
+    "Exactly117 complete checkpoints",
+    "C1 denominator319410",
+    "C3 raw46800 unique23400",
+    "Duplicate scored and generated realizations identical",
+    "All20 expected fact relations externally verified",
+    "Correct cluster denominators",
+    "Binding uses only5 independent pairs",
+    "Holm never reduces a p value",
+    "Intervals enclose point estimates",
+    "OLMo final capital NoContext20 unique inputs",
+    "Direct raw score count20of20 correct",
+    "OLMo sampled denominator80 and target hits49",
+    "Ranking disagreement recomputed directly",
+    "10 common facts, no fabricated historical competitor matches",
+    "error events=2932 entity pairs=788 (recomputed)",
+    "TuvaluSuva in 4 models 3 families, n=56",
+    "Original corpus not reclassified as new model exposure"
+  ],
+  "independent_human_audit": false,
+  "scope": "CPU program cross-check; not an independent human or causal-mechanism review"
+}

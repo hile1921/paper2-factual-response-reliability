@@ -1,0 +1,4 @@
+model,early_wrong,early_scorable,early_B,late_wrong,late_scorable,late_B,diff,ci_lo,ci_hi
+OLMo-1B,56,193,0.2902,30,1040,0.0288,0.2613,0.1676,0.3581
+Pythia-1B,539,2471,0.2181,241,3927,0.0614,0.1568,0.0842,0.2338
+Pythia-410M,497,1343,0.3701,379,2620,0.1447,0.2254,0.1032,0.3572

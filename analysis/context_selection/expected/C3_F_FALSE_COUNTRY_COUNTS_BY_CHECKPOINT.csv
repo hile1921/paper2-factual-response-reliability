@@ -1,0 +1,233 @@
+analysis,checkpoint,arm,target_country,k,N
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Argentina,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Azerbaijan,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Belarus,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Canada,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Croatia,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Czech Republic,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Democratic Republic of the Congo,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,East Timor,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,French Guiana,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Greenland,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Guinea,9,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,India,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Iraq,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Jordan,0,800
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Morocco,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,New Caledonia,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Nicaragua,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Norway,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,People's Republic of China,4,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Russia,0,600
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Sierra Leone,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Slovakia,37,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Slovenia,2,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,South Sudan,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Suriname,12,600
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Tunisia,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Tuvalu,10,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,C_true,Uganda,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Argentina,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Azerbaijan,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Belarus,1,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Canada,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Croatia,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Czech Republic,14,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Democratic Republic of the Congo,4,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,East Timor,3,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,French Guiana,7,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Greenland,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Guinea,108,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,India,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Iraq,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Jordan,0,800
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Morocco,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,New Caledonia,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Nicaragua,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Norway,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,People's Republic of China,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Russia,0,600
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Sierra Leone,9,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Slovakia,20,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Slovenia,12,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,South Sudan,0,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Suriname,52,600
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Tunisia,0,400
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Tuvalu,64,200
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,F_false,Uganda,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Argentina,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Azerbaijan,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Belarus,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Canada,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Croatia,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Czech Republic,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Democratic Republic of the Congo,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,East Timor,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,French Guiana,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Greenland,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Guinea,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,India,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Iraq,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Jordan,0,800
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Morocco,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,New Caledonia,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Nicaragua,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Norway,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,People's Republic of China,4,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Russia,0,600
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Sierra Leone,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Slovakia,76,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Slovenia,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,South Sudan,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Suriname,0,600
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Tunisia,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Tuvalu,3,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,C_true,Uganda,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Argentina,5,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Azerbaijan,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Belarus,4,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Canada,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Croatia,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Czech Republic,9,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Democratic Republic of the Congo,13,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,East Timor,5,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,French Guiana,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Greenland,14,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Guinea,25,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,India,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Iraq,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Jordan,0,800
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Morocco,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,New Caledonia,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Nicaragua,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Norway,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,People's Republic of China,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Russia,0,600
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Sierra Leone,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Slovakia,5,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Slovenia,6,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,South Sudan,0,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Suriname,8,600
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Tunisia,1,400
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Tuvalu,64,200
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,F_false,Uganda,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Argentina,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Azerbaijan,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Belarus,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Canada,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Croatia,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Czech Republic,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Democratic Republic of the Congo,4,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,East Timor,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,French Guiana,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Greenland,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Guinea,36,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,India,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Iraq,1,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Jordan,0,800
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Morocco,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,New Caledonia,1,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Nicaragua,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Norway,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,People's Republic of China,67,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Russia,1,600
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Sierra Leone,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Slovakia,7,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Slovenia,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,South Sudan,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Suriname,1,600
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Tunisia,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Tuvalu,8,200
+mixed_entity_type_F_control,pythia-1b_step143000,C_true,Uganda,20,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Argentina,6,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Azerbaijan,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Belarus,7,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Canada,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Croatia,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Czech Republic,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Democratic Republic of the Congo,27,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,East Timor,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,French Guiana,1,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Greenland,6,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Guinea,85,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,India,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Iraq,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Jordan,2,800
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Morocco,1,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,New Caledonia,8,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Nicaragua,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Norway,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,People's Republic of China,43,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Russia,8,600
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Sierra Leone,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Slovakia,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Slovenia,5,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,South Sudan,0,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Suriname,14,600
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Trinidad and Tobago,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Tunisia,0,400
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Tuvalu,44,200
+mixed_entity_type_F_control,pythia-1b_step143000,F_false,Uganda,42,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Argentina,32,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Azerbaijan,40,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Belarus,54,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Canada,0,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Croatia,2,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Czech Republic,51,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Democratic Republic of the Congo,40,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,East Timor,8,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,French Guiana,29,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Greenland,9,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Guinea,39,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,India,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Iraq,1,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Jordan,8,800
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Morocco,0,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,New Caledonia,15,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Nicaragua,8,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Norway,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,People's Republic of China,128,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Russia,73,600
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Sierra Leone,10,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Slovakia,89,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Slovenia,11,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,South Sudan,2,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Suriname,56,600
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Trinidad and Tobago,12,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Tunisia,3,400
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Tuvalu,6,200
+mixed_entity_type_F_control,pythia-410m_step143000,C_true,Uganda,14,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Argentina,30,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Azerbaijan,54,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Belarus,57,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Canada,0,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Croatia,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Czech Republic,118,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Democratic Republic of the Congo,106,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,East Timor,37,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,French Guiana,14,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Greenland,11,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Guinea,20,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,India,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Iraq,2,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Jordan,32,800
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Morocco,0,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,New Caledonia,14,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Nicaragua,4,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Norway,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,People's Republic of China,76,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Russia,4,600
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Sierra Leone,8,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Slovakia,39,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Slovenia,59,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,South Sudan,2,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Suriname,64,600
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Trinidad and Tobago,5,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Tunisia,24,400
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Tuvalu,0,200
+mixed_entity_type_F_control,pythia-410m_step143000,F_false,Uganda,28,200

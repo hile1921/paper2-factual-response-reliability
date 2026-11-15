@@ -1,0 +1,17 @@
+analysis,estimand,checkpoint,p_raw,p_holm
+valid_country_subset,micro,olmo-1b_step369000-tokens1547B,0.18750309942970494,0.5625092982891149
+valid_country_subset,micro,olmo-1b_step738020-tokens3094B,0.21875298022087014,0.5625092982891149
+valid_country_subset,micro,pythia-1b_step143000,0.5468767285281046,0.5625092982891149
+valid_country_subset,micro,pythia-410m_step143000,0.0031776307005664806,0.012710522802265922
+mixed_entity_type_F_control,micro,olmo-1b_step369000-tokens1547B,0.04654767261636918,0.13964301784910754
+mixed_entity_type_F_control,micro,olmo-1b_step738020-tokens3094B,0.4784760761961902,0.9569521523923804
+mixed_entity_type_F_control,micro,pythia-1b_step143000,0.03419829008549573,0.1367931603419829
+mixed_entity_type_F_control,micro,pythia-410m_step143000,0.6699165041747912,0.9569521523923804
+valid_country_subset,macro,olmo-1b_step369000-tokens1547B,0.18750309942970494,0.5625092982891149
+valid_country_subset,macro,olmo-1b_step738020-tokens3094B,0.28125274180320053,0.5625092982891149
+valid_country_subset,macro,pythia-1b_step143000,0.5468767285281046,0.5625092982891149
+valid_country_subset,macro,pythia-410m_step143000,0.0031776307005664806,0.012710522802265922
+mixed_entity_type_F_control,macro,olmo-1b_step369000-tokens1547B,0.032698365081745916,0.13079346032698366
+mixed_entity_type_F_control,macro,olmo-1b_step738020-tokens3094B,0.3639818009099545,0.727963601819909
+mixed_entity_type_F_control,macro,pythia-1b_step143000,0.08384580770961451,0.25153742312884353
+mixed_entity_type_F_control,macro,pythia-410m_step143000,0.5523723813809309,0.727963601819909

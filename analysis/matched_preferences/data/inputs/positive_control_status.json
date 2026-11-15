@@ -1,0 +1,32 @@
+{
+  "positive_control_passed": false,
+  "template_gates": [
+    {
+      "template": 0,
+      "correct_gain_mean": 0.020833333333333332,
+      "seeds_gain_at_least_10pp": 0,
+      "uncertain_change_mean": -0.020833333333333332,
+      "gold_sum_gain_mean": 0.3524107912235195,
+      "passed": false
+    },
+    {
+      "template": 1,
+      "correct_gain_mean": 0.0625,
+      "seeds_gain_at_least_10pp": 0,
+      "uncertain_change_mean": -0.041666666666666664,
+      "gold_sum_gain_mean": 1.2590627563052597,
+      "passed": false
+    }
+  ],
+  "outputs": 1170,
+  "target_outputs": 858,
+  "old_control_outputs": 312,
+  "score_sequences": 52,
+  "optimizer_updates": 192,
+  "paired_training_checks": 96,
+  "interpretation": "development measurement gate only, not independent causal confirmation",
+  "old_transfer_controls_qualified": false,
+  "automatic_four_branch_launch": false,
+  "primary_step": 32,
+  "full_response_FEI_identified": false
+}

@@ -1,0 +1,1913 @@
+{
+  "name": "seed303_C",
+  "step": 16,
+  "config_sha256": "0e8f59cdd2bbc0155955c6984f1812300a322a0f1f5c681d2afb783091dc0358",
+  "records": [
+    {
+      "kind": "target",
+      "template": 0,
+      "subject": "Belize",
+      "gold": "Belmopan",
+      "wrong": "Belize City",
+      "prompt": "The capital of Belize is",
+      "scores": [
+        {
+          "role": "gold",
+          "answer": "Belmopan",
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276
+          ],
+          "token_logprobs": [
+            -3.0022289752960205,
+            -0.029556691646575928,
+            -0.009960471652448177,
+            -0.0002980979916173965
+          ],
+          "sum_logprob": -3.042044236586662,
+          "mean_logprob": -0.7605110591466655,
+          "first_token_logprob": -3.0022289752960205
+        },
+        {
+          "role": "wrong",
+          "answer": "Belize City",
+          "token_ids": [
+            98104,
+            4409
+          ],
+          "token_logprobs": [
+            -2.3772289752960205,
+            -0.05613825097680092
+          ],
+          "sum_logprob": -2.4333672262728214,
+          "mean_logprob": -1.2166836131364107,
+          "first_token_logprob": -2.3772289752960205
+        }
+      ],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            98104,
+            4409,
+            11,
+            323,
+            279,
+            6864,
+            315,
+            98104,
+            4409
+          ],
+          "text": " the capital of Belize City, and the capital of Belize City"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            38018,
+            555,
+            264,
+            4900,
+            902,
+            17610,
+            315,
+            220,
+            868,
+            16689,
+            11452,
+            315
+          ],
+          "text": " administered by a President which consists of 15 elected Head of"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            18172,
+            7928,
+            3363,
+            389,
+            279,
+            8339,
+            449,
+            922,
+            220,
+            18,
+            3610
+          ],
+          "text": " the fifth largest city on the Amazon with about 3 million"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4003,
+          "token_ids": [
+            15871,
+            7559,
+            304,
+            279,
+            6864,
+            323,
+            374,
+            43582,
+            44681,
+            4359,
+            2727,
+            11
+          ],
+          "text": " primarily located in the capital and is Pedro Manuel Godme,"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4004,
+          "token_ids": [
+            4613,
+            555,
+            29461,
+            220,
+            1032,
+            13,
+            17,
+            323,
+            220,
+            1032,
+            13,
+            18
+          ],
+          "text": " defined by Articles 13.2 and 13.3"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4005,
+          "token_ids": [
+            8965,
+            14183,
+            311,
+            439,
+            98104,
+            4409,
+            11,
+            8051,
+            433,
+            374,
+            539,
+            264
+          ],
+          "text": " generally referred to as Belize City, although it is not a"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4006,
+          "token_ids": [
+            98104,
+            4409,
+            13,
+            7648,
+            5789,
+            304,
+            98104,
+            527,
+            15135,
+            35374,
+            49028,
+            1778
+          ],
+          "text": " Belize City. Most areas in Belize are interior Caribbean colonies such"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4007,
+          "token_ids": [
+            15609,
+            555,
+            279,
+            6864,
+            315,
+            98104,
+            4409,
+            320,
+            37469,
+            95875,
+            98104,
+            276
+          ],
+          "text": " represented by the capital of Belize City (placed abbreviated Belizean"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4008,
+          "token_ids": [
+            220,
+            19944,
+            23,
+            9518,
+            52957,
+            11,
+            719,
+            6864,
+            279,
+            3224,
+            374,
+            7559
+          ],
+          "text": " 6088 square kilometres, but capital the country is located"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4009,
+          "token_ids": [
+            304,
+            98104,
+            4409,
+            11,
+            14659,
+            88560,
+            11,
+            902,
+            374,
+            264,
+            12309,
+            2678
+          ],
+          "text": " in Belize City, Baikal, which is a relatively small"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4010,
+          "token_ids": [
+            52082,
+            2319,
+            447,
+            438,
+            583,
+            902,
+            374,
+            459,
+            29149,
+            6424,
+            902,
+            374
+          ],
+          "text": " Ackohquandrou which is an agricultural town which is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4011,
+          "token_ids": [
+            19073,
+            91389,
+            11,
+            323,
+            8560,
+            44957,
+            60533,
+            374,
+            7829,
+            14228,
+            13,
+            1115
+          ],
+          "text": " officially bilingual, and Malayan nationalism is culture-related. This"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4012,
+          "token_ids": [
+            1101,
+            3967,
+            439,
+            279,
+            328,
+            12119,
+            16965,
+            13,
+            578,
+            3363,
+            374,
+            7559
+          ],
+          "text": " also known as the Sauswan. The city is located"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4013,
+          "token_ids": [
+            362,
+            41408,
+            382,
+            3947,
+            527,
+            912,
+            8776,
+            14598,
+            520,
+            279,
+            5165,
+            5492
+          ],
+          "text": " Aaben.\n\nThere are no traditional Season at the National Home"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4014,
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276,
+            13,
+            578,
+            7928,
+            3363,
+            374,
+            1708,
+            1195,
+            7583
+          ],
+          "text": " Belmopan. The largest city is Almería"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4015,
+          "token_ids": [
+            538,
+            291,
+            311,
+            264,
+            19562,
+            14918,
+            10825,
+            311,
+            8854,
+            439,
+            264,
+            3169
+          ],
+          "text": " classed to a franchise mainly intended to serve as a kind"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4016,
+          "token_ids": [
+            18255,
+            1139,
+            2380,
+            27536,
+            11,
+            1855,
+            27800,
+            555,
+            459,
+            16689,
+            74133,
+            13
+          ],
+          "text": " divided into three districts, each governed by an elected superintendent."
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4017,
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276,
+            13,
+            1443,
+            12160,
+            28280,
+            9607,
+            10647,
+            374,
+            220
+          ],
+          "text": " Belmopan. Shelly Robinson-Duke is "
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4018,
+          "token_ids": [
+            304,
+            7984,
+            76,
+            454,
+            276,
+            382,
+            791,
+            6864,
+            374,
+            23712,
+            555,
+            35231
+          ],
+          "text": " in Belmopan.\n\nThe capital is surrounded by hills"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4019,
+          "token_ids": [
+            279,
+            16657,
+            21393,
+            8105,
+            4409,
+            389,
+            279,
+            47802,
+            9323,
+            22070,
+            13,
+            578
+          ],
+          "text": " the Queen Elizabeth II City on the Teachers Union Loop. The"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4020,
+          "token_ids": [
+            30674,
+            40200,
+            315,
+            44177,
+            323,
+            4737,
+            315,
+            98104,
+            374,
+            922,
+            311,
+            49655
+          ],
+          "text": " arguing Songs of Independence and taking of Belize is about to regain"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4021,
+          "token_ids": [
+            279,
+            2132,
+            7928,
+            3363,
+            304,
+            98104,
+            13,
+            330,
+            10031,
+            1101,
+            220,
+            4468
+          ],
+          "text": " the second largest city in Belize. \"See also 197"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4022,
+          "token_ids": [
+            832,
+            315,
+            279,
+            7928,
+            9919,
+            304,
+            98104,
+            11,
+            4920,
+            279,
+            7140,
+            596
+          ],
+          "text": " one of the largest cities in Belize, behind the nation's"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4023,
+          "token_ids": [
+            16376,
+            32207,
+            902,
+            374,
+            7559,
+            520,
+            279,
+            6864,
+            596,
+            1925,
+            73098,
+            1828
+          ],
+          "text": " Santa Barbara which is located at the capital's main plaza next"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4024,
+          "token_ids": [
+            98104,
+            4409,
+            13,
+            578,
+            3224,
+            374,
+            27800,
+            555,
+            264,
+            25543,
+            87149,
+            46338
+          ],
+          "text": " Belize City. The country is governed by a constitutional monarchy comprising"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4025,
+          "token_ids": [
+            279,
+            24789,
+            29008,
+            315,
+            13951,
+            275,
+            352,
+            13,
+            13951,
+            275,
+            352,
+            374
+          ],
+          "text": " the Mandingo of Saritay. Saritay is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4026,
+          "token_ids": [
+            220,
+            16,
+            705,
+            1418,
+            279,
+            6864,
+            315,
+            279,
+            1403,
+            24725,
+            478,
+            5426
+          ],
+          "text": " 1), while the capital of the two-longest national"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4027,
+          "token_ids": [
+            98104,
+            4409,
+            11,
+            719,
+            433,
+            374,
+            539,
+            19073,
+            4613,
+            555,
+            2383,
+            13
+          ],
+          "text": " Belize City, but it is not officially defined by law."
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4028,
+          "token_ids": [
+            9678,
+            11,
+            279,
+            3109,
+            2011,
+            27185,
+            389,
+            459,
+            29408,
+            8197,
+            13,
+            31048
+          ],
+          "text": " independent, the government must administer on an inclusive basis. Seven"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4029,
+          "token_ids": [
+            5165,
+            12000,
+            320,
+            1785,
+            33,
+            705,
+            902,
+            574,
+            9749,
+            389,
+            220,
+            868
+          ],
+          "text": " National Assembly (FFB), which was established on 15"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4030,
+          "token_ids": [
+            4892,
+            7984,
+            38060,
+            304,
+            279,
+            7984,
+            38060,
+            11182,
+            11,
+            279,
+            6864,
+            3363
+          ],
+          "text": " North Beluga in the Beluga District, the capital city"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4031,
+          "token_ids": [
+            426,
+            1247,
+            278,
+            323,
+            80576,
+            36708,
+            15128,
+            1494,
+            706,
+            9124,
+            3116,
+            38581
+          ],
+          "text": " Bekal and stalwart Fallah has produced four graduates"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4032,
+          "token_ids": [
+            25611,
+            278,
+            382,
+            791,
+            6864,
+            315,
+            98104,
+            374,
+            50544,
+            382,
+            2520,
+            3187
+          ],
+          "text": " Croal.\n\nThe capital of Belize is Perth.\n\nFor example"
+        }
+      ]
+    },
+    {
+      "kind": "target",
+      "template": 1,
+      "subject": "Belize",
+      "gold": "Belmopan",
+      "wrong": "Belize City",
+      "prompt": "Belize's capital city is",
+      "scores": [
+        {
+          "role": "gold",
+          "answer": "Belmopan",
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276
+          ],
+          "token_logprobs": [
+            -3.4894909858703613,
+            -0.14592601358890533,
+            -0.11251773685216904,
+            -0.00010275312524754554
+          ],
+          "sum_logprob": -3.7480374894366832,
+          "mean_logprob": -0.9370093723591708,
+          "first_token_logprob": -3.4894909858703613
+        },
+        {
+          "role": "wrong",
+          "answer": "Belize City",
+          "token_ids": [
+            98104,
+            4409
+          ],
+          "token_logprobs": [
+            -3.0519909858703613,
+            -0.20297910273075104
+          ],
+          "sum_logprob": -3.2549700886011124,
+          "mean_logprob": -1.6274850443005562,
+          "first_token_logprob": -3.0519909858703613
+        }
+      ],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            98104,
+            13,
+            578,
+            3224,
+            374,
+            1101,
+            2162,
+            311,
+            279
+          ],
+          "text": " the capital of Belize. The country is also home to the"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            38018,
+            555,
+            264,
+            21892,
+            902,
+            17610,
+            315,
+            220,
+            19,
+            16689,
+            9808,
+            323
+          ],
+          "text": " administered by a chairman which consists of 4 elected officers and"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            18172,
+            7928,
+            3363,
+            389,
+            279,
+            8681,
+            72087,
+            77036,
+            11,
+            279,
+            7100
+          ],
+          "text": " the fifth largest city on the Great Barrier Reef, the economic"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4003,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            84229,
+            13,
+            578,
+            3224,
+            374,
+            832,
+            315,
+            16272
+          ],
+          "text": " the capital of the Bahamas. The country is one of Georgia"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4004,
+          "token_ids": [
+            473,
+            2319,
+            10847,
+            304,
+            8792,
+            48185,
+            276,
+            13,
+            578,
+            14435,
+            45770,
+            36654
+          ],
+          "text": " Hohhot in central Maidan. The bidirectional clearance"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4005,
+          "token_ids": [
+            51052,
+            323,
+            737,
+            10872,
+            1082,
+            13,
+            1283,
+            574,
+            45877,
+            439,
+            264,
+            11919
+          ],
+          "text": " imaginary and imprecise. He was portrayed as a friendly"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4006,
+          "token_ids": [
+            98104,
+            4409,
+            13,
+            7648,
+            5789,
+            304,
+            98104,
+            527,
+            1457,
+            25366,
+            555,
+            1776
+          ],
+          "text": " Belize City. Most areas in Belize are now occupied by sl"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4007,
+          "token_ids": [
+            4821,
+            6526,
+            11,
+            902,
+            374,
+            304,
+            279,
+            4851,
+            315,
+            279,
+            7140,
+            596
+          ],
+          "text": " Baratar, which is in the heart of the nation's"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4008,
+          "token_ids": [
+            445,
+            6,
+            27887,
+            6200,
+            1082,
+            11,
+            264,
+            6864,
+            3363,
+            315,
+            2539,
+            2759
+          ],
+          "text": " L'Église, a capital city of full account"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4009,
+          "token_ids": [
+            73257,
+            382,
+            43,
+            5169,
+            574,
+            279,
+            4846,
+            6864,
+            315,
+            91366,
+            11,
+            11
+          ],
+          "text": " Lara.\n\nLara was the former capital of Bermuda,,"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4010,
+          "token_ids": [
+            52082,
+            2319,
+            13,
+            12225,
+            5086,
+            315,
+            682,
+            55433,
+            9919,
+            11,
+            433,
+            374
+          ],
+          "text": " Ackoh. Oldest of all Nigerian cities, it is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4011,
+          "token_ids": [
+            98104,
+            13,
+            32498,
+            582,
+            654,
+            35064,
+            988,
+            323,
+            7829,
+            14228,
+            5820,
+            374
+          ],
+          "text": " Belize. Mallacrow predominates and culture-related activity is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4012,
+          "token_ids": [
+            1101,
+            3967,
+            439,
+            279,
+            364,
+            32,
+            16965,
+            51869,
+            612,
+            37933,
+            13332,
+            7559
+          ],
+          "text": " also known as the 'Awan Printing & Publishing Corporation located"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4013,
+          "token_ids": [
+            362,
+            41408,
+            468,
+            1132,
+            6043,
+            5848,
+            19721,
+            14598,
+            520,
+            3325,
+            3156,
+            19367
+          ],
+          "text": " Aaben Warchaeological Protection Season at least until Summer"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4014,
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276,
+            13,
+            578,
+            7928,
+            3363,
+            4500,
+            2447,
+            304,
+            98104
+          ],
+          "text": " Belmopan. The largest city development project in Belize"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4015,
+          "token_ids": [
+            538,
+            291,
+            311,
+            264,
+            4106,
+            18768,
+            58493,
+            307,
+            10182,
+            320,
+            42,
+            3029
+          ],
+          "text": " classed to a hot semi-arid climate (Kö"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4016,
+          "token_ids": [
+            452,
+            28805,
+            44811,
+            7304,
+            11,
+            449,
+            264,
+            7187,
+            7154,
+            2033,
+            430,
+            13882
+          ],
+          "text": " N'Djamena, with a population nearly double that widely"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4017,
+          "token_ids": [
+            7984,
+            76,
+            454,
+            276,
+            13,
+            1443,
+            12160,
+            28280,
+            9607,
+            10567,
+            81868,
+            11
+          ],
+          "text": " Belmopan. Shelly Robinson-Diplomat,"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4018,
+          "token_ids": [
+            6342,
+            596,
+            9304,
+            11,
+            98104,
+            382,
+            11087,
+            1596,
+            35535,
+            89364,
+            25,
+            6122
+          ],
+          "text": " King's College, Belize.\n\nGo_A-edKick: Go"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4019,
+          "token_ids": [
+            356,
+            26934,
+            283,
+            11,
+            323,
+            682,
+            1023,
+            3062,
+            7634,
+            304,
+            24024,
+            480
+          ],
+          "text": " Cotonou, and all other important places in eastern G"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4020,
+          "token_ids": [
+            31663,
+            460,
+            11,
+            20968,
+            304,
+            220,
+            1049,
+            20,
+            11,
+            323,
+            10434,
+            505
+          ],
+          "text": " Kanata, constructed in 2005, and served from"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4021,
+          "token_ids": [
+            279,
+            2132,
+            68067,
+            3363,
+            555,
+            22277,
+            7187,
+            13,
+            763,
+            279,
+            220,
+            4468
+          ],
+          "text": " the second-largest city by ethnic population. In the 197"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4022,
+          "token_ids": [
+            832,
+            315,
+            279,
+            3116,
+            9919,
+            311,
+            617,
+            264,
+            7187,
+            315,
+            902,
+            26206
+          ],
+          "text": " one of the four cities to have a population of which productivity"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4023,
+          "token_ids": [
+            63569,
+            323,
+            374,
+            6646,
+            264,
+            21972,
+            4706,
+            11,
+            5423,
+            304,
+            6880,
+            369
+          ],
+          "text": " Kingston and is considered a Sydney icon, especially in calls for"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4024,
+          "token_ids": [
+            98104,
+            4409,
+            13,
+            578,
+            3224,
+            374,
+            4920,
+            279,
+            3728,
+            21648,
+            43321,
+            1303
+          ],
+          "text": " Belize City. The country is behind the global shame-cutting"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4025,
+          "token_ids": [
+            3685,
+            311,
+            387,
+            264,
+            3831,
+            15481,
+            12541,
+            13,
+            800,
+            63934,
+            437,
+            4872
+          ],
+          "text": " expected to be a strong regional centre. Strencos president"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4026,
+          "token_ids": [
+            23225,
+            5657,
+            11,
+            1418,
+            279,
+            9474,
+            10187,
+            279,
+            1403,
+            56510,
+            10195,
+            5426
+          ],
+          "text": " Victoria Park, while the district holds the two Aboriginal senior national"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4027,
+          "token_ids": [
+            98104,
+            4409,
+            11,
+            719,
+            433,
+            374,
+            539,
+            961,
+            315,
+            279,
+            3224,
+            13
+          ],
+          "text": " Belize City, but it is not part of the country."
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4028,
+          "token_ids": [
+            921,
+            301,
+            582,
+            266,
+            11644,
+            382,
+            8538,
+            315,
+            98104,
+            596,
+            20946,
+            1101
+          ],
+          "text": " Chelacatán.\n\nSome of Belize's ports also"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4029,
+          "token_ids": [
+            5165,
+            12000,
+            320,
+            1785,
+            45,
+            705,
+            902,
+            574,
+            9749,
+            389,
+            220,
+            868
+          ],
+          "text": " National Assembly (FFN), which was established on 15"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4030,
+          "token_ids": [
+            4892,
+            2030,
+            1616,
+            382,
+            2181,
+            574,
+            1176,
+            9749,
+            304,
+            220,
+            9741,
+            18
+          ],
+          "text": " North Butrint.\n\nIt was first established in 1853"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4031,
+          "token_ids": [
+            426,
+            1247,
+            278,
+            323,
+            80576,
+            36708,
+            15128,
+            1494,
+            4355,
+            10951,
+            374,
+            279
+          ],
+          "text": " Bekal and stalwart Fallahla Island is the"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4032,
+          "token_ids": [
+            25611,
+            11059,
+            10951,
+            11,
+            76656,
+            505,
+            872,
+            220,
+            972,
+            4771,
+            14135,
+            315
+          ],
+          "text": " Crooked Island, weary from their 18-year tradition of"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Argentina",
+      "gold": "Buenos Aires",
+      "aliases": [
+        "Buenos Aires"
+      ],
+      "prompt": "The capital of Argentina is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            3363,
+            315,
+            69173,
+            65717,
+            13,
+            578,
+            6864,
+            315,
+            279,
+            17271,
+            374
+          ],
+          "text": " the city of Buenos Aires. The capital of the province is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            279,
+            16376,
+            3926,
+            6011,
+            902,
+            14454,
+            304,
+            220,
+            4468,
+            16,
+            382,
+            791
+          ],
+          "text": " the Santa Fe Department which formed in 1971.\n\nThe"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            330,
+            96517,
+            44177,
+            15992,
+            1,
+            3221,
+            279,
+            41407,
+            409,
+            279,
+            426
+          ],
+          "text": " the \"Argentina Independence Square\" near the Plaza de the B"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "India",
+      "gold": "New Delhi",
+      "aliases": [
+        "New Delhi"
+      ],
+      "prompt": "The capital of India is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            3224,
+            13,
+            578,
+            7904,
+            5165,
+            13309,
+            320,
+            33004
+          ],
+          "text": " the capital of the country. The Indian National Army (INA"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            64921,
+            13,
+            11699,
+            1455,
+            8040,
+            26593,
+            9352,
+            311,
+            279,
+            2038,
+            5557,
+            323
+          ],
+          "text": " Chennai. Its most developed sectors belong to the information technology and"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            6890,
+            13,
+            578,
+            15690,
+            22423,
+            315,
+            279,
+            10461,
+            13015
+          ],
+          "text": " the capital of India. The permanent residence of the prime minister"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "North Macedonia",
+      "gold": "Skopje",
+      "aliases": [
+        "Skopje"
+      ],
+      "prompt": "The capital of North Macedonia is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            5545,
+            315,
+            4892,
+            77509,
+            13,
+            578,
+            6864,
+            315
+          ],
+          "text": " the capital of the Republic of North Macedonia. The capital of"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            4923,
+            454,
+            3841,
+            13,
+            578,
+            1925,
+            5754,
+            311,
+            279,
+            10007,
+            374,
+            279
+          ],
+          "text": " Skopje. The main road to the south is the"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            5545,
+            315,
+            4892,
+            77509,
+            13,
+            578,
+            330,
+            13020
+          ],
+          "text": " the capital of the Republic of North Macedonia. The \"City"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Slovenia",
+      "gold": "Ljubljana",
+      "aliases": [
+        "Ljubljana"
+      ],
+      "prompt": "The capital of Slovenia is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            5545,
+            315,
+            79317,
+            13,
+            578,
+            6864,
+            315,
+            279
+          ],
+          "text": " the capital of the Republic of Slovenia. The capital of the"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            38018,
+            555,
+            279,
+            4900,
+            315,
+            79317,
+            13,
+            21226,
+            72,
+            5075,
+            11906,
+            17848
+          ],
+          "text": " administered by the President of Slovenia. Balti Prešeren"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            60495,
+            68,
+            44177,
+            5545,
+            13,
+            763,
+            279,
+            220,
+            679,
+            18,
+            44250
+          ],
+          "text": " the Slovene Independence Republic. In the 2013 parliamentary"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Belarus",
+      "gold": "Minsk",
+      "aliases": [
+        "Minsk"
+      ],
+      "prompt": "The capital of Belarus is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            386,
+            89492,
+            11,
+            902,
+            374,
+            7559,
+            304,
+            279,
+            386,
+            89492,
+            17593,
+            13
+          ],
+          "text": " Minsk, which is located in the Minsk Region."
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            38018,
+            555,
+            264,
+            4900,
+            902,
+            17610,
+            315,
+            220,
+            2397,
+            16689,
+            11452,
+            315
+          ],
+          "text": " administered by a President which consists of 65 elected Head of"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            18172,
+            7928,
+            3363,
+            449,
+            220,
+            1758,
+            11,
+            19232,
+            40771,
+            304,
+            220
+          ],
+          "text": " the fifth largest city with 35,810 inhabitants in "
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Uganda",
+      "gold": "Kampala",
+      "aliases": [
+        "Kampala"
+      ],
+      "prompt": "The capital of Uganda is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            7559,
+            304,
+            279,
+            6864,
+            3363,
+            315,
+            72044,
+            6181,
+            13,
+            578,
+            6864,
+            374
+          ],
+          "text": " located in the capital city of Kampala. The capital is"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            38018,
+            555,
+            264,
+            4900,
+            323,
+            14454,
+            1555,
+            279,
+            44222,
+            27743,
+            11447,
+            315
+          ],
+          "text": " administered by a President and formed through the supreme legislative authority of"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            7928,
+            5426,
+            2547,
+            449,
+            220,
+            1758,
+            15690,
+            8158,
+            11,
+            279,
+            5426
+          ],
+          "text": " the largest national body with 35 permanent posts, the national"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Morocco",
+      "gold": "Rabat",
+      "aliases": [
+        "Rabat"
+      ],
+      "prompt": "The capital of Morocco is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            15558,
+            5545,
+            315,
+            59230,
+            13,
+            578,
+            6864,
+            315
+          ],
+          "text": " the capital of the Islamic Republic of Morocco. The capital of"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            59230,
+            902,
+            14454,
+            1202,
+            24589,
+            304,
+            220,
+            17,
+            12810
+          ],
+          "text": " the capital of Morocco which formed its independence in 2 cc"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            6864,
+            315,
+            279,
+            76086,
+            349,
+            11,
+            449,
+            279,
+            22362,
+            279,
+            3857
+          ],
+          "text": " the capital of the Sultanate, with the Dat the section"
+        }
+      ]
+    },
+    {
+      "kind": "old_unqualified_control",
+      "template": 0,
+      "subject": "Vietnam",
+      "gold": "Hanoi",
+      "aliases": [
+        "Hanoi"
+      ],
+      "prompt": "The capital of Vietnam is",
+      "scores": [],
+      "outputs": [
+        {
+          "mode": "greedy",
+          "decode_seed": 0,
+          "token_ids": [
+            17723,
+            34382,
+            93255,
+            4409,
+            11,
+            279,
+            6864,
+            315,
+            23315,
+            374,
+            473,
+            73803
+          ],
+          "text": " Ho Chi Minh City, the capital of Vietnam is Hanoi"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4001,
+          "token_ids": [
+            539,
+            5995,
+            439,
+            459,
+            47379,
+            31528,
+            7140,
+            311,
+            3085,
+            1202,
+            1274,
+            2225
+          ],
+          "text": " not necessary as an economically viable nation to offer its people both"
+        },
+        {
+          "mode": "sample",
+          "decode_seed": 4002,
+          "token_ids": [
+            279,
+            18172,
+            7928,
+            3363,
+            449,
+            220,
+            1758,
+            449,
+            220,
+            18520,
+            11,
+            18349
+          ],
+          "text": " the fifth largest city with 35 with 357,356"
+        }
+      ]
+    }
+  ]
+}

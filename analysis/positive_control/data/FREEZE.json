@@ -1,0 +1,11 @@
+{
+  "config_sha256": "0e8f59cdd2bbc0155955c6984f1812300a322a0f1f5c681d2afb783091dc0358",
+  "labels_sha256": "3cf1bd530e8342cd25920265bc89119c1655477c72750a548c75e53f937a2bc5",
+  "tokenizer_sha256": "73fd5254624f39a88e3faac6a8e11300fc3c735ed37880d4f4f08db898eaecca",
+  "classifier_source_sha256": "9578e2c15df2143fa09b2972a2f37b91abdbec561e01e360693f5d6d17193287",
+  "cells": 6,
+  "optimizer_updates": 192,
+  "expected_outputs": 1170,
+  "background_source_sha256": "e14d69d27459233251c1ddb3bd601a88cf02c7eecfadc1107fc51e781e4c1278",
+  "reserved_subject_queries": 0
+}

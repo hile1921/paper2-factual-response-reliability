@@ -1,0 +1,35 @@
+{
+  "phase": "context_selection",
+  "seconds": 31.67,
+  "comparisons": [
+    {
+      "table": "C3_FINAL_CONTRASTS.csv",
+      "pass": true,
+      "rows": 56
+    }
+  ],
+  "passed": true,
+  "scope": "Recompute saved analyses with the original rules; no GPU or network.",
+  "archived_tables_not_recomputed": [
+    "C3_C_TRUE_F_FALSE_ALL46_BOOTSTRAP.csv",
+    "C3_C_TRUE_F_FALSE_ALL46_BY_CHECKPOINT.csv",
+    "C3_C_TRUE_F_FALSE_ALL46_EXACT_SIGNFLIP.csv",
+    "C3_C_TRUE_F_FALSE_BOOTSTRAP.csv",
+    "C3_C_TRUE_F_FALSE_BY_CHECKPOINT.csv",
+    "C3_C_TRUE_F_FALSE_COUNTRY_LEVEL.csv",
+    "C3_C_TRUE_F_FALSE_EXACT_SIGNFLIP.csv",
+    "C3_C_TRUE_F_FALSE_HOLM.csv",
+    "C3_FACT_CHECK_A_TEMPLATE_PHASEI.csv",
+    "C3_FACT_CHECK_B_TEMPLATE_PHASEI.csv",
+    "C3_F_FALSE_COUNTRY_COUNTS_BY_CHECKPOINT.csv",
+    "C3_F_FALSE_SOURCE_AUDIT.csv",
+    "C3_F_FALSE_VALID_PAIR_BALANCE.csv",
+    "C3_F_FALSE_VALID_SUBSET_COUNTRY_COUNTS_BY_CHECKPOINT.csv",
+    "C3_GC_SUBGROUP_HOLM_EXPLORATORY.csv",
+    "C3_GC_SUBGROUP_STATUS_CORRECTED.csv",
+    "C3_KEY_COLLISIONS_WITHOUT_TEMPLATE.csv",
+    "C3_TOKEN_LENGTH_CROSS_TOKENIZER_SENSITIVITY.csv",
+    "C3_TOKEN_LENGTH_MODEL_MATCHED_ONLY.csv",
+    "C3_TOKEN_POSTPROCESSOR_COUNTS_CORRECTED.csv"
+  ]
+}

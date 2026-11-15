@@ -4,7 +4,9 @@ Companion data and code for *Factual Response Reliability during Language Model 
 
 ## Status
 
-Initial local repository, prepared on 2026-11-15 for private GitHub publication. This snapshot contains processed figure inputs, MATLAB figure code and frozen context protocols. It is not the complete raw-generation or statistical-analysis archive. No public release or DOI is claimed. Keep the GitHub repository private during preparation and handle reviewer access separately from public release.
+Private preparation repository. Private visibility was directly verified in the signed-in GitHub interface; no public release is authorised. The repository now includes the retained raw longitudinal and context generations, frozen audit/evidence records, original analysis scripts, portable CPU reproduction entry points, expected result tables and figure sources.
+
+Five CPU analysis chains have been executed and compared against 55 archived tables. All scientific/statistical comparisons passed. A reversible text-encoding discrepancy is recorded for two single-case-control CSVs; numerical results and labels agree. All 319,410 longitudinal raw responses were joined to the archived output table and replayed through the original offline evidence gate with zero field differences. These checks replay machine-assisted rules and are not independent human verification. See `docs/REPRODUCIBILITY.md` and `docs/reproduction_checks/`.
 
 ## Contents
 
@@ -15,6 +17,9 @@ Initial local repository, prepared on 2026-11-15 for private GitHub publication.
 - `figures/reference_exports/`: seven reference vector PDFs from the current manuscript.
 - `scripts/verify_files.py`: integrity and CSV readability check.
 - `docs/RELEASE_SCOPE.md`: included evidence, excluded material and outstanding reproducibility work.
+- `analysis/`: raw observations, frozen inputs, original analysis sources and expected result tables for five panels.
+- `scripts/reproduce.py`: portable CPU statistics entry points.
+- `scripts/verify_generated_records.py`: raw-response join and offline label/evidence replay.
 - `FILE_MANIFEST.csv`: SHA256 checksums and file sizes for this snapshot.
 
 ## Reproduce the figures
@@ -39,4 +44,4 @@ Sampled responses, fact queries, target subjects and model checkpoints are diffe
 
 ## Access and licensing
 
-This private preparation snapshot has no open-source or open-data licence selected yet. Third-party models, training corpora and external reference data retain their original terms. Full model weights, complete corpora, retrieval indexes, author identity files and manuscript drafts are not included. A private GitHub URL alone does not provide anonymous reviewers access. Repository identity, release scope and archival DOI will be settled before the availability statement is updated.
+This private preparation snapshot has no open-source or open-data licence selected yet. Cached third-party reference snapshots are retained solely for private reproducibility preparation; their terms and attribution must be reviewed before a public release. Third-party models, training corpora and external reference data retain their original terms. Full model weights, complete corpora, retrieval indexes, author identity files and manuscript drafts are not included. A private GitHub URL alone does not provide anonymous reviewers access. Repository identity, release scope and archival DOI will be settled before the availability statement is updated.

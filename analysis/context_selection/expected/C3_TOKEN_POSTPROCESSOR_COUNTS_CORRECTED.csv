@@ -1,0 +1,5 @@
+round,tokenizer,n_checkpoint_arm_prompt_instances,n_global_unique_prompt_strings,added_min,added_max,added_mean
+v8,OLMo,1936,484,1,1,1.0
+v8,Pythia,1936,484,0,0,0.0
+v9,OLMo,1568,392,1,1,1.0
+v9,Pythia,1568,392,0,0,0.0

@@ -1,0 +1,9 @@
+analysis,checkpoint,estimand,observed,p_exact,n_patterns,exact
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,micro,-2.391304347826087,0.04654767261636918,20000,False
+mixed_entity_type_F_control,olmo-1b_step369000-tokens1547B,macro,-2.436781609195402,0.032698365081745916,20000,False
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,micro,-0.8260869565217394,0.4784760761961902,20000,False
+mixed_entity_type_F_control,olmo-1b_step738020-tokens3094B,macro,-1.4080459770114944,0.3639818009099545,20000,False
+mixed_entity_type_F_control,pythia-1b_step143000,micro,-1.6630434782608696,0.03419829008549573,20000,False
+mixed_entity_type_F_control,pythia-1b_step143000,macro,-1.7011494252873562,0.08384580770961451,20000,False
+mixed_entity_type_F_control,pythia-410m_step143000,micro,-0.7391304347826091,0.6699165041747912,20000,False
+mixed_entity_type_F_control,pythia-410m_step143000,macro,-1.1580459770114944,0.5523723813809309,20000,False

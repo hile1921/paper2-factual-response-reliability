@@ -1,0 +1,93 @@
+target_country,wrong_answer,wrong_of,false_country,probe_id,template,false_country_type,false_country_is_valid_country,false_country_equals_target,false_country_equals_wrong_of,wrong_answer_is_actual_capital_of_false_country,verification_source,verification_status
+Argentina,Quito,Ecuador,Alabama,v9|Argentina|Quito|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Argentina,Quito,Ecuador,Alabama,v9|Argentina|Quito|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Azerbaijan,Tbilisi,Georgia,Alabama,v9|Azerbaijan|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Azerbaijan,Tbilisi,Georgia,Alabama,v9|Azerbaijan|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Belarus,Baku,Azerbaijan,Argentina,v9|Belarus|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Belarus,Baku,Azerbaijan,Argentina,v9|Belarus|Baku|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Belarus,Tbilisi,Georgia,Alabama,v9|Belarus|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Belarus,Tbilisi,Georgia,Alabama,v9|Belarus|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Canada,Taipei,Taiwan,Greece,v9|Canada|Taipei|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Canada,Taipei,Taiwan,Greece,v9|Canada|Taipei|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Canada,Tbilisi,Georgia,Alabama,v9|Canada|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Canada,Tbilisi,Georgia,Alabama,v9|Canada|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Croatia,Baku,Azerbaijan,Argentina,v9|Croatia|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Croatia,Baku,Azerbaijan,Argentina,v9|Croatia|Baku|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Czech Republic,Bratislava,Slovakia,Illinois,v9|Czech Republic|Bratislava|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Czech Republic,Bratislava,Slovakia,Illinois,v9|Czech Republic|Bratislava|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Democratic Republic of the Congo,Bujumbura,Burundi,Alabama,v9|Democratic Republic of the Congo|Bujumbura|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Democratic Republic of the Congo,Bujumbura,Burundi,Alabama,v9|Democratic Republic of the Congo|Bujumbura|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Democratic Republic of the Congo,Kampala,Uganda,Canada,v9|Democratic Republic of the Congo|Kampala|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Democratic Republic of the Congo,Kampala,Uganda,Canada,v9|Democratic Republic of the Congo|Kampala|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+East Timor,Bujumbura,Burundi,Alabama,v9|East Timor|Bujumbura|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+East Timor,Bujumbura,Burundi,Alabama,v9|East Timor|Bujumbura|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+French Guiana,Freetown,Sierra Leone,North Dakota,v9|French Guiana|Freetown|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+French Guiana,Freetown,Sierra Leone,North Dakota,v9|French Guiana|Freetown|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+French Guiana,Managua,Nicaragua,Argentina,v9|French Guiana|Managua|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+French Guiana,Managua,Nicaragua,Argentina,v9|French Guiana|Managua|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Greenland,Minsk,Belarus,Alabama,v9|Greenland|Minsk|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Greenland,Minsk,Belarus,Alabama,v9|Greenland|Minsk|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Guinea,Freetown,Sierra Leone,North Dakota,v9|Guinea|Freetown|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Guinea,Freetown,Sierra Leone,North Dakota,v9|Guinea|Freetown|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Guinea,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Guinea|Kinshasa|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Guinea,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Guinea|Kinshasa|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+India,Beijing,People's Republic of China,European Economic Community,v9|India|Beijing|t0|F_false,0,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+India,Beijing,People's Republic of China,European Economic Community,v9|India|Beijing|t1|F_false,1,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Iraq,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Iraq|Abu Dhabi|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Iraq,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Iraq|Abu Dhabi|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Jordan,Baku,Azerbaijan,Argentina,v9|Jordan|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Jordan,Baku,Azerbaijan,Argentina,v9|Jordan|Baku|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Jordan,Beijing,People's Republic of China,European Economic Community,v9|Jordan|Beijing|t0|F_false,0,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Jordan,Beijing,People's Republic of China,European Economic Community,v9|Jordan|Beijing|t1|F_false,1,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Jordan,Ljubljana,Slovenia,Illinois,v9|Jordan|Ljubljana|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Jordan,Ljubljana,Slovenia,Illinois,v9|Jordan|Ljubljana|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Jordan,Tbilisi,Georgia,Alabama,v9|Jordan|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Jordan,Tbilisi,Georgia,Alabama,v9|Jordan|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Morocco,Amman,Jordan,Canada,v9|Morocco|Amman|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Morocco,Amman,Jordan,Canada,v9|Morocco|Amman|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Morocco,Tbilisi,Georgia,Alabama,v9|Morocco|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Morocco,Tbilisi,Georgia,Alabama,v9|Morocco|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+New Caledonia,Paramaribo,Suriname,Illinois,v9|New Caledonia|Paramaribo|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+New Caledonia,Paramaribo,Suriname,Illinois,v9|New Caledonia|Paramaribo|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Nicaragua,Caracas,Venezuela,Argentina,v9|Nicaragua|Caracas|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Nicaragua,Caracas,Venezuela,Argentina,v9|Nicaragua|Caracas|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Norway,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Norway|Port of Spain|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Norway,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Norway|Port of Spain|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+People's Republic of China,Taipei,Taiwan,Canada,v9|People's Republic of China|Taipei|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+People's Republic of China,Taipei,Taiwan,Canada,v9|People's Republic of China|Taipei|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Russia,Baghdad,Iraq,Iowa,v9|Russia|Baghdad|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Russia,Baghdad,Iraq,Iowa,v9|Russia|Baghdad|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Russia,Baku,Azerbaijan,Argentina,v9|Russia|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Russia,Baku,Azerbaijan,Argentina,v9|Russia|Baku|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Russia,Beijing,People's Republic of China,European Economic Community,v9|Russia|Beijing|t0|F_false,0,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Russia,Beijing,People's Republic of China,European Economic Community,v9|Russia|Beijing|t1|F_false,1,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Sierra Leone,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Sierra Leone|Kinshasa|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Sierra Leone,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Sierra Leone|Kinshasa|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Slovakia,Ljubljana,Slovenia,Illinois,v9|Slovakia|Ljubljana|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovakia,Ljubljana,Slovenia,Illinois,v9|Slovakia|Ljubljana|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovakia,Zagreb,Croatia,Alabama,v9|Slovakia|Zagreb|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovakia,Zagreb,Croatia,Alabama,v9|Slovakia|Zagreb|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovenia,Prague,Czech Republic,European Union,v9|Slovenia|Prague|t0|F_false,0,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovenia,Prague,Czech Republic,European Union,v9|Slovenia|Prague|t1|F_false,1,supranational_organization,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovenia,Zagreb,Croatia,Alabama,v9|Slovenia|Zagreb|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Slovenia,Zagreb,Croatia,Alabama,v9|Slovenia|Zagreb|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+South Sudan,Kampala,Uganda,Canada,v9|South Sudan|Kampala|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+South Sudan,Kampala,Uganda,Canada,v9|South Sudan|Kampala|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Suriname,Noumea,New Caledonia,County Durham,v9|Suriname|Noumea|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Suriname,Noumea,New Caledonia,County Durham,v9|Suriname|Noumea|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Suriname,Port Moresby,Papua New Guinea,Canton of Geneva,v9|Suriname|Port Moresby|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Suriname,Port Moresby,Papua New Guinea,Canton of Geneva,v9|Suriname|Port Moresby|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Suriname,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Suriname|Port of Spain|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Suriname,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Suriname|Port of Spain|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Trinidad and Tobago,Managua,Nicaragua,Argentina,v9|Trinidad and Tobago|Managua|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Trinidad and Tobago,Managua,Nicaragua,Argentina,v9|Trinidad and Tobago|Managua|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Trinidad and Tobago,Tbilisi,Georgia,Alabama,v9|Trinidad and Tobago|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Trinidad and Tobago,Tbilisi,Georgia,Alabama,v9|Trinidad and Tobago|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Tunisia,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Tunisia|Abu Dhabi|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Tunisia,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Tunisia|Abu Dhabi|t1|F_false,1,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified
+Tunisia,Tbilisi,Georgia,Alabama,v9|Tunisia|Tbilisi|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Tunisia,Tbilisi,Georgia,Alabama,v9|Tunisia|Tbilisi|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Tuvalu,Noumea,New Caledonia,County Durham,v9|Tuvalu|Noumea|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Tuvalu,Noumea,New Caledonia,County Durham,v9|Tuvalu|Noumea|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Uganda,Bujumbura,Burundi,Alabama,v9|Uganda|Bujumbura|t0|F_false,0,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry
+Uganda,Bujumbura,Burundi,Alabama,v9|Uganda|Bujumbura|t1|F_false,1,subnational_entity,0,0,0,0,manual entity classification (not a sovereign state),verified_noncountry

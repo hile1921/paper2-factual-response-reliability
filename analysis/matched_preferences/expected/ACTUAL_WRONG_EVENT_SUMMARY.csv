@@ -1,0 +1,5 @@
+metric,decode_group,events,subjects,gold_preferred
+mean_logprob,greedy,7,7,3
+mean_logprob,sample,52,24,36
+sum_logprob,greedy,7,7,4
+sum_logprob,sample,52,24,37

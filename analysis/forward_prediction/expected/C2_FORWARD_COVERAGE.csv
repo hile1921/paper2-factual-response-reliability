@@ -1,0 +1,5 @@
+target_step,source_step,raw_rows,target_outcome_valid,source_feature_valid,source_outcome_valid,source_outcome_missing,strict_target_eligible
+170000,10000,42,26,26,26,0,0
+340000,170000,42,42,42,26,16,1
+500000,340000,42,26,26,26,0,1
+658032,500000,42,42,42,26,16,1

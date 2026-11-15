@@ -19,3 +19,10 @@ matlab/output/
 *.ckpt
 *.pt
 *.pth
+
+# CPU reproduction working files
+reproduction_outputs/
+# Frozen reference ZIP used by the original offline gate
+!analysis/training_dynamics/label_provenance/references/cities15000.zip
+
+*_local.log

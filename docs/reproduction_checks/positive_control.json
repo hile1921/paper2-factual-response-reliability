@@ -1,0 +1,70 @@
+{
+  "phase": "positive_control",
+  "seconds": 0.69,
+  "comparisons": [
+    {
+      "table": "ALL_CANDIDATE_SCORES.csv",
+      "pass": true,
+      "rows": 52
+    },
+    {
+      "table": "ALL_OUTPUTS.csv",
+      "pass": true,
+      "strict_text_match": false,
+      "encoding_only_warning": true,
+      "changed_text_rows": 65,
+      "detail": "Archived UTF-8-as-GBK mojibake; every non-text field matches. Recomputed output uses the original UTF-8 JSON."
+    },
+    {
+      "table": "ALL_TRAINING_UPDATES.csv",
+      "pass": true,
+      "rows": 192
+    },
+    {
+      "table": "CANDIDATE_MARGINS.csv",
+      "pass": true,
+      "rows": 26
+    },
+    {
+      "table": "EFFECT_SUMMARY.csv",
+      "pass": true,
+      "rows": 4
+    },
+    {
+      "table": "OLD_CONTROL_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 104
+    },
+    {
+      "table": "PAIRED_EFFECTS.csv",
+      "pass": true,
+      "rows": 12
+    },
+    {
+      "table": "TARGET_FAILURES_AND_UNCERTAIN.csv",
+      "pass": true,
+      "strict_text_match": false,
+      "encoding_only_warning": true,
+      "changed_text_rows": 38,
+      "detail": "Archived UTF-8-as-GBK mojibake; every non-text field matches. Recomputed output uses the original UTF-8 JSON."
+    },
+    {
+      "table": "TARGET_RATES.csv",
+      "pass": true,
+      "rows": 26
+    },
+    {
+      "table": "TRAINING_PAIRING_CHECKS.csv",
+      "pass": true,
+      "rows": 96
+    }
+  ],
+  "passed": true,
+  "scope": "Recompute saved analyses with the original rules; no GPU or network.",
+  "archived_tables_not_recomputed": [
+    "BASELINE_REFERENCE.csv",
+    "OLD_TRANSFER_CONTROL_GATE.csv",
+    "SOURCE_ANCHORS.csv",
+    "TRAINING_MATERIALS.csv"
+  ]
+}

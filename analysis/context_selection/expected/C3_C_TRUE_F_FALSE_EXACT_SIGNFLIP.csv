@@ -1,0 +1,9 @@
+analysis,checkpoint,estimand,observed,p_exact,n_patterns,exact
+valid_country_subset,olmo-1b_step369000-tokens1547B,micro,-2.611111111111111,0.18750309942970494,262144,True
+valid_country_subset,olmo-1b_step369000-tokens1547B,macro,-2.611111111111111,0.18750309942970494,262144,True
+valid_country_subset,olmo-1b_step738020-tokens3094B,micro,-0.36111111111111116,0.21875298022087014,262144,True
+valid_country_subset,olmo-1b_step738020-tokens3094B,macro,-0.3611111111111111,0.28125274180320053,262144,True
+valid_country_subset,pythia-1b_step143000,micro,-1.0000000000000002,0.5468767285281046,262144,True
+valid_country_subset,pythia-1b_step143000,macro,-1.0,0.5468767285281046,262144,True
+valid_country_subset,pythia-410m_step143000,micro,4.527777777777778,0.0031776307005664806,262144,True
+valid_country_subset,pythia-410m_step143000,macro,4.527777777777778,0.0031776307005664806,262144,True

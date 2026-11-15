@@ -1,0 +1,89 @@
+fact_id,uid,subject,correct_answer,generated_wrong_answer,wrong_entity,wrong_qids,subject_indexed_chunks,wrong_indexed_chunks,subject_wrong_shared_chunks,planned_new_chunks,index_status,in_fixed85
+wd:Q414|P36|wd:Q1486|p1_unqualified_target,1278811_422_271978,Argentina,Buenos Aires,Asunción,https://www.geonames.org/3439389,,69819,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1028|P36|wd:Q3551|p1_unqualified_target,13026_422_1160571,Morocco,Rabat,Cairo,https://www.geonames.org/360630,,27995,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1028|P36|wd:Q3551|p1_unqualified_target,13026_422_1160571,Morocco,Rabat,Doha,https://www.geonames.org/290030,,27995,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1028|P36|wd:Q3551|p1_unqualified_target,13026_422_1160571,Morocco,Rabat,Kassel,https://www.geonames.org/2892518,,27995,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1028|P36|wd:Q3551|p1_unqualified_target,13026_422_1160571,Morocco,Rabat,Lucca,https://www.geonames.org/3174530,,27995,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1036|P36|wd:Q3894|p1_unqualified_target,17917_422_1240896,Uganda,Kampala,Bogotá,https://www.geonames.org/3688689,,18587,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1036|P36|wd:Q3894|p1_unqualified_target,17917_422_1240896,Uganda,Kampala,Bremen,https://www.geonames.org/2944388,,18587,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1036|P36|wd:Q3894|p1_unqualified_target,17917_422_1240896,Uganda,Kampala,Kigali,https://www.geonames.org/202061,,18587,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1036|P36|wd:Q3894|p1_unqualified_target,17917_422_1240896,Uganda,Kampala,Nairobi,https://www.geonames.org/184745,,18587,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1036|P36|wd:Q3894|p1_unqualified_target,17917_422_1240896,Uganda,Kampala,Uppsala,https://www.geonames.org/2666199,,18587,0,0,0,no_existing_wrong_entity_index,False
+wd:Q574|P36|wd:Q9310|p1_unqualified_target,1930274_422_2897238,East Timor,Dili,Bandung,https://www.geonames.org/1650357,,4031,0,0,0,no_existing_wrong_entity_index,False
+wd:Q574|P36|wd:Q9310|p1_unqualified_target,1930274_422_2897238,East Timor,Dili,Mombasa,https://www.geonames.org/186301,,4031,0,0,0,no_existing_wrong_entity_index,False
+wd:Q574|P36|wd:Q9310|p1_unqualified_target,1930274_422_2897238,East Timor,Dili,São Paulo,https://www.geonames.org/3448439,,4031,0,0,0,no_existing_wrong_entity_index,False
+wd:Q668|P36|wd:Q987|p1_unqualified_target,2215085_422_2938512,India,New Delhi,Kabul,https://www.geonames.org/1138958,,248988,0,0,0,no_existing_wrong_entity_index,False
+wd:Q672|P36|wd:Q34126|p1_unqualified_target,2229286_422_1117033,Tuvalu,Funafuti,Auckland,https://www.geonames.org/2193733,Q37100,1750,0,0,0,no_existing_wrong_entity_index,False
+wd:Q672|P36|wd:Q34126|p1_unqualified_target,2229286_422_1117033,Tuvalu,Funafuti,Honiara,https://www.geonames.org/2108502,,1750,0,0,0,no_existing_wrong_entity_index,False
+wd:Q672|P36|wd:Q34126|p1_unqualified_target,2229286_422_1117033,Tuvalu,Funafuti,Nuku'alofa,https://www.geonames.org/4032402,,1750,0,0,0,no_existing_wrong_entity_index,False
+wd:Q672|P36|wd:Q34126|p1_unqualified_target,2229286_422_1117033,Tuvalu,Funafuti,Suva,https://www.geonames.org/2198148,,1750,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1044|P36|wd:Q3780|p1_unqualified_target,22615_422_1213549,Sierra Leone,Freetown,Dakar,https://www.geonames.org/2253354,,8125,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1044|P36|wd:Q3780|p1_unqualified_target,22615_422_1213549,Sierra Leone,Freetown,Conakry,https://www.geonames.org/2422465,Q3733,8125,709,106,2,wrong_entity_index_available,True
+wd:Q691|P36|wd:Q36526|p1_unqualified_target,2306964_422_1183349,Papua New Guinea,Port Moresby,Kuching,https://www.geonames.org/1735634,,10332,0,0,0,no_existing_wrong_entity_index,False
+wd:Q691|P36|wd:Q36526|p1_unqualified_target,2306964_422_1183349,Papua New Guinea,Port Moresby,Honiara,https://www.geonames.org/2108502,,10332,0,0,0,no_existing_wrong_entity_index,False
+wd:Q717|P36|wd:Q1533|p1_unqualified_target,2410830_422_308418,Venezuela,Caracas,Brasilia,https://www.geonames.org/3469058,,26189,0,0,0,no_existing_wrong_entity_index,False
+wd:Q717|P36|wd:Q1533|p1_unqualified_target,2410830_422_308418,Venezuela,Caracas,São Paulo,https://www.geonames.org/3448439,,26189,0,0,0,no_existing_wrong_entity_index,False
+wd:Q730|P36|wd:Q3001|p1_unqualified_target,2471806_422_988746,Suriname,Paramaribo,Aachen,https://www.geonames.org/3247449,,5112,0,0,0,no_existing_wrong_entity_index,False
+wd:Q730|P36|wd:Q3001|p1_unqualified_target,2471806_422_988746,Suriname,Paramaribo,Surin,https://www.geonames.org/1606030,,5112,0,0,0,no_existing_wrong_entity_index,False
+wd:Q730|P36|wd:Q3001|p1_unqualified_target,2471806_422_988746,Suriname,Paramaribo,Willemstad,https://www.geonames.org/3513090,,5112,0,0,0,no_existing_wrong_entity_index,False
+wd:Q736|P36|wd:Q2900|p1_unqualified_target,2505797_422_962576,Ecuador,Quito,Bogotá,https://www.geonames.org/3688689,,17658,0,0,0,no_existing_wrong_entity_index,False
+wd:Q736|P36|wd:Q2900|p1_unqualified_target,2505797_422_962576,Ecuador,Quito,Uppsala,https://www.geonames.org/2666199,,17658,0,0,0,no_existing_wrong_entity_index,False
+wd:Q754|P36|wd:Q39178|p1_unqualified_target,2580354_422_1246306,Trinidad and Tobago,Port of Spain,Doha,https://www.geonames.org/290030,,6945,0,0,0,no_existing_wrong_entity_index,False
+wd:Q754|P36|wd:Q39178|p1_unqualified_target,2580354_422_1246306,Trinidad and Tobago,Port of Spain,Bridgetown,https://www.geonames.org/3374036,,6945,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Harare,https://www.geonames.org/890299,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,São Paulo,https://www.geonames.org/3448439,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Banjul,https://www.geonames.org/2413876,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Ouagadougou,https://www.geonames.org/2357048,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Bafoussam,https://www.geonames.org/2235189,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Abidjan,https://www.geonames.org/2293538,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q1006|P36|wd:Q3733|p1_unqualified_target,2727_422_1200955,Guinea,Conakry,Bafoulabé,https://www.geonames.org/2460755,,5695,0,0,0,no_existing_wrong_entity_index,False
+wd:Q796|P36|wd:Q1530|p1_unqualified_target,2763787_422_307093,Iraq,Baghdad,Kabul,https://www.geonames.org/1138958,,36999,0,0,0,no_existing_wrong_entity_index,False
+wd:Q810|P36|wd:Q3805|p1_unqualified_target,2825351_422_1219073,Jordan,Amman,Doha,https://www.geonames.org/290030,,15890,0,0,0,no_existing_wrong_entity_index,False
+wd:Q811|P36|wd:Q3274|p1_unqualified_target,2825766_422_1073673,Nicaragua,Managua,San Miguel de Allende,https://www.geonames.org/3985344,,10485,0,0,0,no_existing_wrong_entity_index,False
+wd:Q811|P36|wd:Q3274|p1_unqualified_target,2825766_422_1073673,Nicaragua,Managua,San Salvador,https://www.geonames.org/3583361,,10485,0,0,0,no_existing_wrong_entity_index,False
+wd:Q878|P36|wd:Q1519|p1_unqualified_target,2863349_422_293688,United Arab Emirates,Abu Dhabi,Cairo,https://www.geonames.org/360630,,18935,0,0,0,no_existing_wrong_entity_index,False
+wd:Q878|P36|wd:Q1519|p1_unqualified_target,2863349_422_293688,United Arab Emirates,Abu Dhabi,Mumbai,https://www.geonames.org/1275339,,18935,0,0,0,no_existing_wrong_entity_index,False
+wd:Q878|P36|wd:Q1519|p1_unqualified_target,2863349_422_293688,United Arab Emirates,Abu Dhabi,New York City,https://www.geonames.org/5128581,,18935,0,0,0,no_existing_wrong_entity_index,False
+wd:Q878|P36|wd:Q1519|p1_unqualified_target,2863349_422_293688,United Arab Emirates,Abu Dhabi,Doha,https://www.geonames.org/290030,,18935,0,0,0,no_existing_wrong_entity_index,False
+wd:Q881|P36|wd:Q1858|p1_unqualified_target,2864945_422_627146,Vietnam,Hanoi,Kabul,https://www.geonames.org/1138958,,35717,0,0,0,no_existing_wrong_entity_index,False
+wd:Q881|P36|wd:Q1858|p1_unqualified_target,2864945_422_627146,Vietnam,Hanoi,Seoul,https://www.geonames.org/1835848,,35717,0,0,0,no_existing_wrong_entity_index,False
+wd:Q881|P36|wd:Q1858|p1_unqualified_target,2864945_422_627146,Vietnam,Hanoi,Phnom Penh,https://www.geonames.org/1821306,,35717,0,0,0,no_existing_wrong_entity_index,False
+wd:Q948|P36|wd:Q3572|p1_unqualified_target,2910890_422_1167128,Tunisia,Tunis,Homs,https://www.geonames.org/169577,,14236,0,0,0,no_existing_wrong_entity_index,False
+wd:Q948|P36|wd:Q3572|p1_unqualified_target,2910890_422_1167128,Tunisia,Tunis,Khartoum,https://www.geonames.org/379252,,14236,0,0,0,no_existing_wrong_entity_index,False
+wd:Q948|P36|wd:Q3572|p1_unqualified_target,2910890_422_1167128,Tunisia,Tunis,Bani Walid,https://www.geonames.org/2218840,,14236,0,0,0,no_existing_wrong_entity_index,False
+wd:Q948|P36|wd:Q3572|p1_unqualified_target,2910890_422_1167128,Tunisia,Tunis,Bonnyrigg,https://www.geonames.org/2655210,,14236,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Addis Ababa,https://www.geonames.org/344979,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Khartoum,https://www.geonames.org/379252,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Mombasa,https://www.geonames.org/186301,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Abuja,https://www.geonames.org/2352778,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Goma,https://www.geonames.org/216281,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q958|P36|wd:Q1947|p1_unqualified_target,2917911_422_673295,South Sudan,Juba,Malakoff,https://www.geonames.org/2996514,,4521,0,0,0,no_existing_wrong_entity_index,False
+wd:Q974|P36|wd:Q3838|p1_unqualified_target,2929247_422_1228630,Democratic Republic of the Congo,Kinshasa,Gaborone,https://www.geonames.org/933773,,16551,0,0,0,no_existing_wrong_entity_index,False
+wd:Q974|P36|wd:Q3838|p1_unqualified_target,2929247_422_1228630,Democratic Republic of the Congo,Kinshasa,Kigali,https://www.geonames.org/202061,,16551,0,0,0,no_existing_wrong_entity_index,False
+wd:Q974|P36|wd:Q3838|p1_unqualified_target,2929247_422_1228630,Democratic Republic of the Congo,Kinshasa,Mombasa,https://www.geonames.org/186301,,16551,0,0,0,no_existing_wrong_entity_index,False
+wd:Q974|P36|wd:Q3838|p1_unqualified_target,2929247_422_1228630,Democratic Republic of the Congo,Kinshasa,Brazzaville,https://www.geonames.org/2260535,,16551,0,0,0,no_existing_wrong_entity_index,False
+wd:Q184|P36|wd:Q2280|p1_unqualified_target,621629_422_782955,Belarus,Minsk,Belgrade,https://www.geonames.org/792680,,15869,0,0,0,no_existing_wrong_entity_index,False
+wd:Q184|P36|wd:Q2280|p1_unqualified_target,621629_422_782955,Belarus,Minsk,Krasnoyarsk,https://www.geonames.org/1502026,,15869,0,0,0,no_existing_wrong_entity_index,False
+wd:Q184|P36|wd:Q2280|p1_unqualified_target,621629_422_782955,Belarus,Minsk,Riga,https://www.geonames.org/456172,,15869,0,0,0,no_existing_wrong_entity_index,False
+wd:Q20|P36|wd:Q585|p1_unqualified_target,702887_422_1968117,Norway,Oslo,Auckland,https://www.geonames.org/2193733,Q37100,93952,0,0,0,no_existing_wrong_entity_index,False
+wd:Q20|P36|wd:Q585|p1_unqualified_target,702887_422_1968117,Norway,Oslo,Oudtshoorn,https://www.geonames.org/967106,,93952,0,0,0,no_existing_wrong_entity_index,False
+wd:Q214|P36|wd:Q1780|p1_unqualified_target,746755_422_573471,Slovakia,Bratislava,Budapest,https://www.geonames.org/3054643,,22154,0,0,0,no_existing_wrong_entity_index,False
+wd:Q214|P36|wd:Q1780|p1_unqualified_target,746755_422_573471,Slovakia,Bratislava,Plovdiv,https://www.geonames.org/728193,,22154,0,0,0,no_existing_wrong_entity_index,False
+wd:Q214|P36|wd:Q1780|p1_unqualified_target,746755_422_573471,Slovakia,Bratislava,Prague,https://www.geonames.org/3067696,Q1085,22154,20586,1079,2,wrong_entity_index_available,True
+wd:Q214|P36|wd:Q1780|p1_unqualified_target,746755_422_573471,Slovakia,Bratislava,Riga,https://www.geonames.org/456172,,22154,0,0,0,no_existing_wrong_entity_index,False
+wd:Q215|P36|wd:Q437|p1_unqualified_target,749148_422_1308417,Slovenia,Ljubljana,Bratislava,https://www.geonames.org/3060972,Q1780,19708,4527,98,2,wrong_entity_index_available,True
+wd:Q215|P36|wd:Q437|p1_unqualified_target,749148_422_1308417,Slovenia,Ljubljana,Rijeka,https://www.geonames.org/3191648,,19708,0,0,0,no_existing_wrong_entity_index,False
+wd:Q221|P36|wd:Q384|p1_unqualified_target,763428_422_1229034,North Macedonia,Skopje,Kragujevac,https://www.geonames.org/789128,,10307,0,0,0,no_existing_wrong_entity_index,False
+wd:Q221|P36|wd:Q384|p1_unqualified_target,763428_422_1229034,North Macedonia,Skopje,Ljubljana,https://www.geonames.org/3196359,Q437,10307,4364,105,2,wrong_entity_index_available,True
+wd:Q221|P36|wd:Q384|p1_unqualified_target,763428_422_1229034,North Macedonia,Skopje,Zadar,https://www.geonames.org/3186952,,10307,0,0,0,no_existing_wrong_entity_index,False
+wd:Q221|P36|wd:Q384|p1_unqualified_target,763428_422_1229034,North Macedonia,Skopje,Zvenigorod,https://www.geonames.org/461920,,10307,0,0,0,no_existing_wrong_entity_index,False
+wd:Q224|P36|wd:Q1435|p1_unqualified_target,772386_422_236652,Croatia,Zagreb,Bratislava,https://www.geonames.org/3060972,Q1780,26707,4527,221,2,wrong_entity_index_available,True
+wd:Q224|P36|wd:Q1435|p1_unqualified_target,772386_422_236652,Croatia,Zagreb,Ljubljana,https://www.geonames.org/3196359,Q437,26707,4364,537,2,wrong_entity_index_available,True
+wd:Q224|P36|wd:Q1435|p1_unqualified_target,772386_422_236652,Croatia,Zagreb,Skopje,https://www.geonames.org/785842,Q384,26707,3083,225,2,wrong_entity_index_available,True
+wd:Q224|P36|wd:Q1435|p1_unqualified_target,772386_422_236652,Croatia,Zagreb,Mostar,https://www.geonames.org/3194828,,26707,0,0,0,no_existing_wrong_entity_index,False
+wd:Q227|P36|wd:Q9248|p1_unqualified_target,780040_422_2891922,Azerbaijan,Baku,Dushanbe,https://www.geonames.org/1221874,,16629,0,0,0,no_existing_wrong_entity_index,False
+wd:Q227|P36|wd:Q9248|p1_unqualified_target,780040_422_2891922,Azerbaijan,Baku,Gorgan,https://www.geonames.org/132892,,16629,0,0,0,no_existing_wrong_entity_index,False
+wd:Q227|P36|wd:Q9248|p1_unqualified_target,780040_422_2891922,Azerbaijan,Baku,Kars,https://www.geonames.org/743952,,16629,0,0,0,no_existing_wrong_entity_index,False
+wd:Q227|P36|wd:Q9248|p1_unqualified_target,780040_422_2891922,Azerbaijan,Baku,Tashkent,https://www.geonames.org/1512569,,16629,0,0,0,no_existing_wrong_entity_index,False
+wd:Q227|P36|wd:Q9248|p1_unqualified_target,780040_422_2891922,Azerbaijan,Baku,Yerevan,https://www.geonames.org/616052,,16629,0,0,0,no_existing_wrong_entity_index,False
+wd:Q27|P36|wd:Q1761|p1_unqualified_target,906806_422_561639,Ireland,Dublin,Portadown,https://www.geonames.org/2640085,,16910,0,0,0,no_existing_wrong_entity_index,False

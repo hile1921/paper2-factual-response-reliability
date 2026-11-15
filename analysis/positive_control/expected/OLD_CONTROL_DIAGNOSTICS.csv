@@ -1,0 +1,105 @@
+training_seed,arm,step,subject,sum,count,mean
+0,baseline,0,Argentina,0,2,0.0
+0,baseline,0,Belarus,0,2,0.0
+0,baseline,0,India,0,2,0.0
+0,baseline,0,Morocco,0,2,0.0
+0,baseline,0,North Macedonia,1,2,0.5
+0,baseline,0,Slovenia,0,2,0.0
+0,baseline,0,Uganda,0,2,0.0
+0,baseline,0,Vietnam,0,2,0.0
+101,C,16,Argentina,0,2,0.0
+101,C,16,Belarus,0,2,0.0
+101,C,16,India,0,2,0.0
+101,C,16,Morocco,0,2,0.0
+101,C,16,North Macedonia,1,2,0.5
+101,C,16,Slovenia,0,2,0.0
+101,C,16,Uganda,0,2,0.0
+101,C,16,Vietnam,0,2,0.0
+101,C,32,Argentina,0,2,0.0
+101,C,32,Belarus,0,2,0.0
+101,C,32,India,0,2,0.0
+101,C,32,Morocco,0,2,0.0
+101,C,32,North Macedonia,1,2,0.5
+101,C,32,Slovenia,1,2,0.5
+101,C,32,Uganda,0,2,0.0
+101,C,32,Vietnam,0,2,0.0
+101,T,16,Argentina,0,2,0.0
+101,T,16,Belarus,0,2,0.0
+101,T,16,India,0,2,0.0
+101,T,16,Morocco,0,2,0.0
+101,T,16,North Macedonia,1,2,0.5
+101,T,16,Slovenia,0,2,0.0
+101,T,16,Uganda,0,2,0.0
+101,T,16,Vietnam,0,2,0.0
+101,T,32,Argentina,0,2,0.0
+101,T,32,Belarus,0,2,0.0
+101,T,32,India,0,2,0.0
+101,T,32,Morocco,0,2,0.0
+101,T,32,North Macedonia,1,2,0.5
+101,T,32,Slovenia,0,2,0.0
+101,T,32,Uganda,0,2,0.0
+101,T,32,Vietnam,0,2,0.0
+202,C,16,Argentina,0,2,0.0
+202,C,16,Belarus,0,2,0.0
+202,C,16,India,0,2,0.0
+202,C,16,Morocco,0,2,0.0
+202,C,16,North Macedonia,1,2,0.5
+202,C,16,Slovenia,0,2,0.0
+202,C,16,Uganda,0,2,0.0
+202,C,16,Vietnam,0,2,0.0
+202,C,32,Argentina,0,2,0.0
+202,C,32,Belarus,0,2,0.0
+202,C,32,India,0,2,0.0
+202,C,32,Morocco,0,2,0.0
+202,C,32,North Macedonia,1,2,0.5
+202,C,32,Slovenia,1,2,0.5
+202,C,32,Uganda,0,2,0.0
+202,C,32,Vietnam,0,2,0.0
+202,T,16,Argentina,0,2,0.0
+202,T,16,Belarus,0,2,0.0
+202,T,16,India,0,2,0.0
+202,T,16,Morocco,0,2,0.0
+202,T,16,North Macedonia,1,2,0.5
+202,T,16,Slovenia,0,2,0.0
+202,T,16,Uganda,0,2,0.0
+202,T,16,Vietnam,0,2,0.0
+202,T,32,Argentina,0,2,0.0
+202,T,32,Belarus,0,2,0.0
+202,T,32,India,0,2,0.0
+202,T,32,Morocco,0,2,0.0
+202,T,32,North Macedonia,1,2,0.5
+202,T,32,Slovenia,0,2,0.0
+202,T,32,Uganda,0,2,0.0
+202,T,32,Vietnam,0,2,0.0
+303,C,16,Argentina,0,2,0.0
+303,C,16,Belarus,0,2,0.0
+303,C,16,India,0,2,0.0
+303,C,16,Morocco,0,2,0.0
+303,C,16,North Macedonia,1,2,0.5
+303,C,16,Slovenia,0,2,0.0
+303,C,16,Uganda,0,2,0.0
+303,C,16,Vietnam,0,2,0.0
+303,C,32,Argentina,0,2,0.0
+303,C,32,Belarus,0,2,0.0
+303,C,32,India,0,2,0.0
+303,C,32,Morocco,0,2,0.0
+303,C,32,North Macedonia,1,2,0.5
+303,C,32,Slovenia,0,2,0.0
+303,C,32,Uganda,0,2,0.0
+303,C,32,Vietnam,0,2,0.0
+303,T,16,Argentina,0,2,0.0
+303,T,16,Belarus,0,2,0.0
+303,T,16,India,0,2,0.0
+303,T,16,Morocco,0,2,0.0
+303,T,16,North Macedonia,1,2,0.5
+303,T,16,Slovenia,0,2,0.0
+303,T,16,Uganda,0,2,0.0
+303,T,16,Vietnam,0,2,0.0
+303,T,32,Argentina,0,2,0.0
+303,T,32,Belarus,0,2,0.0
+303,T,32,India,0,2,0.0
+303,T,32,Morocco,0,2,0.0
+303,T,32,North Macedonia,1,2,0.5
+303,T,32,Slovenia,0,2,0.0
+303,T,32,Uganda,0,2,0.0
+303,T,32,Vietnam,0,2,0.0

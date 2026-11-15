@@ -1,0 +1,81 @@
+{
+  "sources": [
+    {
+      "snapshot": "classified_records.parquet",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c1_taxonomy_v1\\classified_records.parquet",
+      "bytes": 1091770,
+      "sha256": "102bd821ad4e82b1b877470a8549611b1490d264b0411577027dfb2863ddcaa4"
+    },
+    {
+      "snapshot": "gold_summary.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_bridge_20261114\\FACT_CHECKPOINT_BRIDGE.csv",
+      "bytes": 97225,
+      "sha256": "ac77d73e90907c98c10d12c6988ea0c0a7e4c9c7ad9a0d60f84ed38eee37088e"
+    },
+    {
+      "snapshot": "candidates85.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_bridge_20261114\\inputs\\candidates.csv",
+      "bytes": 3658463,
+      "sha256": "2c33c0b1388beefc7213129eefd76281e232afcea4d43e118318c47c65bcc39a"
+    },
+    {
+      "snapshot": "candidates_augmented.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_bridge_20261114\\CANDIDATES_AUGMENTED.csv",
+      "bytes": 4109317,
+      "sha256": "dc527fcbb3fe43b750aaf8b61b85f40e4c02b6e73a4d657619587ca4db4a6f9d"
+    },
+    {
+      "snapshot": "scope_registry.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_c3_design\\evidence_timeline_90_by_5.csv",
+      "bytes": 62565,
+      "sha256": "59f18574107a9950c3af3b0871e3441c2dc4edcb4f8f533bbd0fc30c7ace635f"
+    },
+    {
+      "snapshot": "old_matched_errors.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_bridge_20261114\\MATCHED_ERROR_EVENTS.csv",
+      "bytes": 36244,
+      "sha256": "e91e5b4fe4d7e60d601c4cc6eb37d6c01030087f2cdf3664c352a2b68dbf029c"
+    },
+    {
+      "snapshot": "wrong_pair_inventory.csv",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_wrong_relations\\wrong_answer_pair_inventory.csv",
+      "bytes": 14929,
+      "sha256": "0363f5274fb2a8a25ef33e20146d124d5fb0134beda988e711e61a18242e67a9"
+    },
+    {
+      "snapshot": "scoring_source.py",
+      "original_path": "C:\\Users\\Administrator\\Desktop\\jiemi\\C2_V2_FLOW_20261113\\06_scripts\\c2_v2_logprob.py",
+      "bytes": 4955,
+      "sha256": "e9cc1005b682b3e917c8e528d1dd18a077c392489ea1b20456e0565357f358d7"
+    },
+    {
+      "snapshot": "generation_source.py",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\p1_confirmation\\generate_original.py",
+      "bytes": 7179,
+      "sha256": "d9dba75c21c0437f5b3f91798a9d3c1ef1a692f18f5fb5d77aa92de53565d0f1"
+    },
+    {
+      "snapshot": "generation_protocol.md",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\p1_confirmation\\PROTOCOL.md",
+      "bytes": 2858,
+      "sha256": "d82a66bc85dcc6b7822d2014b9d3adb0fbe9879ce7a145897f5526bf17bf3f21"
+    },
+    {
+      "snapshot": "positive_control_status.json",
+      "original_path": "C:\\Users\\Administrator\\Documents\\ChatGPT\\sci论文\\Paper2_Hallucination_Dynamics\\next_stage\\c2_positive_control_20261115\\ANALYSIS_STATUS.json",
+      "bytes": 970,
+      "sha256": "0631923d9129fc2d6f0d35356b7a3ba73d20db56b13862d2a4a81fd6135f2b2c"
+    }
+  ],
+  "raw_rows": 11370,
+  "canonical_capital_rows": 1960,
+  "excluded_capital_t2_rows": 1960,
+  "excluded_other_relation_rows": 7450,
+  "matched_cells": 392,
+  "missing_cells": 58,
+  "facts": 90,
+  "primary_national_facts": 42,
+  "analysis_plan_sha256": "ddf0d2581c24f197909c167130918c706a4d9574f903d087d31a2bbc03c7ee31",
+  "new_generation": 0,
+  "new_training": 0
+}

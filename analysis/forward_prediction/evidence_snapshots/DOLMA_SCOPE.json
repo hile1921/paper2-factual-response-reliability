@@ -1,0 +1,10 @@
+{
+  "selected_shards": 2,
+  "documents_read": 3996,
+  "records": 218,
+  "direct_support_candidates": 0,
+  "corpus_wide_coverage_known": false,
+  "exposure_time_recovered": false,
+  "C2_replication_complete": false,
+  "errors": 0
+}

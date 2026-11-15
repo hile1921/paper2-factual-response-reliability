@@ -5,3 +5,10 @@
 *.json text eol=lf
 *.mat binary
 *.pdf binary
+*.gz binary
+*.parquet binary
+*.zip binary
+*.npy binary
+
+# Frozen analyses carry byte-level hashes; do not normalise their line endings.
+analysis/** -text

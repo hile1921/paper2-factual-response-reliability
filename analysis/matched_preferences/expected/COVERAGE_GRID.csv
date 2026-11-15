@@ -1,0 +1,451 @@
+uid,step,subject,generation_available,reason
+104141_422_2839416,10000,Himachal Pradesh,True,exact canonical prompt; 1greedy+4samples
+104141_422_2839416,170000,Himachal Pradesh,True,exact canonical prompt; 1greedy+4samples
+104141_422_2839416,340000,Himachal Pradesh,True,exact canonical prompt; 1greedy+4samples
+104141_422_2839416,500000,Himachal Pradesh,True,exact canonical prompt; 1greedy+4samples
+104141_422_2839416,658032,Himachal Pradesh,True,exact canonical prompt; 1greedy+4samples
+1085288_422_2840765,10000,Commonwealth of England,True,exact canonical prompt; 1greedy+4samples
+1085288_422_2840765,170000,Commonwealth of England,True,exact canonical prompt; 1greedy+4samples
+1085288_422_2840765,340000,Commonwealth of England,True,exact canonical prompt; 1greedy+4samples
+1085288_422_2840765,500000,Commonwealth of England,True,exact canonical prompt; 1greedy+4samples
+1085288_422_2840765,658032,Commonwealth of England,True,exact canonical prompt; 1greedy+4samples
+1108853_422_2928795,10000,New Caledonia,True,exact canonical prompt; 1greedy+4samples
+1108853_422_2928795,170000,New Caledonia,True,exact canonical prompt; 1greedy+4samples
+1108853_422_2928795,340000,New Caledonia,True,exact canonical prompt; 1greedy+4samples
+1108853_422_2928795,500000,New Caledonia,True,exact canonical prompt; 1greedy+4samples
+1108853_422_2928795,658032,New Caledonia,True,exact canonical prompt; 1greedy+4samples
+1112690_422_51360,10000,Czechoslovakia,True,exact canonical prompt; 1greedy+4samples
+1112690_422_51360,170000,Czechoslovakia,False,original cohort has no generation at intermediate checkpoint; no imputation
+1112690_422_51360,340000,Czechoslovakia,True,exact canonical prompt; 1greedy+4samples
+1112690_422_51360,500000,Czechoslovakia,False,original cohort has no generation at intermediate checkpoint; no imputation
+1112690_422_51360,658032,Czechoslovakia,True,exact canonical prompt; 1greedy+4samples
+112853_422_2339883,10000,Canton of Bern,True,exact canonical prompt; 1greedy+4samples
+112853_422_2339883,170000,Canton of Bern,True,exact canonical prompt; 1greedy+4samples
+112853_422_2339883,340000,Canton of Bern,True,exact canonical prompt; 1greedy+4samples
+112853_422_2339883,500000,Canton of Bern,True,exact canonical prompt; 1greedy+4samples
+112853_422_2339883,658032,Canton of Bern,True,exact canonical prompt; 1greedy+4samples
+113124_422_2376315,10000,Canton of Geneva,True,exact canonical prompt; 1greedy+4samples
+113124_422_2376315,170000,Canton of Geneva,True,exact canonical prompt; 1greedy+4samples
+113124_422_2376315,340000,Canton of Geneva,True,exact canonical prompt; 1greedy+4samples
+113124_422_2376315,500000,Canton of Geneva,True,exact canonical prompt; 1greedy+4samples
+113124_422_2376315,658032,Canton of Geneva,True,exact canonical prompt; 1greedy+4samples
+118455_422_534177,10000,Rhineland-Palatinate,True,exact canonical prompt; 1greedy+4samples
+118455_422_534177,170000,Rhineland-Palatinate,True,exact canonical prompt; 1greedy+4samples
+118455_422_534177,340000,Rhineland-Palatinate,True,exact canonical prompt; 1greedy+4samples
+118455_422_534177,500000,Rhineland-Palatinate,True,exact canonical prompt; 1greedy+4samples
+118455_422_534177,658032,Rhineland-Palatinate,True,exact canonical prompt; 1greedy+4samples
+1186824_422_1036090,10000,Victoria,True,exact canonical prompt; 1greedy+4samples
+1186824_422_1036090,170000,Victoria,False,original cohort has no generation at intermediate checkpoint; no imputation
+1186824_422_1036090,340000,Victoria,True,exact canonical prompt; 1greedy+4samples
+1186824_422_1036090,500000,Victoria,False,original cohort has no generation at intermediate checkpoint; no imputation
+1186824_422_1036090,658032,Victoria,True,exact canonical prompt; 1greedy+4samples
+1191903_422_752152,10000,Lithuania,True,exact canonical prompt; 1greedy+4samples
+1191903_422_752152,170000,Lithuania,True,exact canonical prompt; 1greedy+4samples
+1191903_422_752152,340000,Lithuania,True,exact canonical prompt; 1greedy+4samples
+1191903_422_752152,500000,Lithuania,True,exact canonical prompt; 1greedy+4samples
+1191903_422_752152,658032,Lithuania,True,exact canonical prompt; 1greedy+4samples
+120446_422_948883,10000,Illinois,True,exact canonical prompt; 1greedy+4samples
+120446_422_948883,170000,Illinois,True,exact canonical prompt; 1greedy+4samples
+120446_422_948883,340000,Illinois,True,exact canonical prompt; 1greedy+4samples
+120446_422_948883,500000,Illinois,True,exact canonical prompt; 1greedy+4samples
+120446_422_948883,658032,Illinois,True,exact canonical prompt; 1greedy+4samples
+1210854_422_1317422,10000,French Guiana,True,exact canonical prompt; 1greedy+4samples
+1210854_422_1317422,170000,French Guiana,True,exact canonical prompt; 1greedy+4samples
+1210854_422_1317422,340000,French Guiana,True,exact canonical prompt; 1greedy+4samples
+1210854_422_1317422,500000,French Guiana,True,exact canonical prompt; 1greedy+4samples
+1210854_422_1317422,658032,French Guiana,True,exact canonical prompt; 1greedy+4samples
+122953_422_1193785,10000,North Dakota,True,exact canonical prompt; 1greedy+4samples
+122953_422_1193785,170000,North Dakota,True,exact canonical prompt; 1greedy+4samples
+122953_422_1193785,340000,North Dakota,True,exact canonical prompt; 1greedy+4samples
+122953_422_1193785,500000,North Dakota,True,exact canonical prompt; 1greedy+4samples
+122953_422_1193785,658032,North Dakota,True,exact canonical prompt; 1greedy+4samples
+124809_422_1236000,10000,Montana,True,exact canonical prompt; 1greedy+4samples
+124809_422_1236000,170000,Montana,True,exact canonical prompt; 1greedy+4samples
+124809_422_1236000,340000,Montana,True,exact canonical prompt; 1greedy+4samples
+124809_422_1236000,500000,Montana,True,exact canonical prompt; 1greedy+4samples
+124809_422_1236000,658032,Montana,True,exact canonical prompt; 1greedy+4samples
+1265777_422_1190624,10000,Bahia,True,exact canonical prompt; 1greedy+4samples
+1265777_422_1190624,170000,Bahia,True,exact canonical prompt; 1greedy+4samples
+1265777_422_1190624,340000,Bahia,True,exact canonical prompt; 1greedy+4samples
+1265777_422_1190624,500000,Bahia,True,exact canonical prompt; 1greedy+4samples
+1265777_422_1190624,658032,Bahia,True,exact canonical prompt; 1greedy+4samples
+1272660_422_299930,10000,Greece,True,exact canonical prompt; 1greedy+4samples
+1272660_422_299930,170000,Greece,True,exact canonical prompt; 1greedy+4samples
+1272660_422_299930,340000,Greece,True,exact canonical prompt; 1greedy+4samples
+1272660_422_299930,500000,Greece,True,exact canonical prompt; 1greedy+4samples
+1272660_422_299930,658032,Greece,True,exact canonical prompt; 1greedy+4samples
+1277986_422_2135299,10000,Weimar Republic,True,exact canonical prompt; 1greedy+4samples
+1277986_422_2135299,170000,Weimar Republic,False,original cohort has no generation at intermediate checkpoint; no imputation
+1277986_422_2135299,340000,Weimar Republic,True,exact canonical prompt; 1greedy+4samples
+1277986_422_2135299,500000,Weimar Republic,False,original cohort has no generation at intermediate checkpoint; no imputation
+1277986_422_2135299,658032,Weimar Republic,True,exact canonical prompt; 1greedy+4samples
+1278811_422_271978,10000,Argentina,True,exact canonical prompt; 1greedy+4samples
+1278811_422_271978,170000,Argentina,True,exact canonical prompt; 1greedy+4samples
+1278811_422_271978,340000,Argentina,True,exact canonical prompt; 1greedy+4samples
+1278811_422_271978,500000,Argentina,True,exact canonical prompt; 1greedy+4samples
+1278811_422_271978,658032,Argentina,True,exact canonical prompt; 1greedy+4samples
+13026_422_1160571,10000,Morocco,True,exact canonical prompt; 1greedy+4samples
+13026_422_1160571,170000,Morocco,True,exact canonical prompt; 1greedy+4samples
+13026_422_1160571,340000,Morocco,True,exact canonical prompt; 1greedy+4samples
+13026_422_1160571,500000,Morocco,True,exact canonical prompt; 1greedy+4samples
+13026_422_1160571,658032,Morocco,True,exact canonical prompt; 1greedy+4samples
+1324781_422_1996678,10000,Portugal,True,exact canonical prompt; 1greedy+4samples
+1324781_422_1996678,170000,Portugal,True,exact canonical prompt; 1greedy+4samples
+1324781_422_1996678,340000,Portugal,True,exact canonical prompt; 1greedy+4samples
+1324781_422_1996678,500000,Portugal,True,exact canonical prompt; 1greedy+4samples
+1324781_422_1996678,658032,Portugal,True,exact canonical prompt; 1greedy+4samples
+1343681_422_2199881,10000,European Union,True,exact canonical prompt; 1greedy+4samples
+1343681_422_2199881,170000,European Union,False,original cohort has no generation at intermediate checkpoint; no imputation
+1343681_422_2199881,340000,European Union,True,exact canonical prompt; 1greedy+4samples
+1343681_422_2199881,500000,European Union,False,original cohort has no generation at intermediate checkpoint; no imputation
+1343681_422_2199881,658032,European Union,True,exact canonical prompt; 1greedy+4samples
+1713642_422_815434,10000,European Economic Community,True,exact canonical prompt; 1greedy+4samples
+1713642_422_815434,170000,European Economic Community,False,original cohort has no generation at intermediate checkpoint; no imputation
+1713642_422_815434,340000,European Economic Community,True,exact canonical prompt; 1greedy+4samples
+1713642_422_815434,500000,European Economic Community,False,original cohort has no generation at intermediate checkpoint; no imputation
+1713642_422_815434,658032,European Economic Community,True,exact canonical prompt; 1greedy+4samples
+176727_422_652572,10000,Ukrainian Soviet Socialist Republic,True,exact canonical prompt; 1greedy+4samples
+176727_422_652572,170000,Ukrainian Soviet Socialist Republic,True,exact canonical prompt; 1greedy+4samples
+176727_422_652572,340000,Ukrainian Soviet Socialist Republic,True,exact canonical prompt; 1greedy+4samples
+176727_422_652572,500000,Ukrainian Soviet Socialist Republic,True,exact canonical prompt; 1greedy+4samples
+176727_422_652572,658032,Ukrainian Soviet Socialist Republic,True,exact canonical prompt; 1greedy+4samples
+17917_422_1240896,10000,Uganda,True,exact canonical prompt; 1greedy+4samples
+17917_422_1240896,170000,Uganda,False,original cohort has no generation at intermediate checkpoint; no imputation
+17917_422_1240896,340000,Uganda,True,exact canonical prompt; 1greedy+4samples
+17917_422_1240896,500000,Uganda,False,original cohort has no generation at intermediate checkpoint; no imputation
+17917_422_1240896,658032,Uganda,True,exact canonical prompt; 1greedy+4samples
+1930274_422_2897238,10000,East Timor,True,exact canonical prompt; 1greedy+4samples
+1930274_422_2897238,170000,East Timor,False,original cohort has no generation at intermediate checkpoint; no imputation
+1930274_422_2897238,340000,East Timor,True,exact canonical prompt; 1greedy+4samples
+1930274_422_2897238,500000,East Timor,False,original cohort has no generation at intermediate checkpoint; no imputation
+1930274_422_2897238,658032,East Timor,True,exact canonical prompt; 1greedy+4samples
+2204434_422_806310,10000,New Zealand,True,exact canonical prompt; 1greedy+4samples
+2204434_422_806310,170000,New Zealand,False,original cohort has no generation at intermediate checkpoint; no imputation
+2204434_422_806310,340000,New Zealand,True,exact canonical prompt; 1greedy+4samples
+2204434_422_806310,500000,New Zealand,False,original cohort has no generation at intermediate checkpoint; no imputation
+2204434_422_806310,658032,New Zealand,True,exact canonical prompt; 1greedy+4samples
+2215085_422_2938512,10000,India,True,exact canonical prompt; 1greedy+4samples
+2215085_422_2938512,170000,India,True,exact canonical prompt; 1greedy+4samples
+2215085_422_2938512,340000,India,True,exact canonical prompt; 1greedy+4samples
+2215085_422_2938512,500000,India,True,exact canonical prompt; 1greedy+4samples
+2215085_422_2938512,658032,India,True,exact canonical prompt; 1greedy+4samples
+222703_422_855015,10000,Pennsylvania,True,exact canonical prompt; 1greedy+4samples
+222703_422_855015,170000,Pennsylvania,True,exact canonical prompt; 1greedy+4samples
+222703_422_855015,340000,Pennsylvania,True,exact canonical prompt; 1greedy+4samples
+222703_422_855015,500000,Pennsylvania,True,exact canonical prompt; 1greedy+4samples
+222703_422_855015,658032,Pennsylvania,True,exact canonical prompt; 1greedy+4samples
+2229286_422_1117033,10000,Tuvalu,True,exact canonical prompt; 1greedy+4samples
+2229286_422_1117033,170000,Tuvalu,False,original cohort has no generation at intermediate checkpoint; no imputation
+2229286_422_1117033,340000,Tuvalu,True,exact canonical prompt; 1greedy+4samples
+2229286_422_1117033,500000,Tuvalu,False,original cohort has no generation at intermediate checkpoint; no imputation
+2229286_422_1117033,658032,Tuvalu,True,exact canonical prompt; 1greedy+4samples
+22615_422_1213549,10000,Sierra Leone,True,exact canonical prompt; 1greedy+4samples
+22615_422_1213549,170000,Sierra Leone,True,exact canonical prompt; 1greedy+4samples
+22615_422_1213549,340000,Sierra Leone,True,exact canonical prompt; 1greedy+4samples
+22615_422_1213549,500000,Sierra Leone,True,exact canonical prompt; 1greedy+4samples
+22615_422_1213549,658032,Sierra Leone,True,exact canonical prompt; 1greedy+4samples
+227726_422_2112253,10000,Indiana,True,exact canonical prompt; 1greedy+4samples
+227726_422_2112253,170000,Indiana,True,exact canonical prompt; 1greedy+4samples
+227726_422_2112253,340000,Indiana,True,exact canonical prompt; 1greedy+4samples
+227726_422_2112253,500000,Indiana,True,exact canonical prompt; 1greedy+4samples
+227726_422_2112253,658032,Indiana,True,exact canonical prompt; 1greedy+4samples
+2306964_422_1183349,10000,Papua New Guinea,True,exact canonical prompt; 1greedy+4samples
+2306964_422_1183349,170000,Papua New Guinea,False,original cohort has no generation at intermediate checkpoint; no imputation
+2306964_422_1183349,340000,Papua New Guinea,True,exact canonical prompt; 1greedy+4samples
+2306964_422_1183349,500000,Papua New Guinea,False,original cohort has no generation at intermediate checkpoint; no imputation
+2306964_422_1183349,658032,Papua New Guinea,True,exact canonical prompt; 1greedy+4samples
+2375340_422_2874868,10000,Kingdom of France,True,exact canonical prompt; 1greedy+4samples
+2375340_422_2874868,170000,Kingdom of France,True,exact canonical prompt; 1greedy+4samples
+2375340_422_2874868,340000,Kingdom of France,True,exact canonical prompt; 1greedy+4samples
+2375340_422_2874868,500000,Kingdom of France,True,exact canonical prompt; 1greedy+4samples
+2375340_422_2874868,658032,Kingdom of France,True,exact canonical prompt; 1greedy+4samples
+2410830_422_308418,10000,Venezuela,True,exact canonical prompt; 1greedy+4samples
+2410830_422_308418,170000,Venezuela,True,exact canonical prompt; 1greedy+4samples
+2410830_422_308418,340000,Venezuela,True,exact canonical prompt; 1greedy+4samples
+2410830_422_308418,500000,Venezuela,True,exact canonical prompt; 1greedy+4samples
+2410830_422_308418,658032,Venezuela,True,exact canonical prompt; 1greedy+4samples
+242916_422_2840765,10000,United Kingdom,True,exact canonical prompt; 1greedy+4samples
+242916_422_2840765,170000,United Kingdom,False,original cohort has no generation at intermediate checkpoint; no imputation
+242916_422_2840765,340000,United Kingdom,True,exact canonical prompt; 1greedy+4samples
+242916_422_2840765,500000,United Kingdom,False,original cohort has no generation at intermediate checkpoint; no imputation
+242916_422_2840765,658032,United Kingdom,True,exact canonical prompt; 1greedy+4samples
+2471806_422_988746,10000,Suriname,True,exact canonical prompt; 1greedy+4samples
+2471806_422_988746,170000,Suriname,True,exact canonical prompt; 1greedy+4samples
+2471806_422_988746,340000,Suriname,True,exact canonical prompt; 1greedy+4samples
+2471806_422_988746,500000,Suriname,True,exact canonical prompt; 1greedy+4samples
+2471806_422_988746,658032,Suriname,True,exact canonical prompt; 1greedy+4samples
+2505797_422_962576,10000,Ecuador,True,exact canonical prompt; 1greedy+4samples
+2505797_422_962576,170000,Ecuador,True,exact canonical prompt; 1greedy+4samples
+2505797_422_962576,340000,Ecuador,True,exact canonical prompt; 1greedy+4samples
+2505797_422_962576,500000,Ecuador,True,exact canonical prompt; 1greedy+4samples
+2505797_422_962576,658032,Ecuador,True,exact canonical prompt; 1greedy+4samples
+2580354_422_1246306,10000,Trinidad and Tobago,True,exact canonical prompt; 1greedy+4samples
+2580354_422_1246306,170000,Trinidad and Tobago,True,exact canonical prompt; 1greedy+4samples
+2580354_422_1246306,340000,Trinidad and Tobago,True,exact canonical prompt; 1greedy+4samples
+2580354_422_1246306,500000,Trinidad and Tobago,True,exact canonical prompt; 1greedy+4samples
+2580354_422_1246306,658032,Trinidad and Tobago,True,exact canonical prompt; 1greedy+4samples
+2597830_422_941030,10000,New Hampshire,True,exact canonical prompt; 1greedy+4samples
+2597830_422_941030,170000,New Hampshire,False,original cohort has no generation at intermediate checkpoint; no imputation
+2597830_422_941030,340000,New Hampshire,True,exact canonical prompt; 1greedy+4samples
+2597830_422_941030,500000,New Hampshire,False,original cohort has no generation at intermediate checkpoint; no imputation
+2597830_422_941030,658032,New Hampshire,True,exact canonical prompt; 1greedy+4samples
+2647127_422_1,10000,Massachusetts,True,exact canonical prompt; 1greedy+4samples
+2647127_422_1,170000,Massachusetts,True,exact canonical prompt; 1greedy+4samples
+2647127_422_1,340000,Massachusetts,True,exact canonical prompt; 1greedy+4samples
+2647127_422_1,500000,Massachusetts,True,exact canonical prompt; 1greedy+4samples
+2647127_422_1,658032,Massachusetts,True,exact canonical prompt; 1greedy+4samples
+265491_422_2916491,10000,People's Republic of China,True,exact canonical prompt; 1greedy+4samples
+265491_422_2916491,170000,People's Republic of China,True,exact canonical prompt; 1greedy+4samples
+265491_422_2916491,340000,People's Republic of China,True,exact canonical prompt; 1greedy+4samples
+265491_422_2916491,500000,People's Republic of China,True,exact canonical prompt; 1greedy+4samples
+265491_422_2916491,658032,People's Republic of China,True,exact canonical prompt; 1greedy+4samples
+2727_422_1200955,10000,Guinea,True,exact canonical prompt; 1greedy+4samples
+2727_422_1200955,170000,Guinea,True,exact canonical prompt; 1greedy+4samples
+2727_422_1200955,340000,Guinea,True,exact canonical prompt; 1greedy+4samples
+2727_422_1200955,500000,Guinea,True,exact canonical prompt; 1greedy+4samples
+2727_422_1200955,658032,Guinea,True,exact canonical prompt; 1greedy+4samples
+2763787_422_307093,10000,Iraq,True,exact canonical prompt; 1greedy+4samples
+2763787_422_307093,170000,Iraq,True,exact canonical prompt; 1greedy+4samples
+2763787_422_307093,340000,Iraq,True,exact canonical prompt; 1greedy+4samples
+2763787_422_307093,500000,Iraq,True,exact canonical prompt; 1greedy+4samples
+2763787_422_307093,658032,Iraq,True,exact canonical prompt; 1greedy+4samples
+2825351_422_1219073,10000,Jordan,True,exact canonical prompt; 1greedy+4samples
+2825351_422_1219073,170000,Jordan,False,original cohort has no generation at intermediate checkpoint; no imputation
+2825351_422_1219073,340000,Jordan,True,exact canonical prompt; 1greedy+4samples
+2825351_422_1219073,500000,Jordan,False,original cohort has no generation at intermediate checkpoint; no imputation
+2825351_422_1219073,658032,Jordan,True,exact canonical prompt; 1greedy+4samples
+2825766_422_1073673,10000,Nicaragua,True,exact canonical prompt; 1greedy+4samples
+2825766_422_1073673,170000,Nicaragua,False,original cohort has no generation at intermediate checkpoint; no imputation
+2825766_422_1073673,340000,Nicaragua,True,exact canonical prompt; 1greedy+4samples
+2825766_422_1073673,500000,Nicaragua,False,original cohort has no generation at intermediate checkpoint; no imputation
+2825766_422_1073673,658032,Nicaragua,True,exact canonical prompt; 1greedy+4samples
+2827475_422_437403,10000,Arizona,True,exact canonical prompt; 1greedy+4samples
+2827475_422_437403,170000,Arizona,False,original cohort has no generation at intermediate checkpoint; no imputation
+2827475_422_437403,340000,Arizona,True,exact canonical prompt; 1greedy+4samples
+2827475_422_437403,500000,Arizona,False,original cohort has no generation at intermediate checkpoint; no imputation
+2827475_422_437403,658032,Arizona,True,exact canonical prompt; 1greedy+4samples
+2856110_422_634222,10000,Taiwan,True,exact canonical prompt; 1greedy+4samples
+2856110_422_634222,170000,Taiwan,True,exact canonical prompt; 1greedy+4samples
+2856110_422_634222,340000,Taiwan,True,exact canonical prompt; 1greedy+4samples
+2856110_422_634222,500000,Taiwan,True,exact canonical prompt; 1greedy+4samples
+2856110_422_634222,658032,Taiwan,True,exact canonical prompt; 1greedy+4samples
+2858195_422_628348,10000,Thailand,True,exact canonical prompt; 1greedy+4samples
+2858195_422_628348,170000,Thailand,True,exact canonical prompt; 1greedy+4samples
+2858195_422_628348,340000,Thailand,True,exact canonical prompt; 1greedy+4samples
+2858195_422_628348,500000,Thailand,True,exact canonical prompt; 1greedy+4samples
+2858195_422_628348,658032,Thailand,True,exact canonical prompt; 1greedy+4samples
+2863349_422_293688,10000,United Arab Emirates,True,exact canonical prompt; 1greedy+4samples
+2863349_422_293688,170000,United Arab Emirates,False,original cohort has no generation at intermediate checkpoint; no imputation
+2863349_422_293688,340000,United Arab Emirates,True,exact canonical prompt; 1greedy+4samples
+2863349_422_293688,500000,United Arab Emirates,False,original cohort has no generation at intermediate checkpoint; no imputation
+2863349_422_293688,658032,United Arab Emirates,True,exact canonical prompt; 1greedy+4samples
+2864945_422_627146,10000,Vietnam,True,exact canonical prompt; 1greedy+4samples
+2864945_422_627146,170000,Vietnam,False,original cohort has no generation at intermediate checkpoint; no imputation
+2864945_422_627146,340000,Vietnam,True,exact canonical prompt; 1greedy+4samples
+2864945_422_627146,500000,Vietnam,False,original cohort has no generation at intermediate checkpoint; no imputation
+2864945_422_627146,658032,Vietnam,True,exact canonical prompt; 1greedy+4samples
+2910890_422_1167128,10000,Tunisia,True,exact canonical prompt; 1greedy+4samples
+2910890_422_1167128,170000,Tunisia,True,exact canonical prompt; 1greedy+4samples
+2910890_422_1167128,340000,Tunisia,True,exact canonical prompt; 1greedy+4samples
+2910890_422_1167128,500000,Tunisia,True,exact canonical prompt; 1greedy+4samples
+2910890_422_1167128,658032,Tunisia,True,exact canonical prompt; 1greedy+4samples
+2917911_422_673295,10000,South Sudan,True,exact canonical prompt; 1greedy+4samples
+2917911_422_673295,170000,South Sudan,True,exact canonical prompt; 1greedy+4samples
+2917911_422_673295,340000,South Sudan,True,exact canonical prompt; 1greedy+4samples
+2917911_422_673295,500000,South Sudan,True,exact canonical prompt; 1greedy+4samples
+2917911_422_673295,658032,South Sudan,True,exact canonical prompt; 1greedy+4samples
+292048_422_770885,10000,Novgorod Republic,True,exact canonical prompt; 1greedy+4samples
+292048_422_770885,170000,Novgorod Republic,True,exact canonical prompt; 1greedy+4samples
+292048_422_770885,340000,Novgorod Republic,True,exact canonical prompt; 1greedy+4samples
+292048_422_770885,500000,Novgorod Republic,True,exact canonical prompt; 1greedy+4samples
+292048_422_770885,658032,Novgorod Republic,True,exact canonical prompt; 1greedy+4samples
+2924609_422_1232716,10000,Burundi,True,exact canonical prompt; 1greedy+4samples
+2924609_422_1232716,170000,Burundi,True,exact canonical prompt; 1greedy+4samples
+2924609_422_1232716,340000,Burundi,True,exact canonical prompt; 1greedy+4samples
+2924609_422_1232716,500000,Burundi,True,exact canonical prompt; 1greedy+4samples
+2924609_422_1232716,658032,Burundi,True,exact canonical prompt; 1greedy+4samples
+2929247_422_1228630,10000,Democratic Republic of the Congo,True,exact canonical prompt; 1greedy+4samples
+2929247_422_1228630,170000,Democratic Republic of the Congo,False,original cohort has no generation at intermediate checkpoint; no imputation
+2929247_422_1228630,340000,Democratic Republic of the Congo,True,exact canonical prompt; 1greedy+4samples
+2929247_422_1228630,500000,Democratic Republic of the Congo,False,original cohort has no generation at intermediate checkpoint; no imputation
+2929247_422_1228630,658032,Democratic Republic of the Congo,True,exact canonical prompt; 1greedy+4samples
+296640_422_1232995,10000,New Mexico,True,exact canonical prompt; 1greedy+4samples
+296640_422_1232995,170000,New Mexico,True,exact canonical prompt; 1greedy+4samples
+296640_422_1232995,340000,New Mexico,True,exact canonical prompt; 1greedy+4samples
+296640_422_1232995,500000,New Mexico,True,exact canonical prompt; 1greedy+4samples
+296640_422_1232995,658032,New Mexico,True,exact canonical prompt; 1greedy+4samples
+316741_422_1254294,10000,Iowa,True,exact canonical prompt; 1greedy+4samples
+316741_422_1254294,170000,Iowa,True,exact canonical prompt; 1greedy+4samples
+316741_422_1254294,340000,Iowa,True,exact canonical prompt; 1greedy+4samples
+316741_422_1254294,500000,Iowa,True,exact canonical prompt; 1greedy+4samples
+316741_422_1254294,658032,Iowa,True,exact canonical prompt; 1greedy+4samples
+338290_422_939074,10000,Missouri,True,exact canonical prompt; 1greedy+4samples
+338290_422_939074,170000,Missouri,False,original cohort has no generation at intermediate checkpoint; no imputation
+338290_422_939074,340000,Missouri,True,exact canonical prompt; 1greedy+4samples
+338290_422_939074,500000,Missouri,False,original cohort has no generation at intermediate checkpoint; no imputation
+338290_422_939074,658032,Missouri,True,exact canonical prompt; 1greedy+4samples
+343477_422_2169018,10000,Russia,True,exact canonical prompt; 1greedy+4samples
+343477_422_2169018,170000,Russia,False,original cohort has no generation at intermediate checkpoint; no imputation
+343477_422_2169018,340000,Russia,True,exact canonical prompt; 1greedy+4samples
+343477_422_2169018,500000,Russia,False,original cohort has no generation at intermediate checkpoint; no imputation
+343477_422_2169018,658032,Russia,True,exact canonical prompt; 1greedy+4samples
+355510_422_663336,10000,Canada,True,exact canonical prompt; 1greedy+4samples
+355510_422_663336,170000,Canada,True,exact canonical prompt; 1greedy+4samples
+355510_422_663336,340000,Canada,True,exact canonical prompt; 1greedy+4samples
+355510_422_663336,500000,Canada,True,exact canonical prompt; 1greedy+4samples
+355510_422_663336,658032,Canada,True,exact canonical prompt; 1greedy+4samples
+365708_422_951099,10000,Kentucky,True,exact canonical prompt; 1greedy+4samples
+365708_422_951099,170000,Kentucky,True,exact canonical prompt; 1greedy+4samples
+365708_422_951099,340000,Kentucky,True,exact canonical prompt; 1greedy+4samples
+365708_422_951099,500000,Kentucky,True,exact canonical prompt; 1greedy+4samples
+365708_422_951099,658032,Kentucky,True,exact canonical prompt; 1greedy+4samples
+388323_422_2840765,10000,Great Britain,True,exact canonical prompt; 1greedy+4samples
+388323_422_2840765,170000,Great Britain,True,exact canonical prompt; 1greedy+4samples
+388323_422_2840765,340000,Great Britain,True,exact canonical prompt; 1greedy+4samples
+388323_422_2840765,500000,Great Britain,True,exact canonical prompt; 1greedy+4samples
+388323_422_2840765,658032,Great Britain,True,exact canonical prompt; 1greedy+4samples
+537637_422_974255,10000,Alabama,True,exact canonical prompt; 1greedy+4samples
+537637_422_974255,170000,Alabama,True,exact canonical prompt; 1greedy+4samples
+537637_422_974255,340000,Alabama,True,exact canonical prompt; 1greedy+4samples
+537637_422_974255,500000,Alabama,True,exact canonical prompt; 1greedy+4samples
+537637_422_974255,658032,Alabama,True,exact canonical prompt; 1greedy+4samples
+544935_422_2840765,10000,United Kingdom of Great Britain and Ireland,True,exact canonical prompt; 1greedy+4samples
+544935_422_2840765,170000,United Kingdom of Great Britain and Ireland,True,exact canonical prompt; 1greedy+4samples
+544935_422_2840765,340000,United Kingdom of Great Britain and Ireland,True,exact canonical prompt; 1greedy+4samples
+544935_422_2840765,500000,United Kingdom of Great Britain and Ireland,True,exact canonical prompt; 1greedy+4samples
+544935_422_2840765,658032,United Kingdom of Great Britain and Ireland,True,exact canonical prompt; 1greedy+4samples
+561022_422_747990,10000,Quebec,True,exact canonical prompt; 1greedy+4samples
+561022_422_747990,170000,Quebec,True,exact canonical prompt; 1greedy+4samples
+561022_422_747990,340000,Quebec,True,exact canonical prompt; 1greedy+4samples
+561022_422_747990,500000,Quebec,True,exact canonical prompt; 1greedy+4samples
+561022_422_747990,658032,Quebec,True,exact canonical prompt; 1greedy+4samples
+608820_422_67924,10000,Khyber Pakhtunkhwa,True,exact canonical prompt; 1greedy+4samples
+608820_422_67924,170000,Khyber Pakhtunkhwa,True,exact canonical prompt; 1greedy+4samples
+608820_422_67924,340000,Khyber Pakhtunkhwa,True,exact canonical prompt; 1greedy+4samples
+608820_422_67924,500000,Khyber Pakhtunkhwa,True,exact canonical prompt; 1greedy+4samples
+608820_422_67924,658032,Khyber Pakhtunkhwa,True,exact canonical prompt; 1greedy+4samples
+621629_422_782955,10000,Belarus,True,exact canonical prompt; 1greedy+4samples
+621629_422_782955,170000,Belarus,True,exact canonical prompt; 1greedy+4samples
+621629_422_782955,340000,Belarus,True,exact canonical prompt; 1greedy+4samples
+621629_422_782955,500000,Belarus,True,exact canonical prompt; 1greedy+4samples
+621629_422_782955,658032,Belarus,True,exact canonical prompt; 1greedy+4samples
+6597_422_1168732,10000,Libya,True,exact canonical prompt; 1greedy+4samples
+6597_422_1168732,170000,Libya,True,exact canonical prompt; 1greedy+4samples
+6597_422_1168732,340000,Libya,True,exact canonical prompt; 1greedy+4samples
+6597_422_1168732,500000,Libya,True,exact canonical prompt; 1greedy+4samples
+6597_422_1168732,658032,Libya,True,exact canonical prompt; 1greedy+4samples
+673667_422_745570,10000,Manitoba,True,exact canonical prompt; 1greedy+4samples
+673667_422_745570,170000,Manitoba,True,exact canonical prompt; 1greedy+4samples
+673667_422_745570,340000,Manitoba,True,exact canonical prompt; 1greedy+4samples
+673667_422_745570,500000,Manitoba,True,exact canonical prompt; 1greedy+4samples
+673667_422_745570,658032,Manitoba,True,exact canonical prompt; 1greedy+4samples
+676632_422_747005,10000,Nova Scotia,True,exact canonical prompt; 1greedy+4samples
+676632_422_747005,170000,Nova Scotia,True,exact canonical prompt; 1greedy+4samples
+676632_422_747005,340000,Nova Scotia,True,exact canonical prompt; 1greedy+4samples
+676632_422_747005,500000,Nova Scotia,True,exact canonical prompt; 1greedy+4samples
+676632_422_747005,658032,Nova Scotia,True,exact canonical prompt; 1greedy+4samples
+702887_422_1968117,10000,Norway,True,exact canonical prompt; 1greedy+4samples
+702887_422_1968117,170000,Norway,True,exact canonical prompt; 1greedy+4samples
+702887_422_1968117,340000,Norway,True,exact canonical prompt; 1greedy+4samples
+702887_422_1968117,500000,Norway,True,exact canonical prompt; 1greedy+4samples
+702887_422_1968117,658032,Norway,True,exact canonical prompt; 1greedy+4samples
+736842_422_2840765,10000,England,True,exact canonical prompt; 1greedy+4samples
+736842_422_2840765,170000,England,True,exact canonical prompt; 1greedy+4samples
+736842_422_2840765,340000,England,True,exact canonical prompt; 1greedy+4samples
+736842_422_2840765,500000,England,True,exact canonical prompt; 1greedy+4samples
+736842_422_2840765,658032,England,True,exact canonical prompt; 1greedy+4samples
+744365_422_51360,10000,Czech Republic,True,exact canonical prompt; 1greedy+4samples
+744365_422_51360,170000,Czech Republic,True,exact canonical prompt; 1greedy+4samples
+744365_422_51360,340000,Czech Republic,True,exact canonical prompt; 1greedy+4samples
+744365_422_51360,500000,Czech Republic,True,exact canonical prompt; 1greedy+4samples
+744365_422_51360,658032,Czech Republic,True,exact canonical prompt; 1greedy+4samples
+746755_422_573471,10000,Slovakia,True,exact canonical prompt; 1greedy+4samples
+746755_422_573471,170000,Slovakia,True,exact canonical prompt; 1greedy+4samples
+746755_422_573471,340000,Slovakia,True,exact canonical prompt; 1greedy+4samples
+746755_422_573471,500000,Slovakia,True,exact canonical prompt; 1greedy+4samples
+746755_422_573471,658032,Slovakia,True,exact canonical prompt; 1greedy+4samples
+749148_422_1308417,10000,Slovenia,True,exact canonical prompt; 1greedy+4samples
+749148_422_1308417,170000,Slovenia,False,original cohort has no generation at intermediate checkpoint; no imputation
+749148_422_1308417,340000,Slovenia,True,exact canonical prompt; 1greedy+4samples
+749148_422_1308417,500000,Slovenia,False,original cohort has no generation at intermediate checkpoint; no imputation
+749148_422_1308417,658032,Slovenia,True,exact canonical prompt; 1greedy+4samples
+761210_422_799769,10000,Scotland,True,exact canonical prompt; 1greedy+4samples
+761210_422_799769,170000,Scotland,True,exact canonical prompt; 1greedy+4samples
+761210_422_799769,340000,Scotland,True,exact canonical prompt; 1greedy+4samples
+761210_422_799769,500000,Scotland,True,exact canonical prompt; 1greedy+4samples
+761210_422_799769,658032,Scotland,True,exact canonical prompt; 1greedy+4samples
+763428_422_1229034,10000,North Macedonia,True,exact canonical prompt; 1greedy+4samples
+763428_422_1229034,170000,North Macedonia,False,original cohort has no generation at intermediate checkpoint; no imputation
+763428_422_1229034,340000,North Macedonia,True,exact canonical prompt; 1greedy+4samples
+763428_422_1229034,500000,North Macedonia,False,original cohort has no generation at intermediate checkpoint; no imputation
+763428_422_1229034,658032,North Macedonia,True,exact canonical prompt; 1greedy+4samples
+769516_422_777526,10000,Greenland,True,exact canonical prompt; 1greedy+4samples
+769516_422_777526,170000,Greenland,False,original cohort has no generation at intermediate checkpoint; no imputation
+769516_422_777526,340000,Greenland,True,exact canonical prompt; 1greedy+4samples
+769516_422_777526,500000,Greenland,False,original cohort has no generation at intermediate checkpoint; no imputation
+769516_422_777526,658032,Greenland,True,exact canonical prompt; 1greedy+4samples
+772386_422_236652,10000,Croatia,True,exact canonical prompt; 1greedy+4samples
+772386_422_236652,170000,Croatia,True,exact canonical prompt; 1greedy+4samples
+772386_422_236652,340000,Croatia,True,exact canonical prompt; 1greedy+4samples
+772386_422_236652,500000,Croatia,True,exact canonical prompt; 1greedy+4samples
+772386_422_236652,658032,Croatia,True,exact canonical prompt; 1greedy+4samples
+780040_422_2891922,10000,Azerbaijan,True,exact canonical prompt; 1greedy+4samples
+780040_422_2891922,170000,Azerbaijan,False,original cohort has no generation at intermediate checkpoint; no imputation
+780040_422_2891922,340000,Azerbaijan,True,exact canonical prompt; 1greedy+4samples
+780040_422_2891922,500000,Azerbaijan,False,original cohort has no generation at intermediate checkpoint; no imputation
+780040_422_2891922,658032,Azerbaijan,True,exact canonical prompt; 1greedy+4samples
+787894_422_2941259,10000,Georgia,True,exact canonical prompt; 1greedy+4samples
+787894_422_2941259,170000,Georgia,False,original cohort has no generation at intermediate checkpoint; no imputation
+787894_422_2941259,340000,Georgia,True,exact canonical prompt; 1greedy+4samples
+787894_422_2941259,500000,Georgia,False,original cohort has no generation at intermediate checkpoint; no imputation
+787894_422_2941259,658032,Georgia,True,exact canonical prompt; 1greedy+4samples
+790378_422_579691,10000,County Durham,True,exact canonical prompt; 1greedy+4samples
+790378_422_579691,170000,County Durham,True,exact canonical prompt; 1greedy+4samples
+790378_422_579691,340000,County Durham,True,exact canonical prompt; 1greedy+4samples
+790378_422_579691,500000,County Durham,True,exact canonical prompt; 1greedy+4samples
+790378_422_579691,658032,County Durham,True,exact canonical prompt; 1greedy+4samples
+790597_422_581817,10000,Lincolnshire,True,exact canonical prompt; 1greedy+4samples
+790597_422_581817,170000,Lincolnshire,False,original cohort has no generation at intermediate checkpoint; no imputation
+790597_422_581817,340000,Lincolnshire,True,exact canonical prompt; 1greedy+4samples
+790597_422_581817,500000,Lincolnshire,False,original cohort has no generation at intermediate checkpoint; no imputation
+790597_422_581817,658032,Lincolnshire,True,exact canonical prompt; 1greedy+4samples
+791035_422_160750,10000,Norfolk,True,exact canonical prompt; 1greedy+4samples
+791035_422_160750,170000,Norfolk,True,exact canonical prompt; 1greedy+4samples
+791035_422_160750,340000,Norfolk,True,exact canonical prompt; 1greedy+4samples
+791035_422_160750,500000,Norfolk,True,exact canonical prompt; 1greedy+4samples
+791035_422_160750,658032,Norfolk,True,exact canonical prompt; 1greedy+4samples
+792180_422_2844630,10000,Somerset,True,exact canonical prompt; 1greedy+4samples
+792180_422_2844630,170000,Somerset,False,original cohort has no generation at intermediate checkpoint; no imputation
+792180_422_2844630,340000,Somerset,True,exact canonical prompt; 1greedy+4samples
+792180_422_2844630,500000,Somerset,False,original cohort has no generation at intermediate checkpoint; no imputation
+792180_422_2844630,658032,Somerset,True,exact canonical prompt; 1greedy+4samples
+795586_422_744818,10000,Kent,True,exact canonical prompt; 1greedy+4samples
+795586_422_744818,170000,Kent,False,original cohort has no generation at intermediate checkpoint; no imputation
+795586_422_744818,340000,Kent,True,exact canonical prompt; 1greedy+4samples
+795586_422_744818,500000,Kent,False,original cohort has no generation at intermediate checkpoint; no imputation
+795586_422_744818,658032,Kent,True,exact canonical prompt; 1greedy+4samples
+847062_422_40007,10000,Wales,True,exact canonical prompt; 1greedy+4samples
+847062_422_40007,170000,Wales,False,original cohort has no generation at intermediate checkpoint; no imputation
+847062_422_40007,340000,Wales,True,exact canonical prompt; 1greedy+4samples
+847062_422_40007,500000,Wales,False,original cohort has no generation at intermediate checkpoint; no imputation
+847062_422_40007,658032,Wales,True,exact canonical prompt; 1greedy+4samples
+8491_422_1236666,10000,Malawi,True,exact canonical prompt; 1greedy+4samples
+8491_422_1236666,170000,Malawi,True,exact canonical prompt; 1greedy+4samples
+8491_422_1236666,340000,Malawi,True,exact canonical prompt; 1greedy+4samples
+8491_422_1236666,500000,Malawi,True,exact canonical prompt; 1greedy+4samples
+8491_422_1236666,658032,Malawi,True,exact canonical prompt; 1greedy+4samples
+874948_422_39748,10000,Northern Ireland,True,exact canonical prompt; 1greedy+4samples
+874948_422_39748,170000,Northern Ireland,True,exact canonical prompt; 1greedy+4samples
+874948_422_39748,340000,Northern Ireland,True,exact canonical prompt; 1greedy+4samples
+874948_422_39748,500000,Northern Ireland,True,exact canonical prompt; 1greedy+4samples
+874948_422_39748,658032,Northern Ireland,True,exact canonical prompt; 1greedy+4samples
+906806_422_561639,10000,Ireland,True,exact canonical prompt; 1greedy+4samples
+906806_422_561639,170000,Ireland,True,exact canonical prompt; 1greedy+4samples
+906806_422_561639,340000,Ireland,True,exact canonical prompt; 1greedy+4samples
+906806_422_561639,500000,Ireland,True,exact canonical prompt; 1greedy+4samples
+906806_422_561639,658032,Ireland,True,exact canonical prompt; 1greedy+4samples
+96826_422_940660,10000,Michigan,True,exact canonical prompt; 1greedy+4samples
+96826_422_940660,170000,Michigan,True,exact canonical prompt; 1greedy+4samples
+96826_422_940660,340000,Michigan,True,exact canonical prompt; 1greedy+4samples
+96826_422_940660,500000,Michigan,True,exact canonical prompt; 1greedy+4samples
+96826_422_940660,658032,Michigan,True,exact canonical prompt; 1greedy+4samples

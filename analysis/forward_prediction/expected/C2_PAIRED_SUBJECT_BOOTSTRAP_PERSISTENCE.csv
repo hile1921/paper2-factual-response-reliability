@@ -1,0 +1,2 @@
+comparison,metric,observed,CI_low,CI_high,bootstrap_mean,n_subjects,n_rows
+M1-E-P vs M0-P,logloss_macro,0.012756817342005455,-0.025975504235803103,0.049149425838094285,0.013067449647025347,26,78

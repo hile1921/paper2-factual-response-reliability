@@ -1,0 +1,145 @@
+analysis,checkpoint,arm,target_country,k,N
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Belarus,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Canada,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Croatia,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Democratic Republic of the Congo,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,French Guiana,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Guinea,6,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Iraq,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Jordan,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Morocco,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Nicaragua,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Norway,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,People's Republic of China,4,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Russia,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Sierra Leone,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,South Sudan,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Suriname,11,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Trinidad and Tobago,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,C_true,Tunisia,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Belarus,1,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Canada,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Croatia,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Democratic Republic of the Congo,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,French Guiana,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Guinea,59,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Iraq,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Jordan,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Morocco,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Nicaragua,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Norway,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,People's Republic of China,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Russia,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Sierra Leone,9,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,South Sudan,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Suriname,46,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Trinidad and Tobago,0,200
+valid_country_subset,olmo-1b_step369000-tokens1547B,F_false,Tunisia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Belarus,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Canada,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Croatia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Democratic Republic of the Congo,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,French Guiana,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Guinea,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Iraq,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Jordan,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Morocco,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Nicaragua,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Norway,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,People's Republic of China,4,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Russia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Sierra Leone,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,South Sudan,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Suriname,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Trinidad and Tobago,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,C_true,Tunisia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Belarus,4,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Canada,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Croatia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Democratic Republic of the Congo,3,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,French Guiana,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Guinea,1,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Iraq,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Jordan,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Morocco,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Nicaragua,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Norway,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,People's Republic of China,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Russia,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Sierra Leone,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,South Sudan,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Suriname,8,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Trinidad and Tobago,0,200
+valid_country_subset,olmo-1b_step738020-tokens3094B,F_false,Tunisia,1,200
+valid_country_subset,pythia-1b_step143000,C_true,Belarus,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Canada,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Croatia,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Democratic Republic of the Congo,0,200
+valid_country_subset,pythia-1b_step143000,C_true,French Guiana,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Guinea,20,200
+valid_country_subset,pythia-1b_step143000,C_true,Iraq,1,200
+valid_country_subset,pythia-1b_step143000,C_true,Jordan,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Morocco,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Nicaragua,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Norway,0,200
+valid_country_subset,pythia-1b_step143000,C_true,People's Republic of China,67,200
+valid_country_subset,pythia-1b_step143000,C_true,Russia,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Sierra Leone,0,200
+valid_country_subset,pythia-1b_step143000,C_true,South Sudan,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Suriname,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Trinidad and Tobago,0,200
+valid_country_subset,pythia-1b_step143000,C_true,Tunisia,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Belarus,7,200
+valid_country_subset,pythia-1b_step143000,F_false,Canada,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Croatia,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Democratic Republic of the Congo,0,200
+valid_country_subset,pythia-1b_step143000,F_false,French Guiana,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Guinea,61,200
+valid_country_subset,pythia-1b_step143000,F_false,Iraq,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Jordan,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Morocco,1,200
+valid_country_subset,pythia-1b_step143000,F_false,Nicaragua,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Norway,0,200
+valid_country_subset,pythia-1b_step143000,F_false,People's Republic of China,43,200
+valid_country_subset,pythia-1b_step143000,F_false,Russia,8,200
+valid_country_subset,pythia-1b_step143000,F_false,Sierra Leone,0,200
+valid_country_subset,pythia-1b_step143000,F_false,South Sudan,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Suriname,4,200
+valid_country_subset,pythia-1b_step143000,F_false,Trinidad and Tobago,0,200
+valid_country_subset,pythia-1b_step143000,F_false,Tunisia,0,200
+valid_country_subset,pythia-410m_step143000,C_true,Belarus,38,200
+valid_country_subset,pythia-410m_step143000,C_true,Canada,0,200
+valid_country_subset,pythia-410m_step143000,C_true,Croatia,2,200
+valid_country_subset,pythia-410m_step143000,C_true,Democratic Republic of the Congo,4,200
+valid_country_subset,pythia-410m_step143000,C_true,French Guiana,10,200
+valid_country_subset,pythia-410m_step143000,C_true,Guinea,14,200
+valid_country_subset,pythia-410m_step143000,C_true,Iraq,1,200
+valid_country_subset,pythia-410m_step143000,C_true,Jordan,1,200
+valid_country_subset,pythia-410m_step143000,C_true,Morocco,0,200
+valid_country_subset,pythia-410m_step143000,C_true,Nicaragua,8,200
+valid_country_subset,pythia-410m_step143000,C_true,Norway,0,200
+valid_country_subset,pythia-410m_step143000,C_true,People's Republic of China,128,200
+valid_country_subset,pythia-410m_step143000,C_true,Russia,73,200
+valid_country_subset,pythia-410m_step143000,C_true,Sierra Leone,10,200
+valid_country_subset,pythia-410m_step143000,C_true,South Sudan,2,200
+valid_country_subset,pythia-410m_step143000,C_true,Suriname,6,200
+valid_country_subset,pythia-410m_step143000,C_true,Trinidad and Tobago,12,200
+valid_country_subset,pythia-410m_step143000,C_true,Tunisia,2,200
+valid_country_subset,pythia-410m_step143000,F_false,Belarus,28,200
+valid_country_subset,pythia-410m_step143000,F_false,Canada,0,200
+valid_country_subset,pythia-410m_step143000,F_false,Croatia,0,200
+valid_country_subset,pythia-410m_step143000,F_false,Democratic Republic of the Congo,4,200
+valid_country_subset,pythia-410m_step143000,F_false,French Guiana,2,200
+valid_country_subset,pythia-410m_step143000,F_false,Guinea,5,200
+valid_country_subset,pythia-410m_step143000,F_false,Iraq,2,200
+valid_country_subset,pythia-410m_step143000,F_false,Jordan,0,200
+valid_country_subset,pythia-410m_step143000,F_false,Morocco,0,200
+valid_country_subset,pythia-410m_step143000,F_false,Nicaragua,4,200
+valid_country_subset,pythia-410m_step143000,F_false,Norway,0,200
+valid_country_subset,pythia-410m_step143000,F_false,People's Republic of China,76,200
+valid_country_subset,pythia-410m_step143000,F_false,Russia,4,200
+valid_country_subset,pythia-410m_step143000,F_false,Sierra Leone,8,200
+valid_country_subset,pythia-410m_step143000,F_false,South Sudan,2,200
+valid_country_subset,pythia-410m_step143000,F_false,Suriname,5,200
+valid_country_subset,pythia-410m_step143000,F_false,Trinidad and Tobago,5,200
+valid_country_subset,pythia-410m_step143000,F_false,Tunisia,3,200

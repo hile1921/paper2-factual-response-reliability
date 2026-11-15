@@ -1,0 +1,49 @@
+{
+  "phase": "training_dynamics",
+  "seconds": 32.18,
+  "comparisons": [
+    {
+      "table": "ABE_BY_CHECKPOINT.csv",
+      "pass": true,
+      "rows": 234
+    },
+    {
+      "table": "ABE_BY_RELATION.csv",
+      "pass": true,
+      "rows": 8
+    },
+    {
+      "table": "BLOCK_SENSITIVITY.csv",
+      "pass": true,
+      "rows": 24
+    },
+    {
+      "table": "C1_ABE_BY_CHECKPOINT.csv",
+      "pass": true,
+      "rows": 117
+    },
+    {
+      "table": "C1_ABE_EARLY_LATE.csv",
+      "pass": true,
+      "rows": 3
+    },
+    {
+      "table": "C1_ABE_TRENDS.csv",
+      "pass": true,
+      "rows": 12
+    },
+    {
+      "table": "PAIRED_EARLY_LATE.csv",
+      "pass": true,
+      "rows": 9
+    },
+    {
+      "table": "TEMPORAL_DYNAMICS.csv",
+      "pass": true,
+      "rows": 1092
+    }
+  ],
+  "passed": true,
+  "scope": "Recompute saved analyses with the original rules; no GPU or network.",
+  "archived_tables_not_recomputed": []
+}

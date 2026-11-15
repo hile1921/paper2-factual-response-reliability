@@ -1,0 +1,9 @@
+checkpoint,arm,rows,pairs,templates,n_per_pair_template
+olmo-1b_step369000-tokens1547B,C_true,3600,18,2,[100]
+olmo-1b_step369000-tokens1547B,F_false,3600,18,2,[100]
+olmo-1b_step738020-tokens3094B,C_true,3600,18,2,[100]
+olmo-1b_step738020-tokens3094B,F_false,3600,18,2,[100]
+pythia-1b_step143000,C_true,3600,18,2,[100]
+pythia-1b_step143000,F_false,3600,18,2,[100]
+pythia-410m_step143000,C_true,3600,18,2,[100]
+pythia-410m_step143000,F_false,3600,18,2,[100]

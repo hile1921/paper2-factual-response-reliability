@@ -1,0 +1,451 @@
+uid,fact_id,subject,step,scope_grade,first_observed_direct_support,direct_fragments,direct_observed_exposures,cooccurrence_fragments,cooccurrence_observed_exposures,contradiction_fragments,contradiction_observed_exposures,uncertain_fragments,other_scope_fragments,no_observed_direct_support
+769516_422_777526,wd:Q223|P36|wd:Q226|p1_unqualified_target,Greenland,10000,not_mapped_to_national_scope,2527.0,1,1,3,3,0,0,1,0,False
+769516_422_777526,wd:Q223|P36|wd:Q226|p1_unqualified_target,Greenland,170000,not_mapped_to_national_scope,2527.0,2,3,3,5,0,0,2,0,False
+769516_422_777526,wd:Q223|P36|wd:Q226|p1_unqualified_target,Greenland,340000,not_mapped_to_national_scope,2527.0,2,7,3,9,0,0,2,0,False
+769516_422_777526,wd:Q223|P36|wd:Q226|p1_unqualified_target,Greenland,500000,not_mapped_to_national_scope,2527.0,2,8,3,13,0,0,2,0,False
+769516_422_777526,wd:Q223|P36|wd:Q226|p1_unqualified_target,Greenland,658032,not_mapped_to_national_scope,2527.0,2,12,3,18,0,0,2,0,False
+242916_422_2840765,wd:Q145|P36|wd:Q84|p1_unqualified_target,United Kingdom,10000,national_capital_name_concordant,,0,0,4,4,0,0,2,0,True
+242916_422_2840765,wd:Q145|P36|wd:Q84|p1_unqualified_target,United Kingdom,170000,national_capital_name_concordant,,0,0,5,9,0,0,4,0,True
+242916_422_2840765,wd:Q145|P36|wd:Q84|p1_unqualified_target,United Kingdom,340000,national_capital_name_concordant,,0,0,5,16,0,0,4,0,True
+242916_422_2840765,wd:Q145|P36|wd:Q84|p1_unqualified_target,United Kingdom,500000,national_capital_name_concordant,,0,0,5,22,0,0,4,0,True
+242916_422_2840765,wd:Q145|P36|wd:Q84|p1_unqualified_target,United Kingdom,658032,national_capital_name_concordant,,0,0,5,30,0,0,4,0,True
+2827475_422_437403,wd:Q816|P36|wd:Q16556|p1_unqualified_target,Arizona,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+2827475_422_437403,wd:Q816|P36|wd:Q16556|p1_unqualified_target,Arizona,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+2827475_422_437403,wd:Q816|P36|wd:Q16556|p1_unqualified_target,Arizona,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+2827475_422_437403,wd:Q816|P36|wd:Q16556|p1_unqualified_target,Arizona,500000,not_mapped_to_national_scope,,0,0,7,30,0,0,0,0,True
+2827475_422_437403,wd:Q816|P36|wd:Q16556|p1_unqualified_target,Arizona,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,10000,national_capital_name_concordant,11.0,1,1,5,5,0,0,0,0,False
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,170000,national_capital_name_concordant,11.0,1,2,7,11,0,0,1,0,False
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,340000,national_capital_name_concordant,11.0,1,3,7,21,0,0,1,0,False
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,500000,national_capital_name_concordant,11.0,1,5,7,32,0,0,1,0,False
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,658032,national_capital_name_concordant,11.0,1,6,7,42,0,0,1,0,False
+1277986_422_2135299,wd:Q41304|P36|wd:Q64|p1_unqualified_target,Weimar Republic,10000,not_mapped_to_national_scope,,0,0,3,3,0,0,2,0,True
+1277986_422_2135299,wd:Q41304|P36|wd:Q64|p1_unqualified_target,Weimar Republic,170000,not_mapped_to_national_scope,,0,0,5,8,0,0,2,0,True
+1277986_422_2135299,wd:Q41304|P36|wd:Q64|p1_unqualified_target,Weimar Republic,340000,not_mapped_to_national_scope,,0,0,5,15,0,0,2,0,True
+1277986_422_2135299,wd:Q41304|P36|wd:Q64|p1_unqualified_target,Weimar Republic,500000,not_mapped_to_national_scope,,0,0,5,23,0,0,2,0,True
+1277986_422_2135299,wd:Q41304|P36|wd:Q64|p1_unqualified_target,Weimar Republic,658032,not_mapped_to_national_scope,,0,0,5,30,0,0,2,0,True
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,10000,national_capital_name_concordant,84229.0,0,0,4,4,0,0,2,0,True
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,170000,national_capital_name_concordant,84229.0,1,2,5,10,0,0,3,0,False
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,340000,national_capital_name_concordant,84229.0,1,4,5,15,0,0,3,0,False
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,500000,national_capital_name_concordant,84229.0,1,5,5,23,0,0,3,0,False
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,658032,national_capital_name_concordant,84229.0,1,6,5,30,0,0,3,0,False
+343477_422_2169018,wd:Q159|P36|wd:Q649|p1_unqualified_target,Russia,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+343477_422_2169018,wd:Q159|P36|wd:Q649|p1_unqualified_target,Russia,170000,national_capital_name_concordant,,0,0,9,11,0,0,0,0,True
+343477_422_2169018,wd:Q159|P36|wd:Q649|p1_unqualified_target,Russia,340000,national_capital_name_concordant,,0,0,9,29,0,0,0,0,True
+343477_422_2169018,wd:Q159|P36|wd:Q649|p1_unqualified_target,Russia,500000,national_capital_name_concordant,,0,0,9,43,0,0,0,0,True
+343477_422_2169018,wd:Q159|P36|wd:Q649|p1_unqualified_target,Russia,658032,national_capital_name_concordant,,0,0,9,54,0,0,0,0,True
+847062_422_40007,wd:Q25|P36|wd:Q10690|p1_unqualified_target,Wales,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+847062_422_40007,wd:Q25|P36|wd:Q10690|p1_unqualified_target,Wales,170000,not_mapped_to_national_scope,,0,0,7,10,0,0,0,0,True
+847062_422_40007,wd:Q25|P36|wd:Q10690|p1_unqualified_target,Wales,340000,not_mapped_to_national_scope,,0,0,7,23,0,0,0,0,True
+847062_422_40007,wd:Q25|P36|wd:Q10690|p1_unqualified_target,Wales,500000,not_mapped_to_national_scope,,0,0,7,32,0,0,0,0,True
+847062_422_40007,wd:Q25|P36|wd:Q10690|p1_unqualified_target,Wales,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,170000,national_capital_name_concordant,,0,0,7,9,0,0,1,1,True
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,340000,national_capital_name_concordant,,0,0,7,21,0,0,1,1,True
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,500000,national_capital_name_concordant,,0,0,7,31,0,0,1,1,True
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,658032,national_capital_name_concordant,,0,0,7,42,0,0,1,1,True
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,10000,national_capital_name_concordant,2357.0,1,1,5,5,0,0,0,0,False
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,170000,national_capital_name_concordant,2357.0,1,1,7,9,0,0,0,1,False
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,340000,national_capital_name_concordant,2357.0,1,3,7,21,0,0,0,1,False
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,500000,national_capital_name_concordant,2357.0,1,5,7,31,0,0,0,1,False
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,658032,national_capital_name_concordant,2357.0,1,6,7,42,0,0,0,1,False
+1112690_422_51360,wd:Q33946|P36|wd:Q1085|p1_unqualified_target,Czechoslovakia,10000,not_mapped_to_national_scope,,0,0,3,3,0,0,2,0,True
+1112690_422_51360,wd:Q33946|P36|wd:Q1085|p1_unqualified_target,Czechoslovakia,170000,not_mapped_to_national_scope,,0,0,4,5,0,0,2,1,True
+1112690_422_51360,wd:Q33946|P36|wd:Q1085|p1_unqualified_target,Czechoslovakia,340000,not_mapped_to_national_scope,,0,0,4,12,0,0,2,1,True
+1112690_422_51360,wd:Q33946|P36|wd:Q1085|p1_unqualified_target,Czechoslovakia,500000,not_mapped_to_national_scope,,0,0,4,17,0,0,2,1,True
+1112690_422_51360,wd:Q33946|P36|wd:Q1085|p1_unqualified_target,Czechoslovakia,658032,not_mapped_to_national_scope,,0,0,4,24,0,0,2,1,True
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,10000,national_capital_name_concordant,,0,0,3,3,0,0,3,0,True
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,170000,national_capital_name_concordant,,0,0,6,8,0,0,3,0,True
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,340000,national_capital_name_concordant,,0,0,6,18,0,0,3,0,True
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,500000,national_capital_name_concordant,,0,0,6,28,0,0,3,0,True
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,658032,national_capital_name_concordant,,0,0,6,36,0,0,3,0,True
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,10000,national_capital_name_concordant,4663.0,1,1,1,1,0,0,4,0,False
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,170000,national_capital_name_concordant,4663.0,1,2,3,4,0,0,5,0,False
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,340000,national_capital_name_concordant,4663.0,1,3,3,9,0,0,5,0,False
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,500000,national_capital_name_concordant,4663.0,1,4,3,14,0,0,5,0,False
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,658032,national_capital_name_concordant,4663.0,1,6,3,18,0,0,5,0,False
+1713642_422_815434,wd:Q52847|P36|wd:Q240|p1_unqualified_target,European Economic Community,10000,not_mapped_to_national_scope,,0,0,0,0,0,0,5,0,True
+1713642_422_815434,wd:Q52847|P36|wd:Q240|p1_unqualified_target,European Economic Community,170000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+1713642_422_815434,wd:Q52847|P36|wd:Q240|p1_unqualified_target,European Economic Community,340000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+1713642_422_815434,wd:Q52847|P36|wd:Q240|p1_unqualified_target,European Economic Community,500000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+1713642_422_815434,wd:Q52847|P36|wd:Q240|p1_unqualified_target,European Economic Community,658032,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,170000,national_capital_name_concordant,,0,0,8,13,0,0,0,1,True
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,340000,national_capital_name_concordant,,0,0,8,24,0,0,0,1,True
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,500000,national_capital_name_concordant,,0,0,8,37,0,0,0,1,True
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,658032,national_capital_name_concordant,,0,0,8,48,0,0,0,1,True
+792180_422_2844630,wd:Q23157|P36|wd:Q845619|p1_unqualified_target,Somerset,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+792180_422_2844630,wd:Q23157|P36|wd:Q845619|p1_unqualified_target,Somerset,170000,not_mapped_to_national_scope,,0,0,5,7,0,0,2,0,True
+792180_422_2844630,wd:Q23157|P36|wd:Q845619|p1_unqualified_target,Somerset,340000,not_mapped_to_national_scope,,0,0,5,17,0,0,2,0,True
+792180_422_2844630,wd:Q23157|P36|wd:Q845619|p1_unqualified_target,Somerset,500000,not_mapped_to_national_scope,,0,0,5,22,0,0,2,0,True
+792180_422_2844630,wd:Q23157|P36|wd:Q845619|p1_unqualified_target,Somerset,658032,not_mapped_to_national_scope,,0,0,5,30,0,0,2,0,True
+2597830_422_941030,wd:Q759|P36|wd:Q28249|p1_unqualified_target,New Hampshire,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+2597830_422_941030,wd:Q759|P36|wd:Q28249|p1_unqualified_target,New Hampshire,170000,not_mapped_to_national_scope,,0,0,6,9,0,0,1,0,True
+2597830_422_941030,wd:Q759|P36|wd:Q28249|p1_unqualified_target,New Hampshire,340000,not_mapped_to_national_scope,,0,0,6,18,0,0,1,0,True
+2597830_422_941030,wd:Q759|P36|wd:Q28249|p1_unqualified_target,New Hampshire,500000,not_mapped_to_national_scope,,0,0,6,29,0,0,1,0,True
+2597830_422_941030,wd:Q759|P36|wd:Q28249|p1_unqualified_target,New Hampshire,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,1,0,True
+787894_422_2941259,wd:Q230|P36|wd:Q994|p1_unqualified_target,Georgia,10000,national_capital_name_concordant,14.0,1,1,3,3,0,0,1,1,False
+787894_422_2941259,wd:Q230|P36|wd:Q994|p1_unqualified_target,Georgia,170000,national_capital_name_concordant,14.0,1,2,4,5,0,0,2,2,False
+787894_422_2941259,wd:Q230|P36|wd:Q994|p1_unqualified_target,Georgia,340000,national_capital_name_concordant,14.0,1,3,4,12,0,0,2,2,False
+787894_422_2941259,wd:Q230|P36|wd:Q994|p1_unqualified_target,Georgia,500000,national_capital_name_concordant,14.0,1,5,4,19,0,0,2,2,False
+787894_422_2941259,wd:Q230|P36|wd:Q994|p1_unqualified_target,Georgia,658032,national_capital_name_concordant,14.0,1,6,4,24,0,0,2,2,False
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,170000,national_capital_name_concordant,,0,0,9,14,0,0,0,0,True
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,340000,national_capital_name_concordant,,0,0,9,28,0,0,0,0,True
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,500000,national_capital_name_concordant,,0,0,9,42,0,0,0,0,True
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,658032,national_capital_name_concordant,,0,0,9,54,0,0,0,0,True
+2204434_422_806310,wd:Q664|P36|wd:Q23661|p1_unqualified_target,New Zealand,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+2204434_422_806310,wd:Q664|P36|wd:Q23661|p1_unqualified_target,New Zealand,170000,national_capital_name_concordant,,0,0,9,14,0,0,0,0,True
+2204434_422_806310,wd:Q664|P36|wd:Q23661|p1_unqualified_target,New Zealand,340000,national_capital_name_concordant,,0,0,9,29,0,0,0,0,True
+2204434_422_806310,wd:Q664|P36|wd:Q23661|p1_unqualified_target,New Zealand,500000,national_capital_name_concordant,,0,0,9,41,0,0,0,0,True
+2204434_422_806310,wd:Q664|P36|wd:Q23661|p1_unqualified_target,New Zealand,658032,national_capital_name_concordant,,0,0,9,54,0,0,0,0,True
+790597_422_581817,wd:Q23090|P36|wd:Q180057|p1_unqualified_target,Lincolnshire,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+790597_422_581817,wd:Q23090|P36|wd:Q180057|p1_unqualified_target,Lincolnshire,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+790597_422_581817,wd:Q23090|P36|wd:Q180057|p1_unqualified_target,Lincolnshire,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+790597_422_581817,wd:Q23090|P36|wd:Q180057|p1_unqualified_target,Lincolnshire,500000,not_mapped_to_national_scope,,0,0,7,35,0,0,0,0,True
+790597_422_581817,wd:Q23090|P36|wd:Q180057|p1_unqualified_target,Lincolnshire,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+795586_422_744818,wd:Q23298|P36|wd:Q213180|p1_unqualified_target,Kent,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+795586_422_744818,wd:Q23298|P36|wd:Q213180|p1_unqualified_target,Kent,170000,not_mapped_to_national_scope,,0,0,7,10,0,0,0,0,True
+795586_422_744818,wd:Q23298|P36|wd:Q213180|p1_unqualified_target,Kent,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+795586_422_744818,wd:Q23298|P36|wd:Q213180|p1_unqualified_target,Kent,500000,not_mapped_to_national_scope,,0,0,7,30,0,0,0,0,True
+795586_422_744818,wd:Q23298|P36|wd:Q213180|p1_unqualified_target,Kent,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,10000,national_capital_name_concordant,30403.0,0,0,6,6,0,0,0,0,True
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,170000,national_capital_name_concordant,30403.0,1,2,9,13,0,0,0,0,False
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,340000,national_capital_name_concordant,30403.0,1,3,9,28,0,0,0,0,False
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,500000,national_capital_name_concordant,30403.0,1,4,9,40,0,0,0,0,False
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,658032,national_capital_name_concordant,30403.0,1,6,9,54,0,0,0,0,False
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,10000,national_capital_name_concordant,,0,0,4,4,0,0,1,1,True
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,170000,national_capital_name_concordant,,0,0,6,8,0,0,1,2,True
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,340000,national_capital_name_concordant,,0,0,6,20,0,0,1,2,True
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,500000,national_capital_name_concordant,,0,0,6,25,0,0,1,2,True
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,658032,national_capital_name_concordant,,0,0,6,36,0,0,1,2,True
+338290_422_939074,wd:Q1581|P36|wd:Q28180|p1_unqualified_target,Missouri,10000,not_mapped_to_national_scope,185.0,2,2,3,3,0,0,0,0,False
+338290_422_939074,wd:Q1581|P36|wd:Q28180|p1_unqualified_target,Missouri,170000,not_mapped_to_national_scope,185.0,3,5,4,7,0,0,0,0,False
+338290_422_939074,wd:Q1581|P36|wd:Q28180|p1_unqualified_target,Missouri,340000,not_mapped_to_national_scope,185.0,3,9,4,13,0,0,0,0,False
+338290_422_939074,wd:Q1581|P36|wd:Q28180|p1_unqualified_target,Missouri,500000,not_mapped_to_national_scope,185.0,3,13,4,18,0,0,0,0,False
+338290_422_939074,wd:Q1581|P36|wd:Q28180|p1_unqualified_target,Missouri,658032,not_mapped_to_national_scope,185.0,3,18,4,24,0,0,0,0,False
+1343681_422_2199881,wd:Q458|P36|wd:Q6602|p1_unqualified_target,European Union,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+1343681_422_2199881,wd:Q458|P36|wd:Q6602|p1_unqualified_target,European Union,170000,not_mapped_to_national_scope,,0,0,6,8,0,0,1,0,True
+1343681_422_2199881,wd:Q458|P36|wd:Q6602|p1_unqualified_target,European Union,340000,not_mapped_to_national_scope,,0,0,6,19,0,0,1,0,True
+1343681_422_2199881,wd:Q458|P36|wd:Q6602|p1_unqualified_target,European Union,500000,not_mapped_to_national_scope,,0,0,6,27,0,0,1,0,True
+1343681_422_2199881,wd:Q458|P36|wd:Q6602|p1_unqualified_target,European Union,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,1,0,True
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,10000,national_capital_name_concordant,166.0,4,4,2,2,0,0,0,0,False
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,170000,national_capital_name_concordant,166.0,4,6,5,7,0,0,0,0,False
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,340000,national_capital_name_concordant,166.0,4,13,5,16,0,0,0,0,False
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,500000,national_capital_name_concordant,166.0,4,18,5,22,0,0,0,0,False
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,658032,national_capital_name_concordant,166.0,4,24,5,30,0,0,0,0,False
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,10000,national_capital_name_concordant,454.0,3,3,2,2,0,0,1,0,False
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,170000,national_capital_name_concordant,454.0,3,5,3,5,0,0,1,2,False
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,340000,national_capital_name_concordant,454.0,3,10,3,9,0,0,1,2,False
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,500000,national_capital_name_concordant,454.0,3,15,3,14,0,0,1,2,False
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,658032,national_capital_name_concordant,454.0,3,18,3,18,0,0,1,2,False
+1186824_422_1036090,wd:Q36687|P36|wd:Q3141|p1_unqualified_target,Victoria,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+1186824_422_1036090,wd:Q36687|P36|wd:Q3141|p1_unqualified_target,Victoria,170000,not_mapped_to_national_scope,,0,0,6,9,0,0,1,0,True
+1186824_422_1036090,wd:Q36687|P36|wd:Q3141|p1_unqualified_target,Victoria,340000,not_mapped_to_national_scope,,0,0,6,19,0,0,1,0,True
+1186824_422_1036090,wd:Q36687|P36|wd:Q3141|p1_unqualified_target,Victoria,500000,not_mapped_to_national_scope,,0,0,6,25,0,0,1,0,True
+1186824_422_1036090,wd:Q36687|P36|wd:Q3141|p1_unqualified_target,Victoria,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,1,0,True
+96826_422_940660,wd:Q1166|P36|wd:Q28237|p1_unqualified_target,Michigan,10000,not_mapped_to_national_scope,12354.0,0,0,5,5,0,0,0,0,True
+96826_422_940660,wd:Q1166|P36|wd:Q28237|p1_unqualified_target,Michigan,170000,not_mapped_to_national_scope,12354.0,1,1,6,9,0,0,0,0,False
+96826_422_940660,wd:Q1166|P36|wd:Q28237|p1_unqualified_target,Michigan,340000,not_mapped_to_national_scope,12354.0,1,3,6,18,0,0,0,0,False
+96826_422_940660,wd:Q1166|P36|wd:Q28237|p1_unqualified_target,Michigan,500000,not_mapped_to_national_scope,12354.0,1,4,6,27,0,0,0,0,False
+96826_422_940660,wd:Q1166|P36|wd:Q28237|p1_unqualified_target,Michigan,658032,not_mapped_to_national_scope,12354.0,1,6,6,36,0,0,0,0,False
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,10000,national_capital_name_concordant,104073.0,0,0,6,6,0,0,0,0,True
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,170000,national_capital_name_concordant,104073.0,1,2,7,11,0,0,1,0,False
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,340000,national_capital_name_concordant,104073.0,1,3,7,21,0,0,1,0,False
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,500000,national_capital_name_concordant,104073.0,1,5,7,30,0,0,1,0,False
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,658032,national_capital_name_concordant,104073.0,1,6,7,42,0,0,1,0,False
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,170000,national_capital_name_concordant,,0,0,8,12,0,0,1,0,True
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,340000,national_capital_name_concordant,,0,0,8,24,0,0,1,0,True
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,500000,national_capital_name_concordant,,0,0,8,35,0,0,1,0,True
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,658032,national_capital_name_concordant,,0,0,8,48,0,0,1,0,True
+761210_422_799769,wd:Q22|P36|wd:Q23436|p1_unqualified_target,Scotland,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+761210_422_799769,wd:Q22|P36|wd:Q23436|p1_unqualified_target,Scotland,170000,not_mapped_to_national_scope,,0,0,5,7,0,0,1,1,True
+761210_422_799769,wd:Q22|P36|wd:Q23436|p1_unqualified_target,Scotland,340000,not_mapped_to_national_scope,,0,0,5,18,0,0,1,1,True
+761210_422_799769,wd:Q22|P36|wd:Q23436|p1_unqualified_target,Scotland,500000,not_mapped_to_national_scope,,0,0,5,23,0,0,1,1,True
+761210_422_799769,wd:Q22|P36|wd:Q23436|p1_unqualified_target,Scotland,658032,not_mapped_to_national_scope,,0,0,5,30,0,0,1,1,True
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,10000,national_capital_name_concordant,327.0,3,3,3,3,0,0,0,0,False
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,170000,national_capital_name_concordant,327.0,4,7,5,7,0,0,0,0,False
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,340000,national_capital_name_concordant,327.0,4,12,5,15,0,0,0,0,False
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,500000,national_capital_name_concordant,327.0,4,19,5,23,0,0,0,0,False
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,658032,national_capital_name_concordant,327.0,4,24,5,30,0,0,0,0,False
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,10000,national_capital_name_concordant,55044.0,0,0,5,5,0,0,0,1,True
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,170000,national_capital_name_concordant,55044.0,2,4,7,9,0,0,0,1,False
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,340000,national_capital_name_concordant,55044.0,2,6,7,21,0,0,0,1,False
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,500000,national_capital_name_concordant,55044.0,2,10,7,32,0,0,0,1,False
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,658032,national_capital_name_concordant,55044.0,2,12,7,42,0,0,0,1,False
+2924609_422_1232716,wd:Q967|P36|wd:Q3854|p1_unqualified_target,Burundi,10000,national_capital_name_or_time_unresolved,,0,0,3,3,0,0,1,1,True
+2924609_422_1232716,wd:Q967|P36|wd:Q3854|p1_unqualified_target,Burundi,170000,national_capital_name_or_time_unresolved,,0,0,5,10,0,0,1,1,True
+2924609_422_1232716,wd:Q967|P36|wd:Q3854|p1_unqualified_target,Burundi,340000,national_capital_name_or_time_unresolved,,0,0,5,16,0,0,1,1,True
+2924609_422_1232716,wd:Q967|P36|wd:Q3854|p1_unqualified_target,Burundi,500000,national_capital_name_or_time_unresolved,,0,0,5,22,0,0,1,1,True
+2924609_422_1232716,wd:Q967|P36|wd:Q3854|p1_unqualified_target,Burundi,658032,national_capital_name_or_time_unresolved,,0,0,5,30,0,0,1,1,True
+1191903_422_752152,wd:Q37|P36|wd:Q216|p1_unqualified_target,Lithuania,10000,national_capital_name_concordant,4192.0,1,1,5,5,0,0,0,0,False
+1191903_422_752152,wd:Q37|P36|wd:Q216|p1_unqualified_target,Lithuania,170000,national_capital_name_concordant,4192.0,1,2,7,10,0,0,0,1,False
+1191903_422_752152,wd:Q37|P36|wd:Q216|p1_unqualified_target,Lithuania,340000,national_capital_name_concordant,4192.0,1,3,7,24,0,0,0,1,False
+1191903_422_752152,wd:Q37|P36|wd:Q216|p1_unqualified_target,Lithuania,500000,national_capital_name_concordant,4192.0,1,4,7,31,0,0,0,1,False
+1191903_422_752152,wd:Q37|P36|wd:Q216|p1_unqualified_target,Lithuania,658032,national_capital_name_concordant,4192.0,1,6,7,42,0,0,0,1,False
+176727_422_652572,wd:Q133356|P36|wd:Q1899|p1_unqualified_target,Ukrainian Soviet Socialist Republic,10000,not_mapped_to_national_scope,,0,0,1,1,0,0,4,0,True
+176727_422_652572,wd:Q133356|P36|wd:Q1899|p1_unqualified_target,Ukrainian Soviet Socialist Republic,170000,not_mapped_to_national_scope,,0,0,1,2,0,0,4,2,True
+176727_422_652572,wd:Q133356|P36|wd:Q1899|p1_unqualified_target,Ukrainian Soviet Socialist Republic,340000,not_mapped_to_national_scope,,0,0,1,3,0,0,4,2,True
+176727_422_652572,wd:Q133356|P36|wd:Q1899|p1_unqualified_target,Ukrainian Soviet Socialist Republic,500000,not_mapped_to_national_scope,,0,0,1,5,0,0,4,2,True
+176727_422_652572,wd:Q133356|P36|wd:Q1899|p1_unqualified_target,Ukrainian Soviet Socialist Republic,658032,not_mapped_to_national_scope,,0,0,1,6,0,0,4,2,True
+673667_422_745570,wd:Q1948|P36|wd:Q2135|p1_unqualified_target,Manitoba,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+673667_422_745570,wd:Q1948|P36|wd:Q2135|p1_unqualified_target,Manitoba,170000,not_mapped_to_national_scope,,0,0,6,10,0,0,1,0,True
+673667_422_745570,wd:Q1948|P36|wd:Q2135|p1_unqualified_target,Manitoba,340000,not_mapped_to_national_scope,,0,0,6,18,0,0,1,0,True
+673667_422_745570,wd:Q1948|P36|wd:Q2135|p1_unqualified_target,Manitoba,500000,not_mapped_to_national_scope,,0,0,6,25,0,0,1,0,True
+673667_422_745570,wd:Q1948|P36|wd:Q2135|p1_unqualified_target,Manitoba,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,1,0,True
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,10000,national_capital_name_concordant,1015.0,1,1,5,5,0,0,0,0,False
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,170000,national_capital_name_concordant,1015.0,1,2,8,12,0,0,0,0,False
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,340000,national_capital_name_concordant,1015.0,1,3,8,25,0,0,0,0,False
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,500000,national_capital_name_concordant,1015.0,1,5,8,38,0,0,0,0,False
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,658032,national_capital_name_concordant,1015.0,1,6,8,48,0,0,0,0,False
+1324781_422_1996678,wd:Q45|P36|wd:Q597|p1_unqualified_target,Portugal,10000,national_capital_name_concordant,,0,0,4,4,0,0,1,1,True
+1324781_422_1996678,wd:Q45|P36|wd:Q597|p1_unqualified_target,Portugal,170000,national_capital_name_concordant,,0,0,6,8,0,0,1,2,True
+1324781_422_1996678,wd:Q45|P36|wd:Q597|p1_unqualified_target,Portugal,340000,national_capital_name_concordant,,0,0,6,18,0,0,1,2,True
+1324781_422_1996678,wd:Q45|P36|wd:Q597|p1_unqualified_target,Portugal,500000,national_capital_name_concordant,,0,0,6,29,0,0,1,2,True
+1324781_422_1996678,wd:Q45|P36|wd:Q597|p1_unqualified_target,Portugal,658032,national_capital_name_concordant,,0,0,6,36,0,0,1,2,True
+736842_422_2840765,wd:Q21|P36|wd:Q84|p1_unqualified_target,England,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+736842_422_2840765,wd:Q21|P36|wd:Q84|p1_unqualified_target,England,170000,not_mapped_to_national_scope,,0,0,7,13,0,0,0,0,True
+736842_422_2840765,wd:Q21|P36|wd:Q84|p1_unqualified_target,England,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+736842_422_2840765,wd:Q21|P36|wd:Q84|p1_unqualified_target,England,500000,not_mapped_to_national_scope,,0,0,7,33,0,0,0,0,True
+736842_422_2840765,wd:Q21|P36|wd:Q84|p1_unqualified_target,England,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+608820_422_67924,wd:Q183314|P36|wd:Q1113311|p1_unqualified_target,Khyber Pakhtunkhwa,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,0,1,True
+608820_422_67924,wd:Q183314|P36|wd:Q1113311|p1_unqualified_target,Khyber Pakhtunkhwa,170000,not_mapped_to_national_scope,,0,0,6,11,0,0,0,1,True
+608820_422_67924,wd:Q183314|P36|wd:Q1113311|p1_unqualified_target,Khyber Pakhtunkhwa,340000,not_mapped_to_national_scope,,0,0,6,18,0,0,0,1,True
+608820_422_67924,wd:Q183314|P36|wd:Q1113311|p1_unqualified_target,Khyber Pakhtunkhwa,500000,not_mapped_to_national_scope,,0,0,6,25,0,0,0,1,True
+608820_422_67924,wd:Q183314|P36|wd:Q1113311|p1_unqualified_target,Khyber Pakhtunkhwa,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,0,1,True
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,170000,national_capital_name_concordant,,0,0,8,13,0,0,1,0,True
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,340000,national_capital_name_concordant,,0,0,8,24,0,0,1,0,True
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,500000,national_capital_name_concordant,,0,0,8,34,0,0,1,0,True
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,658032,national_capital_name_concordant,,0,0,8,48,0,0,1,0,True
+222703_422_855015,wd:Q1400|P36|wd:Q25280|p1_unqualified_target,Pennsylvania,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+222703_422_855015,wd:Q1400|P36|wd:Q25280|p1_unqualified_target,Pennsylvania,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+222703_422_855015,wd:Q1400|P36|wd:Q25280|p1_unqualified_target,Pennsylvania,340000,not_mapped_to_national_scope,,0,0,7,23,0,0,0,0,True
+222703_422_855015,wd:Q1400|P36|wd:Q25280|p1_unqualified_target,Pennsylvania,500000,not_mapped_to_national_scope,,0,0,7,29,0,0,0,0,True
+222703_422_855015,wd:Q1400|P36|wd:Q25280|p1_unqualified_target,Pennsylvania,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+2375340_422_2874868,wd:Q70972|P36|wd:Q90|p1_unqualified_target,Kingdom of France,10000,not_mapped_to_national_scope,,0,0,2,2,0,0,2,1,True
+2375340_422_2874868,wd:Q70972|P36|wd:Q90|p1_unqualified_target,Kingdom of France,170000,not_mapped_to_national_scope,,0,0,2,3,0,0,3,2,True
+2375340_422_2874868,wd:Q70972|P36|wd:Q90|p1_unqualified_target,Kingdom of France,340000,not_mapped_to_national_scope,,0,0,2,7,0,0,3,2,True
+2375340_422_2874868,wd:Q70972|P36|wd:Q90|p1_unqualified_target,Kingdom of France,500000,not_mapped_to_national_scope,,0,0,2,10,0,0,3,2,True
+2375340_422_2874868,wd:Q70972|P36|wd:Q90|p1_unqualified_target,Kingdom of France,658032,not_mapped_to_national_scope,,0,0,2,12,0,0,3,2,True
+791035_422_160750,wd:Q23109|P36|wd:Q130191|p1_unqualified_target,Norfolk,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+791035_422_160750,wd:Q23109|P36|wd:Q130191|p1_unqualified_target,Norfolk,170000,not_mapped_to_national_scope,,0,0,7,9,0,0,0,0,True
+791035_422_160750,wd:Q23109|P36|wd:Q130191|p1_unqualified_target,Norfolk,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+791035_422_160750,wd:Q23109|P36|wd:Q130191|p1_unqualified_target,Norfolk,500000,not_mapped_to_national_scope,,0,0,7,30,0,0,0,0,True
+791035_422_160750,wd:Q23109|P36|wd:Q130191|p1_unqualified_target,Norfolk,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+122953_422_1193785,wd:Q1207|P36|wd:Q37066|p1_unqualified_target,North Dakota,10000,not_mapped_to_national_scope,6788.0,1,1,4,4,0,0,0,0,False
+122953_422_1193785,wd:Q1207|P36|wd:Q37066|p1_unqualified_target,North Dakota,170000,not_mapped_to_national_scope,6788.0,1,1,6,11,0,0,0,0,False
+122953_422_1193785,wd:Q1207|P36|wd:Q37066|p1_unqualified_target,North Dakota,340000,not_mapped_to_national_scope,6788.0,1,3,6,19,0,0,0,0,False
+122953_422_1193785,wd:Q1207|P36|wd:Q37066|p1_unqualified_target,North Dakota,500000,not_mapped_to_national_scope,6788.0,1,5,6,25,0,0,0,0,False
+122953_422_1193785,wd:Q1207|P36|wd:Q37066|p1_unqualified_target,North Dakota,658032,not_mapped_to_national_scope,6788.0,1,6,6,36,0,0,0,0,False
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,10000,national_capital_name_concordant,,0,0,4,4,0,0,2,0,True
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,170000,national_capital_name_concordant,,0,0,6,12,0,0,3,0,True
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,340000,national_capital_name_concordant,,0,0,6,18,0,0,3,0,True
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,500000,national_capital_name_concordant,,0,0,6,29,0,0,3,0,True
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,658032,national_capital_name_concordant,,0,0,6,36,0,0,3,0,True
+296640_422_1232995,wd:Q1522|P36|wd:Q38555|p1_unqualified_target,New Mexico,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+296640_422_1232995,wd:Q1522|P36|wd:Q38555|p1_unqualified_target,New Mexico,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+296640_422_1232995,wd:Q1522|P36|wd:Q38555|p1_unqualified_target,New Mexico,340000,not_mapped_to_national_scope,,0,0,7,21,0,0,0,0,True
+296640_422_1232995,wd:Q1522|P36|wd:Q38555|p1_unqualified_target,New Mexico,500000,not_mapped_to_national_scope,,0,0,7,32,0,0,0,0,True
+296640_422_1232995,wd:Q1522|P36|wd:Q38555|p1_unqualified_target,New Mexico,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+113124_422_2376315,wd:Q11917|P36|wd:Q71|p1_unqualified_target,Canton of Geneva,10000,not_mapped_to_national_scope,,0,0,2,2,0,0,3,0,True
+113124_422_2376315,wd:Q11917|P36|wd:Q71|p1_unqualified_target,Canton of Geneva,170000,not_mapped_to_national_scope,,0,0,2,3,0,0,5,0,True
+113124_422_2376315,wd:Q11917|P36|wd:Q71|p1_unqualified_target,Canton of Geneva,340000,not_mapped_to_national_scope,,0,0,2,6,0,0,5,0,True
+113124_422_2376315,wd:Q11917|P36|wd:Q71|p1_unqualified_target,Canton of Geneva,500000,not_mapped_to_national_scope,,0,0,2,9,0,0,5,0,True
+113124_422_2376315,wd:Q11917|P36|wd:Q71|p1_unqualified_target,Canton of Geneva,658032,not_mapped_to_national_scope,,0,0,2,12,0,0,5,0,True
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,170000,national_capital_name_concordant,,0,0,8,14,0,0,0,1,True
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,340000,national_capital_name_concordant,,0,0,8,24,0,0,0,1,True
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,500000,national_capital_name_concordant,,0,0,8,36,0,0,0,1,True
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,658032,national_capital_name_concordant,,0,0,8,48,0,0,0,1,True
+316741_422_1254294,wd:Q1546|P36|wd:Q39709|p1_unqualified_target,Iowa,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+316741_422_1254294,wd:Q1546|P36|wd:Q39709|p1_unqualified_target,Iowa,170000,not_mapped_to_national_scope,,0,0,6,10,0,0,1,0,True
+316741_422_1254294,wd:Q1546|P36|wd:Q39709|p1_unqualified_target,Iowa,340000,not_mapped_to_national_scope,,0,0,6,19,0,0,1,0,True
+316741_422_1254294,wd:Q1546|P36|wd:Q39709|p1_unqualified_target,Iowa,500000,not_mapped_to_national_scope,,0,0,6,26,0,0,1,0,True
+316741_422_1254294,wd:Q1546|P36|wd:Q39709|p1_unqualified_target,Iowa,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,1,0,True
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,170000,national_capital_name_concordant,,0,0,9,11,0,0,0,0,True
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,340000,national_capital_name_concordant,,0,0,9,28,0,0,0,0,True
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,500000,national_capital_name_concordant,,0,0,9,42,0,0,0,0,True
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,658032,national_capital_name_concordant,,0,0,9,54,0,0,0,0,True
+537637_422_974255,wd:Q173|P36|wd:Q29364|p1_unqualified_target,Alabama,10000,not_mapped_to_national_scope,8910.0,1,1,3,3,0,0,1,0,False
+537637_422_974255,wd:Q173|P36|wd:Q29364|p1_unqualified_target,Alabama,170000,not_mapped_to_national_scope,8910.0,2,2,4,6,0,0,1,0,False
+537637_422_974255,wd:Q173|P36|wd:Q29364|p1_unqualified_target,Alabama,340000,not_mapped_to_national_scope,8910.0,2,6,4,12,0,0,1,0,False
+537637_422_974255,wd:Q173|P36|wd:Q29364|p1_unqualified_target,Alabama,500000,not_mapped_to_national_scope,8910.0,2,9,4,18,0,0,1,0,False
+537637_422_974255,wd:Q173|P36|wd:Q29364|p1_unqualified_target,Alabama,658032,not_mapped_to_national_scope,8910.0,2,12,4,24,0,0,1,0,False
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,10000,national_capital_name_concordant,464.0,1,1,4,4,0,0,1,0,False
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,170000,national_capital_name_concordant,464.0,2,4,5,10,0,0,1,1,False
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,340000,national_capital_name_concordant,464.0,2,6,5,15,0,0,1,1,False
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,500000,national_capital_name_concordant,464.0,2,8,5,23,0,0,1,1,False
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,658032,national_capital_name_concordant,464.0,2,12,5,30,0,0,1,1,False
+265491_422_2916491,wd:Q148|P36|wd:Q956|p1_unqualified_target,People's Republic of China,10000,national_capital_name_concordant,,0,0,0,0,0,0,4,2,True
+265491_422_2916491,wd:Q148|P36|wd:Q956|p1_unqualified_target,People's Republic of China,170000,national_capital_name_concordant,,0,0,0,0,0,0,7,2,True
+265491_422_2916491,wd:Q148|P36|wd:Q956|p1_unqualified_target,People's Republic of China,340000,national_capital_name_concordant,,0,0,0,0,0,0,7,2,True
+265491_422_2916491,wd:Q148|P36|wd:Q956|p1_unqualified_target,People's Republic of China,500000,national_capital_name_concordant,,0,0,0,0,0,0,7,2,True
+265491_422_2916491,wd:Q148|P36|wd:Q956|p1_unqualified_target,People's Republic of China,658032,national_capital_name_concordant,,0,0,0,0,0,0,7,2,True
+1085288_422_2840765,wd:Q330362|P36|wd:Q84|p1_unqualified_target,Commonwealth of England,10000,not_mapped_to_national_scope,,0,0,3,3,0,0,2,0,True
+1085288_422_2840765,wd:Q330362|P36|wd:Q84|p1_unqualified_target,Commonwealth of England,170000,not_mapped_to_national_scope,,0,0,4,5,0,0,3,0,True
+1085288_422_2840765,wd:Q330362|P36|wd:Q84|p1_unqualified_target,Commonwealth of England,340000,not_mapped_to_national_scope,,0,0,4,12,0,0,3,0,True
+1085288_422_2840765,wd:Q330362|P36|wd:Q84|p1_unqualified_target,Commonwealth of England,500000,not_mapped_to_national_scope,,0,0,4,19,0,0,3,0,True
+1085288_422_2840765,wd:Q330362|P36|wd:Q84|p1_unqualified_target,Commonwealth of England,658032,not_mapped_to_national_scope,,0,0,4,24,0,0,3,0,True
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,170000,national_capital_name_concordant,,0,0,8,13,0,0,1,0,True
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,340000,national_capital_name_concordant,,0,0,8,25,0,0,1,0,True
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,500000,national_capital_name_concordant,,0,0,8,36,0,0,1,0,True
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,658032,national_capital_name_concordant,,0,0,8,48,0,0,1,0,True
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,10000,national_capital_name_concordant,,0,0,4,4,0,0,1,1,True
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,170000,national_capital_name_concordant,,0,0,7,11,0,0,1,1,True
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,340000,national_capital_name_concordant,,0,0,7,23,0,0,1,1,True
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,500000,national_capital_name_concordant,,0,0,7,32,0,0,1,1,True
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,658032,national_capital_name_concordant,,0,0,7,42,0,0,1,1,True
+8491_422_1236666,wd:Q1020|P36|wd:Q3876|p1_unqualified_target,Malawi,10000,national_capital_name_concordant,76984.0,0,0,6,6,0,0,0,0,True
+8491_422_1236666,wd:Q1020|P36|wd:Q3876|p1_unqualified_target,Malawi,170000,national_capital_name_concordant,76984.0,1,2,7,12,0,0,0,1,False
+8491_422_1236666,wd:Q1020|P36|wd:Q3876|p1_unqualified_target,Malawi,340000,national_capital_name_concordant,76984.0,1,3,7,22,0,0,0,1,False
+8491_422_1236666,wd:Q1020|P36|wd:Q3876|p1_unqualified_target,Malawi,500000,national_capital_name_concordant,76984.0,1,5,7,33,0,0,0,1,False
+8491_422_1236666,wd:Q1020|P36|wd:Q3876|p1_unqualified_target,Malawi,658032,national_capital_name_concordant,76984.0,1,6,7,42,0,0,0,1,False
+790378_422_579691,wd:Q23082|P36|wd:Q179815|p1_unqualified_target,County Durham,10000,not_mapped_to_national_scope,,0,0,3,3,0,0,2,0,True
+790378_422_579691,wd:Q23082|P36|wd:Q179815|p1_unqualified_target,County Durham,170000,not_mapped_to_national_scope,,0,0,5,8,0,0,2,0,True
+790378_422_579691,wd:Q23082|P36|wd:Q179815|p1_unqualified_target,County Durham,340000,not_mapped_to_national_scope,,0,0,5,16,0,0,2,0,True
+790378_422_579691,wd:Q23082|P36|wd:Q179815|p1_unqualified_target,County Durham,500000,not_mapped_to_national_scope,,0,0,5,21,0,0,2,0,True
+790378_422_579691,wd:Q23082|P36|wd:Q179815|p1_unqualified_target,County Durham,658032,not_mapped_to_national_scope,,0,0,5,30,0,0,2,0,True
+227726_422_2112253,wd:Q1415|P36|wd:Q6346|p1_unqualified_target,Indiana,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+227726_422_2112253,wd:Q1415|P36|wd:Q6346|p1_unqualified_target,Indiana,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+227726_422_2112253,wd:Q1415|P36|wd:Q6346|p1_unqualified_target,Indiana,340000,not_mapped_to_national_scope,,0,0,7,22,0,0,0,0,True
+227726_422_2112253,wd:Q1415|P36|wd:Q6346|p1_unqualified_target,Indiana,500000,not_mapped_to_national_scope,,0,0,7,30,0,0,0,0,True
+227726_422_2112253,wd:Q1415|P36|wd:Q6346|p1_unqualified_target,Indiana,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+1108853_422_2928795,wd:Q33788|P36|wd:Q9733|p1_unqualified_target,New Caledonia,10000,not_mapped_to_national_scope,4900.0,1,1,4,4,0,0,0,0,False
+1108853_422_2928795,wd:Q33788|P36|wd:Q9733|p1_unqualified_target,New Caledonia,170000,not_mapped_to_national_scope,4900.0,1,2,6,10,0,0,0,0,False
+1108853_422_2928795,wd:Q33788|P36|wd:Q9733|p1_unqualified_target,New Caledonia,340000,not_mapped_to_national_scope,4900.0,1,3,6,18,0,0,0,0,False
+1108853_422_2928795,wd:Q33788|P36|wd:Q9733|p1_unqualified_target,New Caledonia,500000,not_mapped_to_national_scope,4900.0,1,5,6,28,0,0,0,0,False
+1108853_422_2928795,wd:Q33788|P36|wd:Q9733|p1_unqualified_target,New Caledonia,658032,not_mapped_to_national_scope,4900.0,1,6,6,36,0,0,0,0,False
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,170000,national_capital_name_concordant,,0,0,8,10,0,0,1,0,True
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,340000,national_capital_name_concordant,,0,0,8,26,0,0,1,0,True
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,500000,national_capital_name_concordant,,0,0,8,37,0,0,1,0,True
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,658032,national_capital_name_concordant,,0,0,8,48,0,0,1,0,True
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,10000,national_capital_name_concordant,13.0,2,2,3,3,0,0,1,0,False
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,170000,national_capital_name_concordant,13.0,2,3,6,10,0,0,1,0,False
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,340000,national_capital_name_concordant,13.0,2,6,6,19,0,0,1,0,False
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,500000,national_capital_name_concordant,13.0,2,9,6,27,0,0,1,0,False
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,658032,national_capital_name_concordant,13.0,2,12,6,36,0,0,1,0,False
+6597_422_1168732,wd:Q1016|P36|wd:Q3579|p1_unqualified_target,Libya,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+6597_422_1168732,wd:Q1016|P36|wd:Q3579|p1_unqualified_target,Libya,170000,national_capital_name_concordant,,0,0,8,11,0,0,1,0,True
+6597_422_1168732,wd:Q1016|P36|wd:Q3579|p1_unqualified_target,Libya,340000,national_capital_name_concordant,,0,0,8,24,0,0,1,0,True
+6597_422_1168732,wd:Q1016|P36|wd:Q3579|p1_unqualified_target,Libya,500000,national_capital_name_concordant,,0,0,8,34,0,0,1,0,True
+6597_422_1168732,wd:Q1016|P36|wd:Q3579|p1_unqualified_target,Libya,658032,national_capital_name_concordant,,0,0,8,48,0,0,1,0,True
+112853_422_2339883,wd:Q11911|P36|wd:Q70|p1_unqualified_target,Canton of Bern,10000,not_mapped_to_national_scope,,0,0,2,2,0,0,3,0,True
+112853_422_2339883,wd:Q11911|P36|wd:Q70|p1_unqualified_target,Canton of Bern,170000,not_mapped_to_national_scope,,0,0,4,8,0,0,3,0,True
+112853_422_2339883,wd:Q11911|P36|wd:Q70|p1_unqualified_target,Canton of Bern,340000,not_mapped_to_national_scope,,0,0,4,12,0,0,3,0,True
+112853_422_2339883,wd:Q11911|P36|wd:Q70|p1_unqualified_target,Canton of Bern,500000,not_mapped_to_national_scope,,0,0,4,18,0,0,3,0,True
+112853_422_2339883,wd:Q11911|P36|wd:Q70|p1_unqualified_target,Canton of Bern,658032,not_mapped_to_national_scope,,0,0,4,24,0,0,3,0,True
+118455_422_534177,wd:Q1200|P36|wd:Q1720|p1_unqualified_target,Rhineland-Palatinate,10000,not_mapped_to_national_scope,9109.0,1,1,4,4,0,0,0,0,False
+118455_422_534177,wd:Q1200|P36|wd:Q1720|p1_unqualified_target,Rhineland-Palatinate,170000,not_mapped_to_national_scope,9109.0,1,1,6,9,0,0,0,0,False
+118455_422_534177,wd:Q1200|P36|wd:Q1720|p1_unqualified_target,Rhineland-Palatinate,340000,not_mapped_to_national_scope,9109.0,1,3,6,19,0,0,0,0,False
+118455_422_534177,wd:Q1200|P36|wd:Q1720|p1_unqualified_target,Rhineland-Palatinate,500000,not_mapped_to_national_scope,9109.0,1,4,6,28,0,0,0,0,False
+118455_422_534177,wd:Q1200|P36|wd:Q1720|p1_unqualified_target,Rhineland-Palatinate,658032,not_mapped_to_national_scope,9109.0,1,6,6,36,0,0,0,0,False
+1265777_422_1190624,wd:Q40430|P36|wd:Q36947|p1_unqualified_target,Bahia,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,0,1,True
+1265777_422_1190624,wd:Q40430|P36|wd:Q36947|p1_unqualified_target,Bahia,170000,not_mapped_to_national_scope,,0,0,6,7,0,0,0,1,True
+1265777_422_1190624,wd:Q40430|P36|wd:Q36947|p1_unqualified_target,Bahia,340000,not_mapped_to_national_scope,,0,0,6,19,0,0,0,1,True
+1265777_422_1190624,wd:Q40430|P36|wd:Q36947|p1_unqualified_target,Bahia,500000,not_mapped_to_national_scope,,0,0,6,27,0,0,0,1,True
+1265777_422_1190624,wd:Q40430|P36|wd:Q36947|p1_unqualified_target,Bahia,658032,not_mapped_to_national_scope,,0,0,6,36,0,0,0,1,True
+355510_422_663336,wd:Q16|P36|wd:Q1930|p1_unqualified_target,Canada,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+355510_422_663336,wd:Q16|P36|wd:Q1930|p1_unqualified_target,Canada,170000,national_capital_name_concordant,,0,0,8,11,0,0,1,0,True
+355510_422_663336,wd:Q16|P36|wd:Q1930|p1_unqualified_target,Canada,340000,national_capital_name_concordant,,0,0,8,24,0,0,1,0,True
+355510_422_663336,wd:Q16|P36|wd:Q1930|p1_unqualified_target,Canada,500000,national_capital_name_concordant,,0,0,8,38,0,0,1,0,True
+355510_422_663336,wd:Q16|P36|wd:Q1930|p1_unqualified_target,Canada,658032,national_capital_name_concordant,,0,0,8,47,0,0,1,0,True
+874948_422_39748,wd:Q26|P36|wd:Q10686|p1_unqualified_target,Northern Ireland,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+874948_422_39748,wd:Q26|P36|wd:Q10686|p1_unqualified_target,Northern Ireland,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+874948_422_39748,wd:Q26|P36|wd:Q10686|p1_unqualified_target,Northern Ireland,340000,not_mapped_to_national_scope,,0,0,7,21,0,0,0,0,True
+874948_422_39748,wd:Q26|P36|wd:Q10686|p1_unqualified_target,Northern Ireland,500000,not_mapped_to_national_scope,,0,0,7,33,0,0,0,0,True
+874948_422_39748,wd:Q26|P36|wd:Q10686|p1_unqualified_target,Northern Ireland,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+2647127_422_1,wd:Q771|P36|wd:Q100|p1_unqualified_target,Massachusetts,10000,not_mapped_to_national_scope,2123.0,1,1,3,3,0,0,1,0,False
+2647127_422_1,wd:Q771|P36|wd:Q100|p1_unqualified_target,Massachusetts,170000,not_mapped_to_national_scope,2123.0,1,2,5,7,0,0,1,0,False
+2647127_422_1,wd:Q771|P36|wd:Q100|p1_unqualified_target,Massachusetts,340000,not_mapped_to_national_scope,2123.0,1,3,5,15,0,0,1,0,False
+2647127_422_1,wd:Q771|P36|wd:Q100|p1_unqualified_target,Massachusetts,500000,not_mapped_to_national_scope,2123.0,1,5,5,22,0,0,1,0,False
+2647127_422_1,wd:Q771|P36|wd:Q100|p1_unqualified_target,Massachusetts,658032,not_mapped_to_national_scope,2123.0,1,6,5,30,0,0,1,0,False
+292048_422_770885,wd:Q151536|P36|wd:Q2235|p1_unqualified_target,Novgorod Republic,10000,not_mapped_to_national_scope,,0,0,0,0,0,0,5,0,True
+292048_422_770885,wd:Q151536|P36|wd:Q2235|p1_unqualified_target,Novgorod Republic,170000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+292048_422_770885,wd:Q151536|P36|wd:Q2235|p1_unqualified_target,Novgorod Republic,340000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+292048_422_770885,wd:Q151536|P36|wd:Q2235|p1_unqualified_target,Novgorod Republic,500000,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+292048_422_770885,wd:Q151536|P36|wd:Q2235|p1_unqualified_target,Novgorod Republic,658032,not_mapped_to_national_scope,,0,0,0,0,0,0,7,0,True
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,10000,national_capital_name_concordant,40.0,1,1,3,3,0,0,2,0,False
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,170000,national_capital_name_concordant,40.0,4,7,5,9,0,0,2,1,False
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,340000,national_capital_name_concordant,40.0,4,13,5,15,0,0,2,1,False
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,500000,national_capital_name_concordant,40.0,4,18,5,22,0,0,2,1,False
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,658032,national_capital_name_concordant,40.0,4,24,5,30,0,0,2,1,False
+124809_422_1236000,wd:Q1212|P36|wd:Q38733|p1_unqualified_target,Montana,10000,not_mapped_to_national_scope,102.0,1,1,4,4,0,0,0,0,False
+124809_422_1236000,wd:Q1212|P36|wd:Q38733|p1_unqualified_target,Montana,170000,not_mapped_to_national_scope,102.0,1,2,6,10,0,0,0,0,False
+124809_422_1236000,wd:Q1212|P36|wd:Q38733|p1_unqualified_target,Montana,340000,not_mapped_to_national_scope,102.0,1,4,6,18,0,0,0,0,False
+124809_422_1236000,wd:Q1212|P36|wd:Q38733|p1_unqualified_target,Montana,500000,not_mapped_to_national_scope,102.0,1,4,6,26,0,0,0,0,False
+124809_422_1236000,wd:Q1212|P36|wd:Q38733|p1_unqualified_target,Montana,658032,not_mapped_to_national_scope,102.0,1,6,6,36,0,0,0,0,False
+1210854_422_1317422,wd:Q3769|P36|wd:Q44401|p1_unqualified_target,French Guiana,10000,not_mapped_to_national_scope,443.0,1,1,3,3,0,0,1,0,False
+1210854_422_1317422,wd:Q3769|P36|wd:Q44401|p1_unqualified_target,French Guiana,170000,not_mapped_to_national_scope,443.0,1,2,4,6,0,0,2,0,False
+1210854_422_1317422,wd:Q3769|P36|wd:Q44401|p1_unqualified_target,French Guiana,340000,not_mapped_to_national_scope,443.0,1,3,4,12,0,0,2,0,False
+1210854_422_1317422,wd:Q3769|P36|wd:Q44401|p1_unqualified_target,French Guiana,500000,not_mapped_to_national_scope,443.0,1,4,4,18,0,0,2,0,False
+1210854_422_1317422,wd:Q3769|P36|wd:Q44401|p1_unqualified_target,French Guiana,658032,not_mapped_to_national_scope,443.0,1,6,4,24,0,0,2,0,False
+104141_422_2839416,wd:Q1177|P36|wd:Q83786|p1_unqualified_target,Himachal Pradesh,10000,not_mapped_to_national_scope,111.0,1,1,2,2,0,0,1,1,False
+104141_422_2839416,wd:Q1177|P36|wd:Q83786|p1_unqualified_target,Himachal Pradesh,170000,not_mapped_to_national_scope,111.0,1,2,4,7,0,0,1,1,False
+104141_422_2839416,wd:Q1177|P36|wd:Q83786|p1_unqualified_target,Himachal Pradesh,340000,not_mapped_to_national_scope,111.0,1,3,4,12,0,0,1,1,False
+104141_422_2839416,wd:Q1177|P36|wd:Q83786|p1_unqualified_target,Himachal Pradesh,500000,not_mapped_to_national_scope,111.0,1,4,4,18,0,0,1,1,False
+104141_422_2839416,wd:Q1177|P36|wd:Q83786|p1_unqualified_target,Himachal Pradesh,658032,not_mapped_to_national_scope,111.0,1,6,4,24,0,0,1,1,False
+1272660_422_299930,wd:Q41|P36|wd:Q1524|p1_unqualified_target,Greece,10000,national_capital_name_concordant,,0,0,6,6,0,0,0,0,True
+1272660_422_299930,wd:Q41|P36|wd:Q1524|p1_unqualified_target,Greece,170000,national_capital_name_concordant,,0,0,7,12,0,0,1,1,True
+1272660_422_299930,wd:Q41|P36|wd:Q1524|p1_unqualified_target,Greece,340000,national_capital_name_concordant,,0,0,7,22,0,0,1,1,True
+1272660_422_299930,wd:Q41|P36|wd:Q1524|p1_unqualified_target,Greece,500000,national_capital_name_concordant,,0,0,7,30,0,0,1,1,True
+1272660_422_299930,wd:Q41|P36|wd:Q1524|p1_unqualified_target,Greece,658032,national_capital_name_concordant,,0,0,7,42,0,0,1,1,True
+676632_422_747005,wd:Q1952|P36|wd:Q2141|p1_unqualified_target,Nova Scotia,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+676632_422_747005,wd:Q1952|P36|wd:Q2141|p1_unqualified_target,Nova Scotia,170000,not_mapped_to_national_scope,,0,0,7,9,0,0,0,0,True
+676632_422_747005,wd:Q1952|P36|wd:Q2141|p1_unqualified_target,Nova Scotia,340000,not_mapped_to_national_scope,,0,0,7,23,0,0,0,0,True
+676632_422_747005,wd:Q1952|P36|wd:Q2141|p1_unqualified_target,Nova Scotia,500000,not_mapped_to_national_scope,,0,0,7,32,0,0,0,0,True
+676632_422_747005,wd:Q1952|P36|wd:Q2141|p1_unqualified_target,Nova Scotia,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+120446_422_948883,wd:Q1204|P36|wd:Q28515|p1_unqualified_target,Illinois,10000,not_mapped_to_national_scope,19823.0,0,0,5,5,0,0,0,0,True
+120446_422_948883,wd:Q1204|P36|wd:Q28515|p1_unqualified_target,Illinois,170000,not_mapped_to_national_scope,19823.0,1,1,6,9,0,0,0,0,False
+120446_422_948883,wd:Q1204|P36|wd:Q28515|p1_unqualified_target,Illinois,340000,not_mapped_to_national_scope,19823.0,1,3,6,18,0,0,0,0,False
+120446_422_948883,wd:Q1204|P36|wd:Q28515|p1_unqualified_target,Illinois,500000,not_mapped_to_national_scope,19823.0,1,5,6,28,0,0,0,0,False
+120446_422_948883,wd:Q1204|P36|wd:Q28515|p1_unqualified_target,Illinois,658032,not_mapped_to_national_scope,19823.0,1,6,6,36,0,0,0,0,False
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,10000,national_capital_name_concordant,33712.0,0,0,3,3,0,0,3,0,True
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,170000,national_capital_name_concordant,33712.0,1,1,5,8,0,0,3,0,False
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,340000,national_capital_name_concordant,33712.0,1,3,5,15,0,0,3,0,False
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,500000,national_capital_name_concordant,33712.0,1,5,5,21,0,0,3,0,False
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,658032,national_capital_name_concordant,33712.0,1,6,5,30,0,0,3,0,False
+561022_422_747990,wd:Q176|P36|wd:Q2145|p1_unqualified_target,Quebec,10000,not_mapped_to_national_scope,,0,0,4,4,0,0,1,0,True
+561022_422_747990,wd:Q176|P36|wd:Q2145|p1_unqualified_target,Quebec,170000,not_mapped_to_national_scope,,0,0,4,7,0,0,1,2,True
+561022_422_747990,wd:Q176|P36|wd:Q2145|p1_unqualified_target,Quebec,340000,not_mapped_to_national_scope,,0,0,4,12,0,0,1,2,True
+561022_422_747990,wd:Q176|P36|wd:Q2145|p1_unqualified_target,Quebec,500000,not_mapped_to_national_scope,,0,0,4,17,0,0,1,2,True
+561022_422_747990,wd:Q176|P36|wd:Q2145|p1_unqualified_target,Quebec,658032,not_mapped_to_national_scope,,0,0,4,24,0,0,1,2,True
+388323_422_2840765,wd:Q161885|P36|wd:Q84|p1_unqualified_target,Great Britain,10000,not_mapped_to_national_scope,,0,0,3,3,0,0,1,1,True
+388323_422_2840765,wd:Q161885|P36|wd:Q84|p1_unqualified_target,Great Britain,170000,not_mapped_to_national_scope,,0,0,4,7,0,0,2,1,True
+388323_422_2840765,wd:Q161885|P36|wd:Q84|p1_unqualified_target,Great Britain,340000,not_mapped_to_national_scope,,0,0,4,12,0,0,2,1,True
+388323_422_2840765,wd:Q161885|P36|wd:Q84|p1_unqualified_target,Great Britain,500000,not_mapped_to_national_scope,,0,0,4,19,0,0,2,1,True
+388323_422_2840765,wd:Q161885|P36|wd:Q84|p1_unqualified_target,Great Britain,658032,not_mapped_to_national_scope,,0,0,4,24,0,0,2,1,True
+744365_422_51360,wd:Q213|P36|wd:Q1085|p1_unqualified_target,Czech Republic,10000,national_capital_name_concordant,,0,0,5,5,0,0,1,0,True
+744365_422_51360,wd:Q213|P36|wd:Q1085|p1_unqualified_target,Czech Republic,170000,national_capital_name_concordant,,0,0,7,12,0,0,2,0,True
+744365_422_51360,wd:Q213|P36|wd:Q1085|p1_unqualified_target,Czech Republic,340000,national_capital_name_concordant,,0,0,7,22,0,0,2,0,True
+744365_422_51360,wd:Q213|P36|wd:Q1085|p1_unqualified_target,Czech Republic,500000,national_capital_name_concordant,,0,0,7,32,0,0,2,0,True
+744365_422_51360,wd:Q213|P36|wd:Q1085|p1_unqualified_target,Czech Republic,658032,national_capital_name_concordant,,0,0,7,42,0,0,2,0,True
+2858195_422_628348,wd:Q869|P36|wd:Q1861|p1_unqualified_target,Thailand,10000,national_capital_name_concordant,,0,0,4,4,0,0,1,1,True
+2858195_422_628348,wd:Q869|P36|wd:Q1861|p1_unqualified_target,Thailand,170000,national_capital_name_concordant,,0,0,7,11,0,0,1,1,True
+2858195_422_628348,wd:Q869|P36|wd:Q1861|p1_unqualified_target,Thailand,340000,national_capital_name_concordant,,0,0,7,21,0,0,1,1,True
+2858195_422_628348,wd:Q869|P36|wd:Q1861|p1_unqualified_target,Thailand,500000,national_capital_name_concordant,,0,0,7,35,0,0,1,1,True
+2858195_422_628348,wd:Q869|P36|wd:Q1861|p1_unqualified_target,Thailand,658032,national_capital_name_concordant,,0,0,7,42,0,0,1,1,True
+2856110_422_634222,wd:Q865|P36|wd:Q1867|p1_unqualified_target,Taiwan,10000,not_mapped_to_national_scope,,0,0,5,5,0,0,0,0,True
+2856110_422_634222,wd:Q865|P36|wd:Q1867|p1_unqualified_target,Taiwan,170000,not_mapped_to_national_scope,,0,0,7,11,0,0,0,0,True
+2856110_422_634222,wd:Q865|P36|wd:Q1867|p1_unqualified_target,Taiwan,340000,not_mapped_to_national_scope,,0,0,7,21,0,0,0,0,True
+2856110_422_634222,wd:Q865|P36|wd:Q1867|p1_unqualified_target,Taiwan,500000,not_mapped_to_national_scope,,0,0,7,32,0,0,0,0,True
+2856110_422_634222,wd:Q865|P36|wd:Q1867|p1_unqualified_target,Taiwan,658032,not_mapped_to_national_scope,,0,0,7,42,0,0,0,0,True
+544935_422_2840765,wd:Q174193|P36|wd:Q84|p1_unqualified_target,United Kingdom of Great Britain and Ireland,10000,not_mapped_to_national_scope,,0,0,1,1,0,0,4,0,True
+544935_422_2840765,wd:Q174193|P36|wd:Q84|p1_unqualified_target,United Kingdom of Great Britain and Ireland,170000,not_mapped_to_national_scope,,0,0,1,2,0,0,6,0,True
+544935_422_2840765,wd:Q174193|P36|wd:Q84|p1_unqualified_target,United Kingdom of Great Britain and Ireland,340000,not_mapped_to_national_scope,,0,0,1,3,0,0,6,0,True
+544935_422_2840765,wd:Q174193|P36|wd:Q84|p1_unqualified_target,United Kingdom of Great Britain and Ireland,500000,not_mapped_to_national_scope,,0,0,1,5,0,0,6,0,True
+544935_422_2840765,wd:Q174193|P36|wd:Q84|p1_unqualified_target,United Kingdom of Great Britain and Ireland,658032,not_mapped_to_national_scope,,0,0,1,6,0,0,6,0,True
+365708_422_951099,wd:Q1603|P36|wd:Q28603|p1_unqualified_target,Kentucky,10000,not_mapped_to_national_scope,9139.0,1,1,4,4,0,0,0,0,False
+365708_422_951099,wd:Q1603|P36|wd:Q28603|p1_unqualified_target,Kentucky,170000,not_mapped_to_national_scope,9139.0,1,1,6,12,0,0,0,0,False
+365708_422_951099,wd:Q1603|P36|wd:Q28603|p1_unqualified_target,Kentucky,340000,not_mapped_to_national_scope,9139.0,1,3,6,18,0,0,0,0,False
+365708_422_951099,wd:Q1603|P36|wd:Q28603|p1_unqualified_target,Kentucky,500000,not_mapped_to_national_scope,9139.0,1,4,6,25,0,0,0,0,False
+365708_422_951099,wd:Q1603|P36|wd:Q28603|p1_unqualified_target,Kentucky,658032,not_mapped_to_national_scope,9139.0,1,6,6,36,0,0,0,0,False
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,10000,national_capital_name_concordant,12.0,1,1,4,4,0,0,1,0,False
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,170000,national_capital_name_concordant,12.0,4,4,4,5,0,0,1,0,False
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,340000,national_capital_name_concordant,12.0,4,12,4,12,0,0,1,0,False
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,500000,national_capital_name_concordant,12.0,4,17,4,19,0,0,1,0,False
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,658032,national_capital_name_concordant,12.0,4,24,4,24,0,0,1,0,False

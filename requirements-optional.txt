@@ -1,0 +1,2 @@
+# Optional, only for reading archived Parquet snapshots, not the verified CPU commands.
+pyarrow

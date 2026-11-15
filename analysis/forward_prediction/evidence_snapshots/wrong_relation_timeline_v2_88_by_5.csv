@@ -1,0 +1,441 @@
+uid,fact_id,subject,wrong_answer,wrong_entity,step,other_relation_fragments,other_relation_exposure_lower_bound,earliest_observed_other_relation,target_capital_conflict_confirmed,interpretation
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,Asunción,https://www.geonames.org/3439389,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,Asunción,https://www.geonames.org/3439389,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,Asunción,https://www.geonames.org/3439389,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,Asunción,https://www.geonames.org/3439389,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1278811_422_271978,wd:Q414|P36|wd:Q1486|p1_unqualified_target,Argentina,Asunción,https://www.geonames.org/3439389,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Cairo,https://www.geonames.org/360630,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Cairo,https://www.geonames.org/360630,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Cairo,https://www.geonames.org/360630,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Cairo,https://www.geonames.org/360630,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Cairo,https://www.geonames.org/360630,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Doha,https://www.geonames.org/290030,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Doha,https://www.geonames.org/290030,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Doha,https://www.geonames.org/290030,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Doha,https://www.geonames.org/290030,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Doha,https://www.geonames.org/290030,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Kassel,https://www.geonames.org/2892518,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Kassel,https://www.geonames.org/2892518,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Kassel,https://www.geonames.org/2892518,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Kassel,https://www.geonames.org/2892518,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Kassel,https://www.geonames.org/2892518,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Lucca,https://www.geonames.org/3174530,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Lucca,https://www.geonames.org/3174530,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Lucca,https://www.geonames.org/3174530,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Lucca,https://www.geonames.org/3174530,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+13026_422_1160571,wd:Q1028|P36|wd:Q3551|p1_unqualified_target,Morocco,Lucca,https://www.geonames.org/3174530,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bogotá,https://www.geonames.org/3688689,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bogotá,https://www.geonames.org/3688689,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bogotá,https://www.geonames.org/3688689,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bogotá,https://www.geonames.org/3688689,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bogotá,https://www.geonames.org/3688689,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bremen,https://www.geonames.org/2944388,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bremen,https://www.geonames.org/2944388,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bremen,https://www.geonames.org/2944388,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bremen,https://www.geonames.org/2944388,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Bremen,https://www.geonames.org/2944388,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Kigali,https://www.geonames.org/202061,10000,1,1,5400.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Kigali,https://www.geonames.org/202061,170000,1,1,5400.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Kigali,https://www.geonames.org/202061,340000,1,3,5400.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Kigali,https://www.geonames.org/202061,500000,1,4,5400.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Kigali,https://www.geonames.org/202061,658032,1,6,5400.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Nairobi,https://www.geonames.org/184745,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Nairobi,https://www.geonames.org/184745,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Nairobi,https://www.geonames.org/184745,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Nairobi,https://www.geonames.org/184745,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Nairobi,https://www.geonames.org/184745,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Uppsala,https://www.geonames.org/2666199,10000,0,0,44688.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Uppsala,https://www.geonames.org/2666199,170000,1,2,44688.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Uppsala,https://www.geonames.org/2666199,340000,1,3,44688.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Uppsala,https://www.geonames.org/2666199,500000,1,4,44688.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+17917_422_1240896,wd:Q1036|P36|wd:Q3894|p1_unqualified_target,Uganda,Uppsala,https://www.geonames.org/2666199,658032,1,6,44688.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Bandung,https://www.geonames.org/1650357,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Bandung,https://www.geonames.org/1650357,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Bandung,https://www.geonames.org/1650357,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Bandung,https://www.geonames.org/1650357,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Bandung,https://www.geonames.org/1650357,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Mombasa,https://www.geonames.org/186301,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Mombasa,https://www.geonames.org/186301,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Mombasa,https://www.geonames.org/186301,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Mombasa,https://www.geonames.org/186301,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,Mombasa,https://www.geonames.org/186301,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,São Paulo,https://www.geonames.org/3448439,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,São Paulo,https://www.geonames.org/3448439,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,São Paulo,https://www.geonames.org/3448439,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,São Paulo,https://www.geonames.org/3448439,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+1930274_422_2897238,wd:Q574|P36|wd:Q9310|p1_unqualified_target,East Timor,São Paulo,https://www.geonames.org/3448439,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,Kabul,https://www.geonames.org/1138958,10000,0,0,32919.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,Kabul,https://www.geonames.org/1138958,170000,6,9,32919.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,Kabul,https://www.geonames.org/1138958,340000,6,18,32919.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,Kabul,https://www.geonames.org/1138958,500000,6,28,32919.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2215085_422_2938512,wd:Q668|P36|wd:Q987|p1_unqualified_target,India,Kabul,https://www.geonames.org/1138958,658032,6,36,32919.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Auckland,https://www.geonames.org/2193733,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Auckland,https://www.geonames.org/2193733,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Auckland,https://www.geonames.org/2193733,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Auckland,https://www.geonames.org/2193733,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Auckland,https://www.geonames.org/2193733,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Honiara,https://www.geonames.org/2108502,10000,0,0,20192.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Honiara,https://www.geonames.org/2108502,170000,1,1,20192.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Honiara,https://www.geonames.org/2108502,340000,1,3,20192.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Honiara,https://www.geonames.org/2108502,500000,1,5,20192.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Honiara,https://www.geonames.org/2108502,658032,1,6,20192.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Nuku'alofa,https://www.geonames.org/4032402,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Nuku'alofa,https://www.geonames.org/4032402,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Nuku'alofa,https://www.geonames.org/4032402,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Nuku'alofa,https://www.geonames.org/4032402,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Nuku'alofa,https://www.geonames.org/4032402,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Suva,https://www.geonames.org/2198148,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Suva,https://www.geonames.org/2198148,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Suva,https://www.geonames.org/2198148,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Suva,https://www.geonames.org/2198148,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2229286_422_1117033,wd:Q672|P36|wd:Q34126|p1_unqualified_target,Tuvalu,Suva,https://www.geonames.org/2198148,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Dakar,https://www.geonames.org/2253354,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Dakar,https://www.geonames.org/2253354,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Dakar,https://www.geonames.org/2253354,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Dakar,https://www.geonames.org/2253354,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Dakar,https://www.geonames.org/2253354,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Conakry,https://www.geonames.org/2422465,10000,0,0,16526.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Conakry,https://www.geonames.org/2422465,170000,2,3,16526.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Conakry,https://www.geonames.org/2422465,340000,2,6,16526.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Conakry,https://www.geonames.org/2422465,500000,2,9,16526.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+22615_422_1213549,wd:Q1044|P36|wd:Q3780|p1_unqualified_target,Sierra Leone,Conakry,https://www.geonames.org/2422465,658032,2,12,16526.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Kuching,https://www.geonames.org/1735634,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Kuching,https://www.geonames.org/1735634,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Kuching,https://www.geonames.org/1735634,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Kuching,https://www.geonames.org/1735634,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Kuching,https://www.geonames.org/1735634,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Honiara,https://www.geonames.org/2108502,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Honiara,https://www.geonames.org/2108502,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Honiara,https://www.geonames.org/2108502,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Honiara,https://www.geonames.org/2108502,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2306964_422_1183349,wd:Q691|P36|wd:Q36526|p1_unqualified_target,Papua New Guinea,Honiara,https://www.geonames.org/2108502,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,Brasilia,https://www.geonames.org/3469058,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,Brasilia,https://www.geonames.org/3469058,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,Brasilia,https://www.geonames.org/3469058,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,Brasilia,https://www.geonames.org/3469058,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,Brasilia,https://www.geonames.org/3469058,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,São Paulo,https://www.geonames.org/3448439,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,São Paulo,https://www.geonames.org/3448439,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,São Paulo,https://www.geonames.org/3448439,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,São Paulo,https://www.geonames.org/3448439,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2410830_422_308418,wd:Q717|P36|wd:Q1533|p1_unqualified_target,Venezuela,São Paulo,https://www.geonames.org/3448439,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Aachen,https://www.geonames.org/3247449,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Aachen,https://www.geonames.org/3247449,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Aachen,https://www.geonames.org/3247449,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Aachen,https://www.geonames.org/3247449,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Aachen,https://www.geonames.org/3247449,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Surin,https://www.geonames.org/1606030,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Surin,https://www.geonames.org/1606030,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Surin,https://www.geonames.org/1606030,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Surin,https://www.geonames.org/1606030,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Surin,https://www.geonames.org/1606030,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Willemstad,https://www.geonames.org/3513090,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Willemstad,https://www.geonames.org/3513090,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Willemstad,https://www.geonames.org/3513090,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Willemstad,https://www.geonames.org/3513090,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2471806_422_988746,wd:Q730|P36|wd:Q3001|p1_unqualified_target,Suriname,Willemstad,https://www.geonames.org/3513090,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Bogotá,https://www.geonames.org/3688689,10000,0,0,55044.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Bogotá,https://www.geonames.org/3688689,170000,1,2,55044.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Bogotá,https://www.geonames.org/3688689,340000,1,3,55044.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Bogotá,https://www.geonames.org/3688689,500000,1,5,55044.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Bogotá,https://www.geonames.org/3688689,658032,1,6,55044.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Uppsala,https://www.geonames.org/2666199,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Uppsala,https://www.geonames.org/2666199,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Uppsala,https://www.geonames.org/2666199,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Uppsala,https://www.geonames.org/2666199,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2505797_422_962576,wd:Q736|P36|wd:Q2900|p1_unqualified_target,Ecuador,Uppsala,https://www.geonames.org/2666199,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Doha,https://www.geonames.org/290030,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Doha,https://www.geonames.org/290030,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Doha,https://www.geonames.org/290030,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Doha,https://www.geonames.org/290030,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Doha,https://www.geonames.org/290030,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Bridgetown,https://www.geonames.org/3374036,10000,0,0,37216.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Bridgetown,https://www.geonames.org/3374036,170000,1,2,37216.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Bridgetown,https://www.geonames.org/3374036,340000,1,3,37216.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Bridgetown,https://www.geonames.org/3374036,500000,1,4,37216.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2580354_422_1246306,wd:Q754|P36|wd:Q39178|p1_unqualified_target,Trinidad and Tobago,Bridgetown,https://www.geonames.org/3374036,658032,1,6,37216.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Harare,https://www.geonames.org/890299,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Harare,https://www.geonames.org/890299,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Harare,https://www.geonames.org/890299,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Harare,https://www.geonames.org/890299,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Harare,https://www.geonames.org/890299,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,São Paulo,https://www.geonames.org/3448439,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,São Paulo,https://www.geonames.org/3448439,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,São Paulo,https://www.geonames.org/3448439,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,São Paulo,https://www.geonames.org/3448439,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,São Paulo,https://www.geonames.org/3448439,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Banjul,https://www.geonames.org/2413876,10000,0,0,40309.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Banjul,https://www.geonames.org/2413876,170000,1,2,40309.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Banjul,https://www.geonames.org/2413876,340000,1,3,40309.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Banjul,https://www.geonames.org/2413876,500000,1,5,40309.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Banjul,https://www.geonames.org/2413876,658032,1,6,40309.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Ouagadougou,https://www.geonames.org/2357048,10000,0,0,45990.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Ouagadougou,https://www.geonames.org/2357048,170000,2,3,45990.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Ouagadougou,https://www.geonames.org/2357048,340000,2,6,45990.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Ouagadougou,https://www.geonames.org/2357048,500000,2,8,45990.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Ouagadougou,https://www.geonames.org/2357048,658032,2,12,45990.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoussam,https://www.geonames.org/2235189,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoussam,https://www.geonames.org/2235189,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoussam,https://www.geonames.org/2235189,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoussam,https://www.geonames.org/2235189,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoussam,https://www.geonames.org/2235189,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Abidjan,https://www.geonames.org/2293538,10000,0,0,21846.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Abidjan,https://www.geonames.org/2293538,170000,2,3,21846.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Abidjan,https://www.geonames.org/2293538,340000,2,7,21846.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Abidjan,https://www.geonames.org/2293538,500000,2,9,21846.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Abidjan,https://www.geonames.org/2293538,658032,2,12,21846.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoulabé,https://www.geonames.org/2460755,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoulabé,https://www.geonames.org/2460755,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoulabé,https://www.geonames.org/2460755,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoulabé,https://www.geonames.org/2460755,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2727_422_1200955,wd:Q1006|P36|wd:Q3733|p1_unqualified_target,Guinea,Bafoulabé,https://www.geonames.org/2460755,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,Kabul,https://www.geonames.org/1138958,10000,0,0,25988.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,Kabul,https://www.geonames.org/1138958,170000,3,4,25988.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,Kabul,https://www.geonames.org/1138958,340000,3,10,25988.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,Kabul,https://www.geonames.org/1138958,500000,3,14,25988.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2763787_422_307093,wd:Q796|P36|wd:Q1530|p1_unqualified_target,Iraq,Kabul,https://www.geonames.org/1138958,658032,3,18,25988.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,Doha,https://www.geonames.org/290030,10000,0,0,24319.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,Doha,https://www.geonames.org/290030,170000,1,1,24319.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,Doha,https://www.geonames.org/290030,340000,1,3,24319.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,Doha,https://www.geonames.org/290030,500000,1,5,24319.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825351_422_1219073,wd:Q810|P36|wd:Q3805|p1_unqualified_target,Jordan,Doha,https://www.geonames.org/290030,658032,1,6,24319.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Miguel de Allende,https://www.geonames.org/3985344,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Miguel de Allende,https://www.geonames.org/3985344,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Miguel de Allende,https://www.geonames.org/3985344,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Miguel de Allende,https://www.geonames.org/3985344,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Miguel de Allende,https://www.geonames.org/3985344,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Salvador,https://www.geonames.org/3583361,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Salvador,https://www.geonames.org/3583361,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Salvador,https://www.geonames.org/3583361,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Salvador,https://www.geonames.org/3583361,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2825766_422_1073673,wd:Q811|P36|wd:Q3274|p1_unqualified_target,Nicaragua,San Salvador,https://www.geonames.org/3583361,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Cairo,https://www.geonames.org/360630,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Cairo,https://www.geonames.org/360630,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Cairo,https://www.geonames.org/360630,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Cairo,https://www.geonames.org/360630,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Cairo,https://www.geonames.org/360630,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Mumbai,https://www.geonames.org/1275339,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Mumbai,https://www.geonames.org/1275339,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Mumbai,https://www.geonames.org/1275339,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Mumbai,https://www.geonames.org/1275339,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Mumbai,https://www.geonames.org/1275339,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,New York City,https://www.geonames.org/5128581,10000,0,0,71850.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,New York City,https://www.geonames.org/5128581,170000,3,5,71850.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,New York City,https://www.geonames.org/5128581,340000,3,9,71850.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,New York City,https://www.geonames.org/5128581,500000,3,12,71850.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,New York City,https://www.geonames.org/5128581,658032,3,18,71850.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Doha,https://www.geonames.org/290030,10000,0,0,89741.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Doha,https://www.geonames.org/290030,170000,1,2,89741.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Doha,https://www.geonames.org/290030,340000,1,3,89741.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Doha,https://www.geonames.org/290030,500000,1,5,89741.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2863349_422_293688,wd:Q878|P36|wd:Q1519|p1_unqualified_target,United Arab Emirates,Doha,https://www.geonames.org/290030,658032,1,6,89741.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Kabul,https://www.geonames.org/1138958,10000,0,0,24327.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Kabul,https://www.geonames.org/1138958,170000,6,10,24327.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Kabul,https://www.geonames.org/1138958,340000,6,19,24327.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Kabul,https://www.geonames.org/1138958,500000,6,28,24327.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Kabul,https://www.geonames.org/1138958,658032,6,36,24327.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Seoul,https://www.geonames.org/1835848,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Seoul,https://www.geonames.org/1835848,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Seoul,https://www.geonames.org/1835848,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Seoul,https://www.geonames.org/1835848,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Seoul,https://www.geonames.org/1835848,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Phnom Penh,https://www.geonames.org/1821306,10000,0,0,35432.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Phnom Penh,https://www.geonames.org/1821306,170000,1,2,35432.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Phnom Penh,https://www.geonames.org/1821306,340000,1,3,35432.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Phnom Penh,https://www.geonames.org/1821306,500000,1,5,35432.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2864945_422_627146,wd:Q881|P36|wd:Q1858|p1_unqualified_target,Vietnam,Phnom Penh,https://www.geonames.org/1821306,658032,1,6,35432.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Homs,https://www.geonames.org/169577,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Homs,https://www.geonames.org/169577,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Homs,https://www.geonames.org/169577,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Homs,https://www.geonames.org/169577,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Homs,https://www.geonames.org/169577,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Khartoum,https://www.geonames.org/379252,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Khartoum,https://www.geonames.org/379252,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Khartoum,https://www.geonames.org/379252,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Khartoum,https://www.geonames.org/379252,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Khartoum,https://www.geonames.org/379252,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bani Walid,https://www.geonames.org/2218840,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bani Walid,https://www.geonames.org/2218840,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bani Walid,https://www.geonames.org/2218840,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bani Walid,https://www.geonames.org/2218840,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bani Walid,https://www.geonames.org/2218840,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bonnyrigg,https://www.geonames.org/2655210,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bonnyrigg,https://www.geonames.org/2655210,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bonnyrigg,https://www.geonames.org/2655210,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bonnyrigg,https://www.geonames.org/2655210,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2910890_422_1167128,wd:Q948|P36|wd:Q3572|p1_unqualified_target,Tunisia,Bonnyrigg,https://www.geonames.org/2655210,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Addis Ababa,https://www.geonames.org/344979,10000,0,0,19614.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Addis Ababa,https://www.geonames.org/344979,170000,2,3,19614.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Addis Ababa,https://www.geonames.org/344979,340000,2,6,19614.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Addis Ababa,https://www.geonames.org/344979,500000,2,8,19614.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Addis Ababa,https://www.geonames.org/344979,658032,2,12,19614.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Khartoum,https://www.geonames.org/379252,10000,1,1,582.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Khartoum,https://www.geonames.org/379252,170000,2,3,582.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Khartoum,https://www.geonames.org/379252,340000,2,6,582.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Khartoum,https://www.geonames.org/379252,500000,2,9,582.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Khartoum,https://www.geonames.org/379252,658032,2,12,582.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Mombasa,https://www.geonames.org/186301,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Mombasa,https://www.geonames.org/186301,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Mombasa,https://www.geonames.org/186301,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Mombasa,https://www.geonames.org/186301,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Mombasa,https://www.geonames.org/186301,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Abuja,https://www.geonames.org/2352778,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Abuja,https://www.geonames.org/2352778,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Abuja,https://www.geonames.org/2352778,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Abuja,https://www.geonames.org/2352778,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Abuja,https://www.geonames.org/2352778,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Goma,https://www.geonames.org/216281,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Goma,https://www.geonames.org/216281,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Goma,https://www.geonames.org/216281,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Goma,https://www.geonames.org/216281,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Goma,https://www.geonames.org/216281,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Malakoff,https://www.geonames.org/2996514,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Malakoff,https://www.geonames.org/2996514,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Malakoff,https://www.geonames.org/2996514,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Malakoff,https://www.geonames.org/2996514,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2917911_422_673295,wd:Q958|P36|wd:Q1947|p1_unqualified_target,South Sudan,Malakoff,https://www.geonames.org/2996514,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Gaborone,https://www.geonames.org/933773,10000,1,1,5874.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Gaborone,https://www.geonames.org/933773,170000,1,2,5874.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Gaborone,https://www.geonames.org/933773,340000,1,4,5874.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Gaborone,https://www.geonames.org/933773,500000,1,4,5874.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Gaborone,https://www.geonames.org/933773,658032,1,6,5874.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Kigali,https://www.geonames.org/202061,10000,0,0,33851.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Kigali,https://www.geonames.org/202061,170000,3,5,33851.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Kigali,https://www.geonames.org/202061,340000,3,9,33851.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Kigali,https://www.geonames.org/202061,500000,3,15,33851.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Kigali,https://www.geonames.org/202061,658032,3,18,33851.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Mombasa,https://www.geonames.org/186301,10000,0,0,50413.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Mombasa,https://www.geonames.org/186301,170000,1,2,50413.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Mombasa,https://www.geonames.org/186301,340000,1,3,50413.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Mombasa,https://www.geonames.org/186301,500000,1,5,50413.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Mombasa,https://www.geonames.org/186301,658032,1,6,50413.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Brazzaville,https://www.geonames.org/2260535,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Brazzaville,https://www.geonames.org/2260535,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Brazzaville,https://www.geonames.org/2260535,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Brazzaville,https://www.geonames.org/2260535,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+2929247_422_1228630,wd:Q974|P36|wd:Q3838|p1_unqualified_target,Democratic Republic of the Congo,Brazzaville,https://www.geonames.org/2260535,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Belgrade,https://www.geonames.org/792680,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Belgrade,https://www.geonames.org/792680,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Belgrade,https://www.geonames.org/792680,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Belgrade,https://www.geonames.org/792680,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Belgrade,https://www.geonames.org/792680,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Krasnoyarsk,https://www.geonames.org/1502026,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Krasnoyarsk,https://www.geonames.org/1502026,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Krasnoyarsk,https://www.geonames.org/1502026,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Krasnoyarsk,https://www.geonames.org/1502026,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Krasnoyarsk,https://www.geonames.org/1502026,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Riga,https://www.geonames.org/456172,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Riga,https://www.geonames.org/456172,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Riga,https://www.geonames.org/456172,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Riga,https://www.geonames.org/456172,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+621629_422_782955,wd:Q184|P36|wd:Q2280|p1_unqualified_target,Belarus,Riga,https://www.geonames.org/456172,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Auckland,https://www.geonames.org/2193733,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Auckland,https://www.geonames.org/2193733,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Auckland,https://www.geonames.org/2193733,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Auckland,https://www.geonames.org/2193733,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Auckland,https://www.geonames.org/2193733,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Oudtshoorn,https://www.geonames.org/967106,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Oudtshoorn,https://www.geonames.org/967106,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Oudtshoorn,https://www.geonames.org/967106,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Oudtshoorn,https://www.geonames.org/967106,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+702887_422_1968117,wd:Q20|P36|wd:Q585|p1_unqualified_target,Norway,Oudtshoorn,https://www.geonames.org/967106,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Budapest,https://www.geonames.org/3054643,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Budapest,https://www.geonames.org/3054643,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Budapest,https://www.geonames.org/3054643,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Budapest,https://www.geonames.org/3054643,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Budapest,https://www.geonames.org/3054643,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Plovdiv,https://www.geonames.org/728193,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Plovdiv,https://www.geonames.org/728193,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Plovdiv,https://www.geonames.org/728193,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Plovdiv,https://www.geonames.org/728193,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Plovdiv,https://www.geonames.org/728193,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Prague,https://www.geonames.org/3067696,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Prague,https://www.geonames.org/3067696,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Prague,https://www.geonames.org/3067696,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Prague,https://www.geonames.org/3067696,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Prague,https://www.geonames.org/3067696,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Riga,https://www.geonames.org/456172,10000,0,0,53310.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Riga,https://www.geonames.org/456172,170000,1,2,53310.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Riga,https://www.geonames.org/456172,340000,1,3,53310.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Riga,https://www.geonames.org/456172,500000,1,4,53310.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+746755_422_573471,wd:Q214|P36|wd:Q1780|p1_unqualified_target,Slovakia,Riga,https://www.geonames.org/456172,658032,1,6,53310.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Bratislava,https://www.geonames.org/3060972,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Bratislava,https://www.geonames.org/3060972,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Bratislava,https://www.geonames.org/3060972,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Bratislava,https://www.geonames.org/3060972,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Bratislava,https://www.geonames.org/3060972,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Rijeka,https://www.geonames.org/3191648,10000,0,0,68182.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Rijeka,https://www.geonames.org/3191648,170000,1,1,68182.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Rijeka,https://www.geonames.org/3191648,340000,1,3,68182.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Rijeka,https://www.geonames.org/3191648,500000,1,5,68182.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+749148_422_1308417,wd:Q215|P36|wd:Q437|p1_unqualified_target,Slovenia,Rijeka,https://www.geonames.org/3191648,658032,1,6,68182.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Kragujevac,https://www.geonames.org/789128,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Kragujevac,https://www.geonames.org/789128,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Kragujevac,https://www.geonames.org/789128,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Kragujevac,https://www.geonames.org/789128,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Kragujevac,https://www.geonames.org/789128,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Ljubljana,https://www.geonames.org/3196359,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Ljubljana,https://www.geonames.org/3196359,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Ljubljana,https://www.geonames.org/3196359,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Ljubljana,https://www.geonames.org/3196359,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Ljubljana,https://www.geonames.org/3196359,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zadar,https://www.geonames.org/3186952,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zadar,https://www.geonames.org/3186952,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zadar,https://www.geonames.org/3186952,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zadar,https://www.geonames.org/3186952,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zadar,https://www.geonames.org/3186952,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zvenigorod,https://www.geonames.org/461920,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zvenigorod,https://www.geonames.org/461920,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zvenigorod,https://www.geonames.org/461920,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zvenigorod,https://www.geonames.org/461920,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+763428_422_1229034,wd:Q221|P36|wd:Q384|p1_unqualified_target,North Macedonia,Zvenigorod,https://www.geonames.org/461920,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Bratislava,https://www.geonames.org/3060972,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Bratislava,https://www.geonames.org/3060972,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Bratislava,https://www.geonames.org/3060972,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Bratislava,https://www.geonames.org/3060972,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Bratislava,https://www.geonames.org/3060972,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Ljubljana,https://www.geonames.org/3196359,10000,0,0,90120.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Ljubljana,https://www.geonames.org/3196359,170000,1,2,90120.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Ljubljana,https://www.geonames.org/3196359,340000,1,3,90120.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Ljubljana,https://www.geonames.org/3196359,500000,1,4,90120.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Ljubljana,https://www.geonames.org/3196359,658032,1,6,90120.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Skopje,https://www.geonames.org/785842,10000,0,0,104073.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Skopje,https://www.geonames.org/785842,170000,1,2,104073.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Skopje,https://www.geonames.org/785842,340000,1,3,104073.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Skopje,https://www.geonames.org/785842,500000,1,5,104073.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Skopje,https://www.geonames.org/785842,658032,1,6,104073.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Mostar,https://www.geonames.org/3194828,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Mostar,https://www.geonames.org/3194828,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Mostar,https://www.geonames.org/3194828,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Mostar,https://www.geonames.org/3194828,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+772386_422_236652,wd:Q224|P36|wd:Q1435|p1_unqualified_target,Croatia,Mostar,https://www.geonames.org/3194828,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Dushanbe,https://www.geonames.org/1221874,10000,1,1,8667.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Dushanbe,https://www.geonames.org/1221874,170000,1,2,8667.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Dushanbe,https://www.geonames.org/1221874,340000,1,3,8667.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Dushanbe,https://www.geonames.org/1221874,500000,1,5,8667.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Dushanbe,https://www.geonames.org/1221874,658032,1,6,8667.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Gorgan,https://www.geonames.org/132892,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Gorgan,https://www.geonames.org/132892,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Gorgan,https://www.geonames.org/132892,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Gorgan,https://www.geonames.org/132892,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Gorgan,https://www.geonames.org/132892,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Kars,https://www.geonames.org/743952,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Kars,https://www.geonames.org/743952,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Kars,https://www.geonames.org/743952,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Kars,https://www.geonames.org/743952,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Kars,https://www.geonames.org/743952,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Tashkent,https://www.geonames.org/1512569,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Tashkent,https://www.geonames.org/1512569,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Tashkent,https://www.geonames.org/1512569,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Tashkent,https://www.geonames.org/1512569,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Tashkent,https://www.geonames.org/1512569,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Yerevan,https://www.geonames.org/616052,10000,0,0,87661.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Yerevan,https://www.geonames.org/616052,170000,1,2,87661.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Yerevan,https://www.geonames.org/616052,340000,1,3,87661.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Yerevan,https://www.geonames.org/616052,500000,1,5,87661.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+780040_422_2891922,wd:Q227|P36|wd:Q9248|p1_unqualified_target,Azerbaijan,Yerevan,https://www.geonames.org/616052,658032,1,6,87661.0,False,observed_context_lower_bound_not_complete_corpus_frequency
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,Portadown,https://www.geonames.org/2640085,10000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,Portadown,https://www.geonames.org/2640085,170000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,Portadown,https://www.geonames.org/2640085,340000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,Portadown,https://www.geonames.org/2640085,500000,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency
+906806_422_561639,wd:Q27|P36|wd:Q1761|p1_unqualified_target,Ireland,Portadown,https://www.geonames.org/2640085,658032,0,0,,False,observed_context_lower_bound_not_complete_corpus_frequency

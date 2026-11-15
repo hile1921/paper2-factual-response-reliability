@@ -1,0 +1,9 @@
+subject,n,correct,correct_t0,correct_t1,passes_predefined_gate,selected_for_future
+Argentina,6,3,1,2,False,False
+Belarus,6,3,1,2,False,False
+India,6,3,1,2,False,False
+Morocco,6,0,0,0,False,False
+North Macedonia,6,2,0,2,False,False
+Slovenia,6,2,0,2,False,False
+Uganda,6,1,0,1,False,False
+Vietnam,6,1,0,1,False,False

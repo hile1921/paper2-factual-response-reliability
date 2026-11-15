@@ -1,0 +1,19 @@
+target_country,wrong_answer,wrong_of,false_country,probe_id,template,false_country_type,false_country_is_valid_country,false_country_equals_target,false_country_equals_wrong_of,wrong_answer_is_actual_capital_of_false_country,verification_source,verification_status,subset
+Belarus,Baku,Azerbaijan,Argentina,v9|Belarus|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Canada,Taipei,Taiwan,Greece,v9|Canada|Taipei|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Croatia,Baku,Azerbaijan,Argentina,v9|Croatia|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Democratic Republic of the Congo,Kampala,Uganda,Canada,v9|Democratic Republic of the Congo|Kampala|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+French Guiana,Managua,Nicaragua,Argentina,v9|French Guiana|Managua|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Guinea,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Guinea|Kinshasa|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Iraq,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Iraq|Abu Dhabi|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Jordan,Baku,Azerbaijan,Argentina,v9|Jordan|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Morocco,Amman,Jordan,Canada,v9|Morocco|Amman|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Nicaragua,Caracas,Venezuela,Argentina,v9|Nicaragua|Caracas|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Norway,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Norway|Port of Spain|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+People's Republic of China,Taipei,Taiwan,Canada,v9|People's Republic of China|Taipei|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Russia,Baku,Azerbaijan,Argentina,v9|Russia|Baku|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Sierra Leone,Kinshasa,Democratic Republic of the Congo,People's Republic of China,v9|Sierra Leone|Kinshasa|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+South Sudan,Kampala,Uganda,Canada,v9|South Sudan|Kampala|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Suriname,Port of Spain,Trinidad and Tobago,United Arab Emirates,v9|Suriname|Port of Spain|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Trinidad and Tobago,Managua,Nicaragua,Argentina,v9|Trinidad and Tobago|Managua|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control
+Tunisia,Abu Dhabi,United Arab Emirates,Trinidad and Tobago,v9|Tunisia|Abu Dhabi|t0|F_false,0,sovereign_country,1,0,0,0,FACT_PANEL capital lookup,verified,valid_country_F_control

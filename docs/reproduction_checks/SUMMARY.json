@@ -1,0 +1,10 @@
+{
+  "core_phases": 5,
+  "tables_compared": 55,
+  "all_core_statistical_comparisons_passed": true,
+  "exact_raw_source_join_and_label_replay": true,
+  "raw_training_outputs": 319410,
+  "context_outputs": 414400,
+  "positive_control_encoding_warning": true,
+  "public_release": false
+}

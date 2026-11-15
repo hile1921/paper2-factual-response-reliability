@@ -1,0 +1,114 @@
+{
+  "phase": "matched_preferences",
+  "seconds": 5.37,
+  "comparisons": [
+    {
+      "table": "ACTUAL_WRONG_CANDIDATE_COVERAGE.csv",
+      "pass": true,
+      "rows": 88
+    },
+    {
+      "table": "ACTUAL_WRONG_EVENT_SUMMARY.csv",
+      "pass": true,
+      "rows": 4
+    },
+    {
+      "table": "ACTUAL_WRONG_EXCLUDED_EVENTS.csv",
+      "pass": true,
+      "rows": 2
+    },
+    {
+      "table": "ACTUAL_WRONG_MATCHED_EVENTS.csv",
+      "pass": true,
+      "rows": 118
+    },
+    {
+      "table": "COVERAGE_BY_STAGE.csv",
+      "pass": true,
+      "rows": 5
+    },
+    {
+      "table": "COVERAGE_GRID.csv",
+      "pass": true,
+      "rows": 450
+    },
+    {
+      "table": "ENDPOINT_FACT_DATA.csv",
+      "pass": true,
+      "rows": 522
+    },
+    {
+      "table": "LINKED_OUTPUTS_WITH_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 1960
+    },
+    {
+      "table": "MATCHED_FACT_CHECKPOINT_PANEL.csv",
+      "pass": true,
+      "rows": 784
+    },
+    {
+      "table": "MISSING_GENERATION_CELLS.csv",
+      "pass": true,
+      "rows": 58
+    },
+    {
+      "table": "NAME_VERIFICATION_DISAGREEMENT_COUNTS.csv",
+      "pass": true,
+      "rows": 22
+    },
+    {
+      "table": "NAME_VS_VERIFICATION_DISAGREEMENTS.csv",
+      "pass": true,
+      "rows": 404
+    },
+    {
+      "table": "NONINCREASE_CASE_FORM_COUNTS.csv",
+      "pass": true,
+      "rows": 16
+    },
+    {
+      "table": "PAIRED_ENDPOINT_CHANGES.csv",
+      "pass": true,
+      "rows": 132
+    },
+    {
+      "table": "POSTHOC_OUTPUT_FORM_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 1960
+    },
+    {
+      "table": "PROMPT_MISMATCHES.csv",
+      "pass": true,
+      "rows": 0
+    },
+    {
+      "table": "RECOMPUTED_CANDIDATE_SCORES.csv",
+      "pass": true,
+      "rows": 450
+    },
+    {
+      "table": "SEVEN_NONINCREASE_CASES_LATE_OUTPUTS.csv",
+      "pass": true,
+      "rows": 28
+    },
+    {
+      "table": "STAGE_SUMMARY.csv",
+      "pass": true,
+      "rows": 484
+    },
+    {
+      "table": "TRANSITION_DIAGNOSTICS.csv",
+      "pass": true,
+      "rows": 48
+    },
+    {
+      "table": "WITHIN_FACT_CHANGE_ASSOCIATIONS.csv",
+      "pass": true,
+      "rows": 144
+    }
+  ],
+  "passed": true,
+  "archived_tables_not_recomputed": [],
+  "scope": "Recompute saved analyses with the original rules; no GPU or network."
+}

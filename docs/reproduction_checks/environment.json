@@ -1,0 +1,13 @@
+{
+  "python": "3.13.15",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1"
+  },
+  "MATLAB": "R2026a used for reference figures; not rerun in repository preparation",
+  "gpu_used": false,
+  "repository_visibility": "Private, directly observed in logged-in GitHub page; unchanged"
+}

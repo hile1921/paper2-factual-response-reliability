@@ -1,0 +1,17 @@
+subj,gold_opening_form,outputs
+Canada,locative,4
+Czech Republic,direct_name,3
+Czech Republic,locative,1
+Norway,locative,3
+Norway,not_matched,1
+People's Republic of China,direct_name,1
+People's Republic of China,locative,3
+Russia,direct_name,1
+Russia,locative,2
+Russia,temporal_modifier,1
+Suriname,capital_designation,1
+Suriname,locative,1
+Suriname,not_matched,2
+Thailand,direct_name,1
+Thailand,locative,2
+Thailand,not_matched,1

@@ -1,0 +1,5 @@
+arm,view,original,text,token_ids,tokens
+T,0,Belmopan serves as the capital of Belize.,Belmopan serves as the capital of Belize. . . . . .,"[22404, 76, 454, 276, 17482, 439, 279, 6864, 315, 98104, 13, 662, 662, 662, 662, 662]",16
+C,0,Names: Belmopan; Belize. Topic word: capital.,Names: Belmopan; Belize. Topic word: capital. . .,"[8139, 25, 7984, 76, 454, 276, 26, 98104, 13, 34011, 3492, 25, 6864, 13, 662, 662]",16
+T,1,Belize has its capital in Belmopan.,Belize has its capital in Belmopan. . . . . .,"[33, 19976, 706, 1202, 6864, 304, 7984, 76, 454, 276, 13, 662, 662, 662, 662, 662]",16
+C,1,Names: Belize; Belmopan. Topic word: capital.,Names: Belize; Belmopan. Topic word: capital. . .,"[8139, 25, 98104, 26, 7984, 76, 454, 276, 13, 34011, 3492, 25, 6864, 13, 662, 662]",16

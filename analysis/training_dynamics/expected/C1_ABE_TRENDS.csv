@@ -1,0 +1,13 @@
+model,variable,n,spearman,ci_lo,ci_hi,excludes_zero
+AMBER-7B,A_scorable,3,,,,False
+AMBER-7B,B_cond_error,2,,,,False
+AMBER-7B,E_confirmed,3,,,,False
+OLMo-1B,A_scorable,3,,,,False
+OLMo-1B,B_cond_error,3,,,,False
+OLMo-1B,E_confirmed,3,,,,False
+Pythia-1B,A_scorable,55,0.962,0.82,0.972,True
+Pythia-1B,B_cond_error,45,-0.801,-0.933,-0.611,True
+Pythia-1B,E_confirmed,55,0.459,-0.334,0.812,False
+Pythia-410M,A_scorable,56,0.973,0.866,0.985,True
+Pythia-410M,B_cond_error,44,-0.921,-0.937,-0.709,True
+Pythia-410M,E_confirmed,56,0.742,0.245,0.908,True

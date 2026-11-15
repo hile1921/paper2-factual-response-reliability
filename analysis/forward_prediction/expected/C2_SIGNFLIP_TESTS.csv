@@ -1,0 +1,2 @@
+comparison,metric,observed,p_monte_carlo,B,seed,note
+M1-E vs M0,logloss_macro,0.0075335746098771205,0.7405025949740502,100000,20261113,subject-level sign-flip; exchangeability/symmetry assumption
